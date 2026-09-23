@@ -1,0 +1,16 @@
+[Thu Sep 17 19:29:52 2026] Start Analysis ...
+All samples Joint Processing chr1 3
+/mnt/d/stroke_apa_data/dapars2_chr1
+ Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+Traceback (most recent call last):
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 452, in <module>
+    De_Novo_3UTR_Identification_Loading_Target_Wig_for_TCGA_Multiple_Samples_Multiple_threads_Main3_shared_list(sys.argv)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 143, in De_Novo_3UTR_Identification_Loading_Target_Wig_for_TCGA_Multiple_Samples_Multiple_threads_Main3_shared_list
+    All_samples_sequencing_depths = load_sequencing_depth(sequencing_depth_file)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 91, in load_sequencing_depth
+    seq_depth_list.append(int(fields[-1]))
+ValueError: invalid literal for int() with base 10: 'depth'

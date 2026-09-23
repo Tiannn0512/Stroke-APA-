@@ -1,0 +1,1 @@
+Gene	fit_value	Predicted_Proximal_APA	Loci	/home/taylor/stroke_APA_work/sham1_PDUI	/home/taylor/stroke_APA_work/sham2_PDUI	/home/taylor/stroke_APA_work/day1_rep1_PDUI	/home/taylor/stroke_APA_work/day1_rep2_PDUI

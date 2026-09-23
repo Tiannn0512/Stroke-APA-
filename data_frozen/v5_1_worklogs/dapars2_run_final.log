@@ -1,0 +1,32 @@
+[Thu Sep 17 22:27:52 2026] Start Analysis ...
+All samples Joint Processing chr1 ...
+[Thu Sep 17 22:27:52 2026] Loading[49652326 52273421 39837975 39038280 38560545 40906253]
+#assigned events:
+366
+366
+366
+366
+366
+366
+365
+365
+/mnt/d/stroke_apa_data/dapars2_chr2
+[49652326 52273421 39837975 39038280 38560545 40906253]
+#assigned events:
+501
+501
+501
+501
+501
+501
+501
+500
+:27:58 2026] Loading Coverage Finished ...
+[Thu Sep 17 22:37:13 2026] Start Analysis ...
+All samples Joint Processing chr2 ...
+[Thu Sep 17 22:37:13 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+[Thu Sep 17 22:37:20 2026] Loading Coverage Finished ...

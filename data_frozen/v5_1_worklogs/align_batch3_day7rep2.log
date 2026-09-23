@@ -1,0 +1,38 @@
+[SKIP] sham1 (SRR25403070): already aligned, depth recomputed
+[SKIP] sham2 (SRR25403071): already aligned, depth recomputed
+[SKIP] day1_rep1 (SRR25403072): already aligned, depth recomputed
+[SKIP] day1_rep2 (SRR25403073): already aligned, depth recomputed
+[SKIP] day3_rep1 (SRR25403062): already aligned, depth recomputed
+[SKIP] day3_rep2 (SRR25403063): already aligned, depth recomputed
+[SKIP] day7_rep1 (SRR25403064): already aligned, depth recomputed
+[STEP] day7_rep2 (SRR25403065): fastp trim
+[STEP] day7_rep2: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day7_rep2_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day7_rep2_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day7_rep2_/ --outTmpDir /home/taylor/STARtmp/day7_rep2_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 09:46:41 ..... started STAR run
+Sep 18 09:46:41 ..... loading genome
+Sep 18 09:46:58 ..... started mapping
+Sep 18 10:04:23 ..... finished mapping
+Sep 18 10:04:25 ..... finished successfully
+[STEP] day7_rep2: sort + index
+[bam_sort_core] merging from 5 files and 4 in-memory blocks...
+[STEP] day7_rep2: bedgraph (-split) + depth
+[DONE] day7_rep2
+[SKIP] day21_rep1 (SRR25403066): already aligned, depth recomputed
+[SKIP] day21_rep2 (SRR25403067): already aligned, depth recomputed
+[SKIP] day60_rep1 (SRR25403068): already aligned, depth recomputed
+[SKIP] day60_rep2 (SRR25403069): already aligned, depth recomputed
+ALL SAMPLES PROCESSED. Depth table:
+day1_rep1	39837975
+day1_rep2	39038280
+day21_rep1	38391433
+day21_rep2	41344758
+day3_rep1	38560545
+day3_rep2	40906253
+day60_rep1	40347218
+day60_rep2	51568111
+day7_rep1	39861605
+day7_rep2	44513076
+sample	depth
+sham1	49652326
+sham2	52273421

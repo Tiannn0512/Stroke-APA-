@@ -1,0 +1,24 @@
+[rebuild2] start 2026-09-17 17:06:34
+[rebuild2] unpacking...
+[rebuild2] unpacked: gtf=887816948 fa=2776387546 2026-09-17 17:07:11
+[rebuild2] STAR genomeGenerate (sparseD2, ~40-90 min expected)...
+	/usr/lib/rna-star/bin/STAR-avx2 --runMode genomeGenerate --runThreadN 10 --genomeDir /home/taylor/reference_v2/STAR_index --genomeFastaFiles /home/taylor/reference_v2/genome.fa --sjdbGTFfile /home/taylor/reference_v2/gencode.vM25.annotation.gtf --sjdbOverhang 99 --genomeSAsparseD 2 --limitGenomeGenerateRAM 20000000000 --outFileNamePrefix /home/taylor/reference_v2/STARidx_log_
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 17 17:07:11 ..... started STAR run
+Sep 17 17:07:11 ... starting to generate Genome files
+Sep 17 17:07:56 ..... processing annotations GTF
+Sep 17 17:08:07 ... starting to sort Suffix Array. This may take a long time...
+Sep 17 17:08:19 ... sorting Suffix Array chunks and saving them to disk...
+Sep 17 18:08:34 ... loading chunks from disk, packing SA...
+Sep 17 18:10:21 ... finished generating suffix array
+Sep 17 18:10:21 ... generating Suffix Array index
+Sep 17 18:15:28 ... completed Suffix Array index
+Sep 17 18:15:29 ..... inserting junctions into the genome indices
+Sep 17 18:28:40 ... writing Genome to disk ...
+Sep 17 18:28:43 ... writing Suffix Array to disk ...
+Sep 17 18:29:05 ... writing SAindex to disk
+Sep 17 18:29:09 ..... finished successfully
+[rebuild2] STAR index exit=0 2026-09-17 18:29:10
+[rebuild2] Generate_Annotation failed (see gen_anno.log) - hand-build fallback needed
+[rebuild2] chromosomes.txt done
+[rebuild2] END 2026-09-17 18:29:10

@@ -1,0 +1,59 @@
+3
+/mnt/d/stroke_apa_data/dapars2/chunks/chr4_chr4
+[Fri Sep 18 10:12:17 2026] Start Analysis ...
+All samples Joint Processing chr4 ...
+[Fri Sep 18 10:12:17 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-2:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+/home/taylor/stroke_APA_work/day1_rep1.bedgraph
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/day1_rep1.bedgraph'
+[]
+#assigned events:
+611
+610
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/fromnumeric.py:3372: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+[Fri Sep 18 10:12:17 2026] Loading Coverage Finished ...
+Process Process-4:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000154922.7|ENSMUSG00000028232|Tmem68', 0)
+Process Process-5:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000145468.1|ENSMUSG00000028688|Toe1', 0)
+[Fri Sep 18 10:12:17 2026] Finished!

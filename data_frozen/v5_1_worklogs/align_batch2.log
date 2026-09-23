@@ -1,0 +1,81 @@
+[bam_sort_core] merging from 4 files and 4 in-memory blocks...
+[bam_sort_core] merging from 4 files and 4 in-memory blocks...
+[bam_sort_core] merging from 4 files and 4 in-memory blocks...
+[bam_sort_core] merging from 4 files and 4 in-memory blocks...
+[bam_sort_core] merging from 5 files and 4 in-memory blocks...
+mputed
+[SKIP] day3_rep2 (SRR25403063): already aligned, depth recomputed
+[STEP] day7_rep1 (SRR25403064): fastp trim
+[STEP] day7_rep1: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day7_rep1_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day7_rep1_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day7_rep1_/ --outTmpDir /home/taylor/STARtmp/day7_rep1_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 07:40:08 ..... started STAR run
+Sep 18 07:40:08 ..... loading genome
+Sep 18 07:41:20 ..... started mapping
+Sep 18 07:55:18 ..... finished mapping
+Sep 18 07:55:20 ..... finished successfully
+[STEP] day7_rep1: sort + index
+[STEP] day7_rep1: bedgraph (-split) + depth
+[DONE] day7_rep1
+[SKIP] day7_rep2 (SRR25403065): fastq missing
+[STEP] day21_rep1 (SRR25403066): fastp trim
+[STEP] day21_rep1: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day21_rep1_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day21_rep1_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day21_rep1_/ --outTmpDir /home/taylor/STARtmp/day21_rep1_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 08:02:58 ..... started STAR run
+Sep 18 08:02:58 ..... loading genome
+Sep 18 08:03:27 ..... started mapping
+Sep 18 08:16:38 ..... finished mapping
+Sep 18 08:16:40 ..... finished successfully
+[STEP] day21_rep1: sort + index
+[STEP] day21_rep1: bedgraph (-split) + depth
+[DONE] day21_rep1
+[STEP] day21_rep2 (SRR25403067): fastp trim
+[STEP] day21_rep2: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day21_rep2_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day21_rep2_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day21_rep2_/ --outTmpDir /home/taylor/STARtmp/day21_rep2_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 08:24:48 ..... started STAR run
+Sep 18 08:24:48 ..... loading genome
+Sep 18 08:25:40 ..... started mapping
+Sep 18 08:41:13 ..... finished mapping
+Sep 18 08:41:15 ..... finished successfully
+[STEP] day21_rep2: sort + index
+[STEP] day21_rep2: bedgraph (-split) + depth
+[DONE] day21_rep2
+[STEP] day60_rep1 (SRR25403068): fastp trim
+[STEP] day60_rep1: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day60_rep1_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day60_rep1_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day60_rep1_/ --outTmpDir /home/taylor/STARtmp/day60_rep1_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 08:50:11 ..... started STAR run
+Sep 18 08:50:11 ..... loading genome
+Sep 18 08:51:43 ..... started mapping
+Sep 18 09:05:56 ..... finished mapping
+Sep 18 09:05:59 ..... finished successfully
+[STEP] day60_rep1: sort + index
+[STEP] day60_rep1: bedgraph (-split) + depth
+[DONE] day60_rep1
+[STEP] day60_rep2 (SRR25403069): fastp trim
+[STEP] day60_rep2: STAR align
+	/usr/lib/rna-star/bin/STAR-avx2 --runThreadN 8 --genomeDir /home/taylor/reference_v2/STAR_index --readFilesIn /home/taylor/stroke_APA_work/day60_rep2_1.trimmed.fastq.gz /home/taylor/stroke_APA_work/day60_rep2_2.trimmed.fastq.gz --readFilesCommand zcat --outFileNamePrefix /home/taylor/stroke_APA_work/bam/day60_rep2_/ --outTmpDir /home/taylor/STARtmp/day60_rep2_STARtmp --outSAMtype BAM Unsorted --quantMode GeneCounts
+	STAR version: 2.7.11b   compiled: 2024-04-14T23:10:25+00:00 <place not set in Debian package>
+Sep 18 09:15:00 ..... started STAR run
+Sep 18 09:15:00 ..... loading genome
+Sep 18 09:16:36 ..... started mapping
+Sep 18 09:33:07 ..... finished mapping
+Sep 18 09:33:10 ..... finished successfully
+[STEP] day60_rep2: sort + index
+[STEP] day60_rep2: bedgraph (-split) + depth
+[DONE] day60_rep2
+ALL SAMPLES PROCESSED. Depth table:
+day1_rep1	39837975
+day1_rep2	39038280
+day21_rep1	38391433
+day21_rep2	41344758
+day3_rep1	38560545
+day3_rep2	40906253
+day60_rep1	40347218
+day60_rep2	51568111
+day7_rep1	39861605
+sample	depth
+sham1	49652326
+sham2	52273421

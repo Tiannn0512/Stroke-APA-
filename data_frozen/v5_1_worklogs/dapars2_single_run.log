@@ -1,0 +1,1917 @@
+[single] start 2026-09-18 10:21:23
+3
+/mnt/d/stroke_apa_data/dapars2_single_chr1
+[Fri Sep 18 10:21:24 2026] Start Analysis ...
+All samples Joint Processing chr1 ...
+[Fri Sep 18 10:21:24 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-2:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1177
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/fromnumeric.py:3372: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000070533.4|ENSMUSG00000051951|Xkr4', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr2
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr2 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-5:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1740
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-6:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000091505.10|ENSMUSG00000050530|Fam171a1', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr3
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr3 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-8:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+963
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-9:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000108394.2|ENSMUSG00000017688|Hnf4g', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr4
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr4 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-11:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1221
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-12:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000154922.7|ENSMUSG00000028232|Tmem68', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr5
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr5 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-14:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1220
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-15:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000183378.2|ENSMUSG00000098947|V1rg10', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr6
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr6 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-17:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1044
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-18:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000120087.5|ENSMUSG00000047735|Samd9l', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr7
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr7 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-20:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1831
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-21:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000171749.2|ENSMUSG00000054753|AU018091', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr8
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr8 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-23:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+986
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-24:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000208839.1|ENSMUSG00000005534|Insr', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr9
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr9 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-26:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1152
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-27:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000212358.1|ENSMUSG00000025899|Alkbh8', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr10
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr10 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-29:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+938
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-30:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000170893.2|ENSMUSG00000091618|H60c', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr11
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr11 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-32:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+1557
+[Fri Sep 18 10:21:25 2026] Loading Coverage Finished ...
+Process Process-33:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000132893.7|ENSMUSG00000023764|Sfi1', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr12
+[Fri Sep 18 10:21:25 2026] Start Analysis ...
+All samples Joint Processing chr12 ...
+[Fri Sep 18 10:21:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-35:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+623
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-36:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000021001.9|ENSMUSG00000020671|Rab10', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr13
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr13 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-38:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+797
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-39:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000223396.1|ENSMUSG00000021218|Gdi2', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr14
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr14 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-41:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+866
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-42:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000170521.7|ENSMUSG00000090487|Gm2888', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr15
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr15 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-44:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+757
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-45:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000082424.10|ENSMUSG00000064373|Selenop', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr16
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr16 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-47:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+646
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-48:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000216259.1|ENSMUSG00000051003|Olfr161', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr17
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr17 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-50:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+997
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-51:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000076734.7|ENSMUSG00000046201|Scaf8', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr18
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr18 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-53:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+497
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-54:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000134027.7|ENSMUSG00000063889|Crem', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chr19
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chr19 ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-56:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+692
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-57:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000154537.7|ENSMUSG00000024831|Ighmbp2', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chrX
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chrX ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-59:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+853
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-60:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000189190.1|ENSMUSG00000100249|Btbd35f23', 0)
+/mnt/d/stroke_apa_data/dapars2_single_chrY
+[Fri Sep 18 10:21:26 2026] Start Analysis ...
+All samples Joint Processing chrY ...
+[Fri Sep 18 10:21:26 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/sham1.bedgraph
+Process Process-62:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 360, in load_wig_funct_shared_dict_sampleid_key
+    with open(curr_wig_file, 'r') as fin:
+FileNotFoundError: [Errno 2] No such file or directory: '/home/taylor/stroke_APA_work/sham1.bedgraph'
+[]
+#assigned events:
+150
+[Fri Sep 18 10:21:26 2026] Loading Coverage Finished ...
+Process Process-63:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 205, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    curr_sample_curr_3UTR_coverage_wig = All_samples_coverage_shared_dict[curr_3UTR_id, i]
+  File "<string>", line 2, in __getitem__
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/managers.py", line 850, in _callmethod
+    raise convert_to_error(kind, result)
+KeyError: ('ENSMUST00000189888.6|ENSMUSG00000053211|Zfy1', 0)
+[Fri Sep 18 10:21:26 2026] Finished!
+[single] exit=0 2026-09-18 10:21:26
+total 0
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:21 .
+drwxrwxrwx 1 taylor taylor 4096 Sep 18  2026 ..
+-rwxrwxrwx 1 taylor taylor  473 Sep 18 10:21 job.cfg
+[single] END 2026-09-18 10:21:26
+[single] start 2026-09-18 10:26:19
+3
+/mnt/d/stroke_apa_data/dapars2_single_chr1
+[Fri Sep 18 10:26:20 2026] Start Analysis ...
+All samples Joint Processing chr1 ...
+[Fri Sep 18 10:26:20 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1177
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/fromnumeric.py:3372: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+[Fri Sep 18 10:26:40 2026] Loading Coverage Finished ...
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr2
+[Fri Sep 18 10:26:40 2026] Start Analysis ...
+All samples Joint Processing chr2 ...
+[Fri Sep 18 10:26:40 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1740
+[Fri Sep 18 10:27:01 2026] Loading Coverage Finished ...
+Process Process-6:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr3
+[Fri Sep 18 10:27:01 2026] Start Analysis ...
+All samples Joint Processing chr3 ...
+[Fri Sep 18 10:27:01 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+963
+[Fri Sep 18 10:27:21 2026] Loading Coverage Finished ...
+Process Process-9:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr4
+[Fri Sep 18 10:27:21 2026] Start Analysis ...
+All samples Joint Processing chr4 ...
+[Fri Sep 18 10:27:21 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1221
+[Fri Sep 18 10:27:44 2026] Loading Coverage Finished ...
+Process Process-12:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr5
+[Fri Sep 18 10:27:44 2026] Start Analysis ...
+All samples Joint Processing chr5 ...
+[Fri Sep 18 10:27:44 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1220
+[Fri Sep 18 10:28:09 2026] Loading Coverage Finished ...
+Process Process-15:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr6
+[Fri Sep 18 10:28:09 2026] Start Analysis ...
+All samples Joint Processing chr6 ...
+[Fri Sep 18 10:28:09 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1044
+[Fri Sep 18 10:28:35 2026] Loading Coverage Finished ...
+Process Process-18:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr7
+[Fri Sep 18 10:28:35 2026] Start Analysis ...
+All samples Joint Processing chr7 ...
+[Fri Sep 18 10:28:35 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1831
+[Fri Sep 18 10:29:03 2026] Loading Coverage Finished ...
+Process Process-21:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr8
+[Fri Sep 18 10:29:03 2026] Start Analysis ...
+All samples Joint Processing chr8 ...
+[Fri Sep 18 10:29:03 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+986
+[Fri Sep 18 10:29:32 2026] Loading Coverage Finished ...
+Process Process-24:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr9
+[Fri Sep 18 10:29:32 2026] Start Analysis ...
+All samples Joint Processing chr9 ...
+[Fri Sep 18 10:29:32 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1152
+[Fri Sep 18 10:30:02 2026] Loading Coverage Finished ...
+Process Process-27:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr10
+[Fri Sep 18 10:30:02 2026] Start Analysis ...
+All samples Joint Processing chr10 ...
+[Fri Sep 18 10:30:02 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+938
+[Fri Sep 18 10:30:07 2026] Loading Coverage Finished ...
+Process Process-30:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr11
+[Fri Sep 18 10:30:07 2026] Start Analysis ...
+All samples Joint Processing chr11 ...
+[Fri Sep 18 10:30:07 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1557
+[Fri Sep 18 10:30:16 2026] Loading Coverage Finished ...
+Process Process-33:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr12
+[Fri Sep 18 10:30:16 2026] Start Analysis ...
+All samples Joint Processing chr12 ...
+[Fri Sep 18 10:30:16 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+623
+[Fri Sep 18 10:30:24 2026] Loading Coverage Finished ...
+Process Process-36:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr13
+[Fri Sep 18 10:30:24 2026] Start Analysis ...
+All samples Joint Processing chr13 ...
+[Fri Sep 18 10:30:24 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+797
+[Fri Sep 18 10:30:31 2026] Loading Coverage Finished ...
+Process Process-39:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr14
+[Fri Sep 18 10:30:31 2026] Start Analysis ...
+All samples Joint Processing chr14 ...
+[Fri Sep 18 10:30:31 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+866
+[Fri Sep 18 10:30:41 2026] Loading Coverage Finished ...
+Process Process-42:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr15
+[Fri Sep 18 10:30:41 2026] Start Analysis ...
+All samples Joint Processing chr15 ...
+[Fri Sep 18 10:30:41 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+757
+[Fri Sep 18 10:30:52 2026] Loading Coverage Finished ...
+Process Process-45:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr16
+[Fri Sep 18 10:30:52 2026] Start Analysis ...
+All samples Joint Processing chr16 ...
+[Fri Sep 18 10:30:52 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+646
+[Fri Sep 18 10:31:02 2026] Loading Coverage Finished ...
+Process Process-48:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr17
+[Fri Sep 18 10:31:02 2026] Start Analysis ...
+All samples Joint Processing chr17 ...
+[Fri Sep 18 10:31:02 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+997
+[Fri Sep 18 10:31:15 2026] Loading Coverage Finished ...
+Process Process-51:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr18
+[Fri Sep 18 10:31:15 2026] Start Analysis ...
+All samples Joint Processing chr18 ...
+[Fri Sep 18 10:31:15 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+497
+[Fri Sep 18 10:31:28 2026] Loading Coverage Finished ...
+Process Process-54:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr19
+[Fri Sep 18 10:31:28 2026] Start Analysis ...
+All samples Joint Processing chr19 ...
+[Fri Sep 18 10:31:28 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+692
+[Fri Sep 18 10:31:41 2026] Loading Coverage Finished ...
+Process Process-57:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chrX
+[Fri Sep 18 10:31:41 2026] Start Analysis ...
+All samples Joint Processing chrX ...
+[Fri Sep 18 10:31:41 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+853
+[Fri Sep 18 10:32:10 2026] Loading Coverage Finished ...
+Process Process-60:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chrY
+[Fri Sep 18 10:32:10 2026] Start Analysis ...
+All samples Joint Processing chrY ...
+[Fri Sep 18 10:32:10 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+150
+[Fri Sep 18 10:32:37 2026] Loading Coverage Finished ...
+Process Process-63:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 244, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+[Fri Sep 18 10:32:37 2026] Finished!
+[single] exit=0 2026-09-18 10:32:37
+total 0
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:21 .
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:26 ..
+-rwxrwxrwx 1 taylor taylor  509 Sep 18 10:26 job.cfg
+[single] END 2026-09-18 10:32:37
+[single] start 2026-09-18 10:34:12
+3
+/mnt/d/stroke_apa_data/dapars2_single_chr1
+[Fri Sep 18 10:34:13 2026] Start Analysis ...
+All samples Joint Processing chr1 ...
+[Fri Sep 18 10:34:13 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1177
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/fromnumeric.py:3372: RuntimeWarning: Mean of empty slice.
+  return _methods._mean(a, axis=axis, dtype=dtype,
+/home/taylor/miniconda3/envs/dapars2/lib/python3.8/site-packages/numpy/core/_methods.py:170: RuntimeWarning: invalid value encountered in double_scalars
+  ret = ret.dtype.type(ret / rcount)
+[Fri Sep 18 10:34:32 2026] Loading Coverage Finished ...
+Process Process-3:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr2
+[Fri Sep 18 10:34:32 2026] Start Analysis ...
+All samples Joint Processing chr2 ...
+[Fri Sep 18 10:34:32 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1740
+[Fri Sep 18 10:34:53 2026] Loading Coverage Finished ...
+Process Process-6:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr3
+[Fri Sep 18 10:34:53 2026] Start Analysis ...
+All samples Joint Processing chr3 ...
+[Fri Sep 18 10:34:53 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+963
+[Fri Sep 18 10:35:13 2026] Loading Coverage Finished ...
+Process Process-9:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr4
+[Fri Sep 18 10:35:13 2026] Start Analysis ...
+All samples Joint Processing chr4 ...
+[Fri Sep 18 10:35:13 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1221
+[Fri Sep 18 10:35:38 2026] Loading Coverage Finished ...
+Process Process-12:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr5
+[Fri Sep 18 10:35:38 2026] Start Analysis ...
+All samples Joint Processing chr5 ...
+[Fri Sep 18 10:35:38 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1220
+[Fri Sep 18 10:36:03 2026] Loading Coverage Finished ...
+Process Process-15:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr6
+[Fri Sep 18 10:36:03 2026] Start Analysis ...
+All samples Joint Processing chr6 ...
+[Fri Sep 18 10:36:03 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1044
+[Fri Sep 18 10:36:28 2026] Loading Coverage Finished ...
+Process Process-18:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr7
+[Fri Sep 18 10:36:28 2026] Start Analysis ...
+All samples Joint Processing chr7 ...
+[Fri Sep 18 10:36:28 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1831
+[Fri Sep 18 10:36:57 2026] Loading Coverage Finished ...
+Process Process-21:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr8
+[Fri Sep 18 10:36:57 2026] Start Analysis ...
+All samples Joint Processing chr8 ...
+[Fri Sep 18 10:36:57 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+986
+[Fri Sep 18 10:37:25 2026] Loading Coverage Finished ...
+Process Process-24:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr9
+[Fri Sep 18 10:37:25 2026] Start Analysis ...
+All samples Joint Processing chr9 ...
+[Fri Sep 18 10:37:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1152
+[Fri Sep 18 10:37:56 2026] Loading Coverage Finished ...
+Process Process-27:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr10
+[Fri Sep 18 10:37:56 2026] Start Analysis ...
+All samples Joint Processing chr10 ...
+[Fri Sep 18 10:37:56 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+938
+[Fri Sep 18 10:38:01 2026] Loading Coverage Finished ...
+Process Process-30:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr11
+[Fri Sep 18 10:38:01 2026] Start Analysis ...
+All samples Joint Processing chr11 ...
+[Fri Sep 18 10:38:01 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+1557
+[Fri Sep 18 10:38:10 2026] Loading Coverage Finished ...
+Process Process-33:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr12
+[Fri Sep 18 10:38:10 2026] Start Analysis ...
+All samples Joint Processing chr12 ...
+[Fri Sep 18 10:38:10 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+623
+[Fri Sep 18 10:38:18 2026] Loading Coverage Finished ...
+Process Process-36:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr13
+[Fri Sep 18 10:38:18 2026] Start Analysis ...
+All samples Joint Processing chr13 ...
+[Fri Sep 18 10:38:18 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+797
+[Fri Sep 18 10:38:25 2026] Loading Coverage Finished ...
+Process Process-39:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr14
+[Fri Sep 18 10:38:25 2026] Start Analysis ...
+All samples Joint Processing chr14 ...
+[Fri Sep 18 10:38:25 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+866
+[Fri Sep 18 10:38:35 2026] Loading Coverage Finished ...
+Process Process-42:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr15
+[Fri Sep 18 10:38:35 2026] Start Analysis ...
+All samples Joint Processing chr15 ...
+[Fri Sep 18 10:38:35 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+757
+[Fri Sep 18 10:38:46 2026] Loading Coverage Finished ...
+Process Process-45:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr16
+[Fri Sep 18 10:38:46 2026] Start Analysis ...
+All samples Joint Processing chr16 ...
+[Fri Sep 18 10:38:46 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+646
+[Fri Sep 18 10:38:56 2026] Loading Coverage Finished ...
+Process Process-48:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr17
+[Fri Sep 18 10:38:56 2026] Start Analysis ...
+All samples Joint Processing chr17 ...
+[Fri Sep 18 10:38:56 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+997
+[Fri Sep 18 10:39:10 2026] Loading Coverage Finished ...
+Process Process-51:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr18
+[Fri Sep 18 10:39:10 2026] Start Analysis ...
+All samples Joint Processing chr18 ...
+[Fri Sep 18 10:39:10 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+497
+[Fri Sep 18 10:39:23 2026] Loading Coverage Finished ...
+Process Process-54:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chr19
+[Fri Sep 18 10:39:23 2026] Start Analysis ...
+All samples Joint Processing chr19 ...
+[Fri Sep 18 10:39:23 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+692
+[Fri Sep 18 10:39:37 2026] Loading Coverage Finished ...
+Process Process-57:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chrX
+[Fri Sep 18 10:39:37 2026] Start Analysis ...
+All samples Joint Processing chrX ...
+[Fri Sep 18 10:39:37 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+853
+[Fri Sep 18 10:40:08 2026] Loading Coverage Finished ...
+Process Process-60:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+/mnt/d/stroke_apa_data/dapars2_single_chrY
+[Fri Sep 18 10:40:08 2026] Start Analysis ...
+All samples Joint Processing chrY ...
+[Fri Sep 18 10:40:08 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[]
+#assigned events:
+150
+[Fri Sep 18 10:40:37 2026] Loading Coverage Finished ...
+Process Process-63:
+Traceback (most recent call last):
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 315, in _bootstrap
+    self.run()
+  File "/home/taylor/miniconda3/envs/dapars2/lib/python3.8/multiprocessing/process.py", line 108, in run
+    self._target(*self._args, **self._kwargs)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 209, in Each_Thread_3UTR_estimation_list_version_sample_ids
+    select_mean_squared_error, selected_break_point, UTR_abundances = De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples(curr_3UTR_all_samples_bp_coverage, region_start, region_end,curr_strand,All_sample_coverage_weights, Coverage_threshold)
+  File "/home/taylor/DaPars2/src/DaPars2_Multi_Sample_Multi_Chr.py", line 246, in De_Novo_3UTR_Coverage_estimation_Genome_for_multiple_samples
+    curr_Region_Coverage = curr_Region_Coverage_raw/weight_for_second_coverage[i]
+IndexError: index 0 is out of bounds for axis 0 with size 0
+[Fri Sep 18 10:40:37 2026] Finished!
+[single] exit=0 2026-09-18 10:40:37
+total 0
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:21 .
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:34 ..
+-rwxrwxrwx 1 taylor taylor  509 Sep 18 10:34 job.cfg
+[single] END 2026-09-18 10:40:37
+[single] start 2026-09-18 10:48:35
+3
+/mnt/d/stroke_apa_data/dapars2_single_chr1
+[Fri Sep 18 10:48:36 2026] Start Analysis ...
+All samples Joint Processing chr1 ...
+[Fri Sep 18 10:48:36 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1177
+[Fri Sep 18 10:48:56 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr2
+[Fri Sep 18 11:01:35 2026] Start Analysis ...
+All samples Joint Processing chr2 ...
+[Fri Sep 18 11:01:35 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1740
+[Fri Sep 18 11:02:02 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr3
+[Fri Sep 18 12:26:22 2026] Start Analysis ...
+All samples Joint Processing chr3 ...
+[Fri Sep 18 12:26:22 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+963
+[Fri Sep 18 12:26:43 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr4
+[Fri Sep 18 12:32:58 2026] Start Analysis ...
+All samples Joint Processing chr4 ...
+[Fri Sep 18 12:32:58 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1221
+[Fri Sep 18 12:33:22 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr5
+[Fri Sep 18 12:52:54 2026] Start Analysis ...
+All samples Joint Processing chr5 ...
+[Fri Sep 18 12:52:54 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1220
+[Fri Sep 18 12:53:22 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr6
+[Fri Sep 18 13:09:38 2026] Start Analysis ...
+All samples Joint Processing chr6 ...
+[Fri Sep 18 13:09:38 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1044
+[Fri Sep 18 13:10:03 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr7
+[Fri Sep 18 15:25:54 2026] Start Analysis ...
+All samples Joint Processing chr7 ...
+[Fri Sep 18 15:25:54 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1831
+[Fri Sep 18 15:26:22 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr8
+[Fri Sep 18 15:35:17 2026] Start Analysis ...
+All samples Joint Processing chr8 ...
+[Fri Sep 18 15:35:17 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+986
+[Fri Sep 18 15:35:44 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr9
+[Fri Sep 18 15:41:48 2026] Start Analysis ...
+All samples Joint Processing chr9 ...
+[Fri Sep 18 15:41:48 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1152
+[Fri Sep 18 15:42:17 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr10
+[Fri Sep 18 16:07:33 2026] Start Analysis ...
+All samples Joint Processing chr10 ...
+[Fri Sep 18 16:07:33 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+938
+[Fri Sep 18 16:07:38 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr11
+[Fri Sep 18 16:14:13 2026] Start Analysis ...
+All samples Joint Processing chr11 ...
+[Fri Sep 18 16:14:13 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+1557
+[Fri Sep 18 16:14:24 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr12
+[Fri Sep 18 16:34:51 2026] Start Analysis ...
+All samples Joint Processing chr12 ...
+[Fri Sep 18 16:34:51 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+623
+[Fri Sep 18 16:34:58 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr13
+[Fri Sep 18 17:08:48 2026] Start Analysis ...
+All samples Joint Processing chr13 ...
+[Fri Sep 18 17:08:48 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+797
+[Fri Sep 18 17:08:57 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr14
+[Fri Sep 18 17:17:19 2026] Start Analysis ...
+All samples Joint Processing chr14 ...
+[Fri Sep 18 17:17:19 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+866
+[Fri Sep 18 17:17:29 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr15
+[Fri Sep 18 17:29:17 2026] Start Analysis ...
+All samples Joint Processing chr15 ...
+[Fri Sep 18 17:29:17 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+757
+[Fri Sep 18 17:29:28 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr16
+[Fri Sep 18 17:56:10 2026] Start Analysis ...
+All samples Joint Processing chr16 ...
+[Fri Sep 18 17:56:10 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+646
+[Fri Sep 18 17:56:22 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr17
+[Fri Sep 18 18:00:33 2026] Start Analysis ...
+All samples Joint Processing chr17 ...
+[Fri Sep 18 18:00:33 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+997
+[Fri Sep 18 18:00:47 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr18
+[Fri Sep 18 18:04:56 2026] Start Analysis ...
+All samples Joint Processing chr18 ...
+[Fri Sep 18 18:04:56 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+497
+[Fri Sep 18 18:05:10 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chr19
+[Fri Sep 18 18:54:48 2026] Start Analysis ...
+All samples Joint Processing chr19 ...
+[Fri Sep 18 18:54:48 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+692
+[Fri Sep 18 18:54:58 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chrX
+[Fri Sep 18 19:00:34 2026] Start Analysis ...
+All samples Joint Processing chrX ...
+[Fri Sep 18 19:00:34 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+853
+[Fri Sep 18 19:01:03 2026] Loading Coverage Finished ...
+/mnt/d/stroke_apa_data/dapars2_single_chrY
+[Fri Sep 18 19:06:52 2026] Start Analysis ...
+All samples Joint Processing chrY ...
+[Fri Sep 18 19:06:52 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+150
+[Fri Sep 18 19:07:21 2026] Loading Coverage Finished ...
+[Fri Sep 18 19:07:24 2026] Finished!
+[single] exit=0 2026-09-18 19:07:24
+total 0
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 10:21 .
+drwxrwxrwx 1 taylor taylor 4096 Sep 18 19:06 ..
+-rwxrwxrwx 1 taylor taylor  509 Sep 18 10:48 job.cfg
+[single] END 2026-09-18 19:07:24

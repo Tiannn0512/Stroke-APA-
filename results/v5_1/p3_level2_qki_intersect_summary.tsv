@@ -1,0 +1,8 @@
+metric	value
+sig_events_with_segment	977
+sig_events_overlapping_qki_peak	11
+shortening_sig_events_overlapping	10
+enrichment_sig_hit	11/977
+enrichment_background_hit	27/6459
+fisher_OR	2.713
+fisher_p	1.251e-02

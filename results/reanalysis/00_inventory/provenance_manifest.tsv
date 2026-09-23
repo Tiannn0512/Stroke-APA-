@@ -1,0 +1,10 @@
+item	source_path	acquired_date	note
+input_links/* (17 files)	D:/stroke_apa/results/, D:/stroke_apa/scripts/	2026-09-21	v5.1 phase final tables/scripts
+01_研究Proposal.md, 02_项目TODO.md	C:/Users/Taylor/Desktop/	2026-09-21	governing docs (user 2026-09-21)
+ATP2A2_IGV_CHECK_PACKAGE_20260920.zip	D:/stroke_apa/ (built 2026-09-20 from WSL ~/stroke_APA_work/bam)	2026-09-20	6-sample candidate-locus BAM slices + refs
+STROKE_APA_FINAL_DELIVERABLES_20260920.zip	D:/stroke_apa/	2026-09-20	v5.1 dry-phase full archive
+data/bam/*	WSL /home/taylor/stroke_APA_work/bam (aligned 2026-09-17/18)	2026-09-21	12-sample sorted BAM+BAI (md5 spot-verified)
+data/references/*	WSL /home/taylor/reference_v2	2026-09-21	GRCm38 genome.fa, GENCODE vM25 GTF/genePred, PAS, 3UTR beds, salmon_idx
+data/salmon, dapars2_full, qc, sequencing_depth*.tsv	WSL /home/taylor/stroke_APA_work	2026-09-21	second-tool quant, DaPars2 per-chr outputs, fastp logs, depth
+data/tools/DaPars2	WSL /home/taylor/DaPars2 (patched 2026-09-18: empty-coverage NA)	2026-09-21	patched source
+fastq (DELETED 2026-09-20)	was D:/stroke_apa_data/fastq	2026-09-16/18	re-download metadata: D:/stroke_apa_data/ena_filereport.tsv + fastq_md5_all.tsv

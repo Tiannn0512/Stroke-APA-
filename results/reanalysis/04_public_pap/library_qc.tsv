@@ -1,0 +1,7 @@
+library_id	biological_unit	cell_part	animal_label	n_tech_files	total_counts	genes_detected_ge1	paired_status
+2017545	2017545_FullAstrocytes	Full Astrocytes	C1	8	20293538	20000	unpaired (label match not sufficient; pool composition differs by fraction)
+2017547	2017547_PAP	PAP	C1	8	1829962	12378	unpaired (label match not sufficient; pool composition differs by fraction)
+2017553	2017553_FullAstrocytes	Full Astrocytes	C2	8	18707844	19773	unpaired (label match not sufficient; pool composition differs by fraction)
+2017555	2017555_PAP	PAP	C2	8	1833201	11783	unpaired (label match not sufficient; pool composition differs by fraction)
+2017561	2017561_FullAstrocytes	Full Astrocytes	C3	8	19503504	19154	unpaired (label match not sufficient; pool composition differs by fraction)
+2017563	2017563_PAP	PAP	C3	8	2980984	12002	unpaired (label match not sufficient; pool composition differs by fraction)

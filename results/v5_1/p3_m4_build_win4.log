@@ -1,0 +1,23 @@
+refmap: 55401
+[SET1] tested=15550 PAP-enriched(padj<0.05,l2fc>0)=2729
+Traceback (most recent call last):
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pandas\core\indexes\base.py", line 3641, in get_loc
+    return self._engine.get_loc(casted_key)
+           ~~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^
+  File "pandas/_libs/index.pyx", line 168, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/index.pyx", line 197, in pandas._libs.index.IndexEngine.get_loc
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7668, in pandas._libs.hashtable.PyObjectHashTable.get_item
+  File "pandas/_libs/hashtable_class_helper.pxi", line 7676, in pandas._libs.hashtable.PyObjectHashTable.get_item
+KeyError: 'symbol'
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "D:\stroke_apa\scripts\p3_m4_reference_sets.py", line 64, in <module>
+    de2["symbol"].dropna().drop_duplicates().to_csv(os.path.join(OUT, "p3_m4_set2_endfoot_background.txt"), index=False, header=False)
+    ~~~^^^^^^^^^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pandas\core\frame.py", line 4378, in __getitem__
+    indexer = self.columns.get_loc(key)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pandas\core\indexes\base.py", line 3648, in get_loc
+    raise KeyError(key) from err
+KeyError: 'symbol'

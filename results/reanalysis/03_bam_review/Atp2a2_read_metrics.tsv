@@ -1,0 +1,7 @@
+sample	reads	mapq_median	mapq_lt20_pct	softclip_base_pct	spliced_read_pct	nm_median
+sham1	3133	255	0.48	0.12	0.00	0
+sham2	4916	255	0.33	0.05	0.00	0
+day3_rep1	3713	255	0.54	0.40	0.00	0
+day3_rep2	3627	255	0.69	0.21	0.00	0
+day7_rep1	5573	255	0.11	0.17	0.00	0
+day7_rep2	6645	255	0.18	0.05	0.00	0

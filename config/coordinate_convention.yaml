@@ -1,0 +1,31 @@
+# 坐标约定（TODO P1.1 冻结件，2026-09-21）
+# 依据：02_项目TODO.md §4 任务 P1.1；链方向问题的裁决规则
+genome: GRCm38_mm10
+annotation: GENCODE_vM25
+bed_coordinates: 0_based_half_open
+event_coordinate_source: DaPars2_output
+plus_distal_rule: "[proximal_pas, utr_end)"
+minus_distal_rule: "[utr_start, proximal_pas)"
+plus_shared_rule: "[utr_start, proximal_pas)"
+minus_shared_rule: "[proximal_pas, utr_end)"
+
+# DaPars2 breakpoint 的 1bp 转换问题：P1.1 要求核对源码/BED 长度关系后，
+# 在事件表中同时给出 proximal_pas_raw 与 proximal_pas_bed 两个字段；
+# 本配置只冻结规则，不做断言（转换结论待 P1.1 执行时写入 rebuild 记录）。
+
+# 单元测试锚点（Proposal §2.2 / TODO §1.2，人工校正结果）：
+# Atp2a2 event 6953, 负链
+#   3'UTR:            chr5:122453512-122457153
+#   predicted PAS:    chr5:122456498
+#   distal (负链):    chr5:122453512-122456498   <- 应含 QKI peak chr5:122454200-122454250
+#   shared  (负链):   chr5:122456498-122457153   <- 旧引用 peak chr5:122456550-122456650 在此侧
+unit_tests:
+  atp2a2_6953:
+    strand: "-"
+    utr_start: 122453512
+    utr_end: 122457153
+    proximal_pas: 122456498
+    distal_start: 122453512
+    distal_end: 122456498
+    shared_start: 122456498
+    shared_end: 122457153

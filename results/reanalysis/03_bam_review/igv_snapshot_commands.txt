@@ -1,0 +1,42 @@
+# IGV batch — paste into IGV (View > Preferences: mm10 genome loaded first) or run via Tools > Run Batch
+# one block per review gene; fixed scale = max across 6 samples over UTR+-5kb
+# ---- Agpat3 (chr10) ----
+goto chr10:78269177-78273689
+maxPanelHeight 400;  # set data range manually to 0-300 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Agpat3.png
+# ---- Aplp1 (chr7) ----
+goto chr7:30434981-30435295
+maxPanelHeight 400;  # set data range manually to 0-4927 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Aplp1.png
+# ---- Atp2a2 (chr5) ----
+goto chr5:122453512-122457153
+maxPanelHeight 400;  # set data range manually to 0-804 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Atp2a2.png
+# ---- Cnp (chr11) ----
+goto chr11:100580793-100581728
+maxPanelHeight 400;  # set data range manually to 0-900 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Cnp.png
+# ---- Fam107a (chr14) ----
+goto chr14:8296273-8298692
+maxPanelHeight 400;  # set data range manually to 0-1127 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Fam107a.png
+# ---- Kazn (chr4) ----
+goto chr4:142139242-142141782
+maxPanelHeight 400;  # set data range manually to 0-190 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Kazn.png
+# ---- Ndrg2 (chr14) ----
+goto chr14:51905270-51906142
+maxPanelHeight 400;  # set data range manually to 0-12261 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Ndrg2.png
+# ---- Pea15a (chr1) ----
+goto chr1:172196727-172198628
+maxPanelHeight 400;  # set data range manually to 0-5528 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Pea15a.png
+# ---- Plec (chr15) ----
+goto chr15:76170973-76172172
+maxPanelHeight 400;  # set data range manually to 0-391 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Plec.png
+# ---- Sirt2 (chr7) ----
+goto chr7:28788069-28788661
+maxPanelHeight 400;  # set data range manually to 0-1210 (right-click track)
+snapshot D:/stroke_apa_reanalysis/results/03_bam_review/plots/igv_Sirt2.png

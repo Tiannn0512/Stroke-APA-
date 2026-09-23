@@ -1,0 +1,9 @@
+axis	gene_set	genes	overlap	odds_ratio	p_value	pct_in_axis
+PAP_localized	all_sig	977	161	0.977	8.215e-01	16.5
+PAP_localized	shortening_sig	824	134	0.961	7.329e-01	16.3
+endfoot_stroke_responsive	all_sig	977	34	1.144	4.371e-01	3.5
+endfoot_stroke_responsive	shortening_sig	824	33	1.343	1.153e-01	4.0
+zone_cortex	all_sig	977	241	1.095	2.465e-01	24.7
+zone_cortex	shortening_sig	824	205	1.107	2.271e-01	24.9
+zone_whitematter	all_sig	977	429	1.147	4.654e-02	43.9
+zone_whitematter	shortening_sig	824	365	1.164	4.158e-02	44.3

@@ -1,0 +1,7 @@
+QC passed: 56904 cells 3s
+scrublet predicted doublets: 1624 (2.85%) mean score=0.0523 455s
+ambient proxy: 3180 ambient-enriched genes; flagged 2849 cells top-5% (5.01%) 456s
+[B_minus_doublet] astro=3046 reactive=623 DE_sig=1310 overlapA=1234 flips=0 552s
+[C_minus_doublet_ambient] astro=3042 reactive=652 DE_sig=1311 overlapA=1203 flips=0 599s
+
+P1-07 DONE

@@ -1,0 +1,47 @@
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 26846951
+total bases: 4012370740
+Q20 bases: 3958925561(98.668%)
+Q30 bases: 3848567521(95.9175%)
+
+Read2 before filtering:
+total reads: 26846951
+total bases: 4006648293
+Q20 bases: 3836005108(95.741%)
+Q30 bases: 3536171956(88.2576%)
+
+Read1 after filtering:
+total reads: 26846841
+total bases: 4008973874
+Q20 bases: 3955794312(98.6735%)
+Q30 bases: 3845717185(95.9277%)
+
+Read2 after filtering:
+total reads: 26846841
+total bases: 4002443956
+Q20 bases: 3832466920(95.7532%)
+Q30 bases: 3533342400(88.2796%)
+
+Filtering result:
+reads passed filter: 53693682
+reads failed due to low quality: 220
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 954726
+bases trimmed due to adapters: 7578727
+
+Duplication rate: 11.7442%
+
+Insert size peak (evaluated by paired-end reads): 229
+
+JSON report: /home/taylor/stroke_APA_work/qc/sham2_fastp.json
+HTML report: /home/taylor/stroke_APA_work/qc/sham2_fastp.html
+
+fastp -i /mnt/d/stroke_apa_data/fastq/sham2_1.fastq.gz -I /mnt/d/stroke_apa_data/fastq/sham2_2.fastq.gz -o /home/taylor/stroke_APA_work/sham2_1.trimmed.fastq.gz -O /home/taylor/stroke_APA_work/sham2_2.trimmed.fastq.gz --html /home/taylor/stroke_APA_work/qc/sham2_fastp.html --json /home/taylor/stroke_APA_work/qc/sham2_fastp.json --thread 8 --detect_adapter_for_pe 
+fastp v0.23.4, time used: 182 seconds

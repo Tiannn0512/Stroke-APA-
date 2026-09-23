@@ -1,0 +1,38 @@
+overall DE done: (14252, 6) | homeostatic DE done: (13837, 6)
+paired GSE286075 DE done: (14323, 6)
+
+=== regulator catalog ===
+     gene  layer1_log2FC  layer1_padj layer1_dir  layer1_homeostatic_log2FC  layer1_homeostatic_padj  layer2_paired_log2FC  layer2_padj layer2_dir direction_consistency
+    Cpsf1          0.614        0.560         up                      0.489                    0.799                 0.046        0.988         up            concordant
+    Cpsf2          0.434        0.497         up                      0.456                    0.614                -0.438        0.480       down            discordant
+    Cpsf3          0.247        0.649         up                      0.178                    0.860                 0.285        0.852         up            concordant
+    Cpsf4          0.413        0.723         up                      0.494                    0.771                 0.087          NaN         up            concordant
+   Cpsf4l            NaN          NaN         NA                        NaN                      NaN                 2.336          NaN         up                    NA
+    Wdr33         -0.424        0.338       down                     -0.465                    0.422                -0.382        0.638       down            concordant
+   Fip1l1          0.161        0.779         up                      0.125                    0.906                 0.063        0.970         up            concordant
+    Cstf1          0.519        0.509         up                      0.602                    0.561                -0.631        0.653       down            discordant
+    Cstf2          0.103        0.931         up                      0.159                    0.935                 0.298        0.788         up            concordant
+    Cstf3         -0.246        0.685       down                     -0.036                    0.983                 1.301          NaN         up            discordant
+   Nudt21         -0.062        0.921       down                     -0.157                    0.844                -0.514        0.607       down            concordant
+    Cpsf6         -0.071        0.907       down                      0.028                    0.982                 0.212        0.852         up            discordant
+    Cpsf7          0.057        0.949         up                      0.055                    0.974                -0.044        0.987       down            discordant
+   Pabpn1         -0.630        0.000       down                     -0.508                    0.017                 0.153          NaN         up            discordant
+    Pcf11         -0.388        0.396       down                     -0.330                    0.656                 0.097        0.949         up            discordant
+     Clp1          0.273        0.808         up                      0.248                    0.904                 0.698          NaN         up            concordant
+    Sympk         -0.152        0.851       down                     -0.290                    0.786                 0.309        0.705         up            discordant
+   Elavl1          0.252        0.377         up                      0.286                    0.421                 0.540        0.408         up            concordant
+   Elavl2         -0.051        0.988       down                      0.491                    0.886                 0.299          NaN         up            discordant
+       Qk         -0.266        0.077       down                     -0.237                    0.208                -0.558        0.122       down            concordant
+    Ptbp1          0.055        0.935         up                     -0.074                    0.950                 0.418        0.593         up            concordant
+    Ptbp2          0.072        0.929         up                      0.115                    0.928                -0.270        0.809       down            discordant
+Hnrnpa2b1          0.030        0.917         up                      0.088                    0.788                 0.226        0.743         up            concordant
+    Srsf1         -0.246        0.393       down                     -0.141                    0.806                 0.225        0.811         up            discordant
+    Nova1         -0.376        0.686       down                     -0.210                    0.913                -0.841        0.290       down            concordant
+    Nova2         -0.177        0.921       down                     -0.140                    0.967                -0.009        0.998       down            concordant
+      Fus          0.038        0.914         up                     -0.008                    0.992                 0.429        0.408         up            concordant
+   Tardbp          0.113        0.835         up                      0.151                    0.851                 0.108        0.938         up            concordant
+  Khdrbs1         -0.002        0.998       down                     -0.119                    0.904                 0.365        0.632         up            discordant
+    Mbnl1          0.098        0.864         up                      0.264                    0.643                -0.008        0.999       down            discordant
+    Mbnl2          0.245        0.362         up                      0.299                    0.345                 0.277        0.714         up            concordant
+
+concordant: 17/28 | layer1 padj<0.05: 1/28 | overall DE genes padj<0.05: 1280

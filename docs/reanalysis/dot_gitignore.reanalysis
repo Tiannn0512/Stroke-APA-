@@ -1,0 +1,13 @@
+data/bam/
+data/salmon/
+data/references/
+data/tools/
+*.bam
+*.bai
+*.fa
+*.gtf
+*.bw
+*.ab1
+
+# packaged deliverables
+*.zip

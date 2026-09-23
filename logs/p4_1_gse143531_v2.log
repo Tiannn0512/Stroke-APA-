@@ -1,0 +1,55 @@
+== design ==
+  library group lib_size
+1 2017545  Full 20293538
+2 2017547   PAP  1829962
+3 2017553  Full 18707844
+4 2017555   PAP  1833201
+5 2017561  Full 19503504
+6 2017563   PAP  2980984
+kept genes after filterByExpr: 14618 / 47643
+        group lib.size norm.factors
+2017545  Full 20241593    0.9196022
+2017547   PAP  1815006    1.0797984
+2017553  Full 18652783    0.9135875
+2017555   PAP  1818794    1.0666757
+2017561  Full 19450363    1.0127248
+2017563   PAP  2965706    1.0204302
+== descriptive percentiles (edgeR logFC; NOT a significance test) ==
+   gene_symbol edgeR_log2FC descriptive_genome_percentile
+1       Atp2a2       -0.273                          55.4
+2       Agpat3       -0.353                          53.8
+3        Aplp1       -0.863                          43.0
+4        Sirt2       -1.413                          33.2
+5        Ndrg2       -1.636                          29.8
+6          Cnp       -2.480                          21.6
+7       Pea15a       -0.896                          42.4
+8         Kazn       -0.289                          55.1
+9         Plec        3.864                          96.6
+10     Fam107a       -1.764                          28.4
+library_mds.png written
+== sessionInfo ==
+R version 4.3.3 (2024-02-29)
+Platform: x86_64-conda-linux-gnu (64-bit)
+Running under: Ubuntu 24.04.2 LTS
+
+Matrix products: default
+BLAS/LAPACK: /home/taylor/miniconda3/envs/rlimma/lib/libopenblasp-r0.3.34.so;  LAPACK version 3.12.0
+
+locale:
+ [1] LC_CTYPE=C.UTF-8       LC_NUMERIC=C           LC_TIME=C.UTF-8       
+ [4] LC_COLLATE=C.UTF-8     LC_MONETARY=C.UTF-8    LC_MESSAGES=C.UTF-8   
+ [7] LC_PAPER=C.UTF-8       LC_NAME=C              LC_ADDRESS=C          
+[10] LC_TELEPHONE=C         LC_MEASUREMENT=C.UTF-8 LC_IDENTIFICATION=C   
+
+time zone: Asia/Singapore
+tzcode source: system (glibc)
+
+attached base packages:
+[1] stats     graphics  grDevices utils     datasets  methods   base     
+
+other attached packages:
+[1] edgeR_4.0.16 limma_3.58.1
+
+loaded via a namespace (and not attached):
+[1] compiler_4.3.3  Rcpp_1.1.0      splines_4.3.3   grid_4.3.3     
+[5] locfit_1.5-9.12 lattice_0.22-7  statmod_1.5.0  

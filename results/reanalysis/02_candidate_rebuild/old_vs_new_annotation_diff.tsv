@@ -1,0 +1,978 @@
+event_num	gene_symbol	old_L2	new_L2v2	old_L3	new_L3v2	old_L4	new_L4v2	old_class	new_class_v2
+17	Stxbp5	no	no	yes	yes	CONSERVED	yes	C	C
+26	Aig1	no	no	yes	yes	CONSERVED	yes	C	C
+103	Rtn4ip1	no	no	yes	yes	CONSERVED	yes	C	C
+152	Hk1	no	no	yes	yes	CONSERVED	yes	C	C
+166	Ado	no	no	no	yes	CONSERVED	yes	none	C
+175	Cisd1	no	no	yes	yes	CONSERVED	yes	C	C
+183	Snrpd3	no	no	yes	yes	CONSERVED	yes	C	C
+216	Agpat3	yes	no	yes	yes	CONSERVED	yes	B	C
+228	Ptbp1	no	no	yes	yes	CONSERVED	yes	C	C
+240	Stk11	no	no	no	no		yes	none	none
+262	Mob3a	no	no	yes	yes	CONSERVED	yes	C	C
+279	Eef2	no	no	yes	yes	CONSERVED	yes	C	C
+297	Ncln	no	no	yes	yes	CONSERVED	yes	C	C
+299	Gna11	no	no	no	no		yes	none	none
+379	Krr1	no	no	yes	yes	CONSERVED	yes	C	C
+399	Slc35e3	no	no	yes	yes	CONSERVED	yes	C	C
+437	Shmt2	no	no	yes	yes	CONSERVED	yes	C	C
+473	Itga7	no	no	no	no		yes	none	none
+492	Rnf215	no	no	yes	yes	CONSERVED	yes	C	C
+520	Ppia	no	no	no	no		yes	none	none
+535	Plek	no	no	yes	yes	CONSERVED	yes	C	C
+626	Cnot6	no	no	no	no		yes	none	none
+646	Sar1b	no	no	yes	no	CONSERVED	yes	C	none
+696	Snap47	no	no	yes	yes	CONSERVED	yes	C	C
+776	Eif4a1	no	no	no	no		yes	none	none
+789	Gabarap	no	no	yes	yes	CONSERVED	yes	C	C
+805	Spag7	no	no	yes	yes	CONSERVED	yes	C	C
+812	Derl2	no	no	no	no		yes	none	none
+830	Tax1bp3	no	no	yes	yes	CONSERVED	yes	C	C
+838	Tsr1	no	no	yes	yes	CONSERVED	yes	C	C
+878	Fam222b	no	no	yes	yes	CONSERVED	yes	C	C
+880	Nek8	no	no	yes	yes	CONSERVED	yes	C	C
+927	Rad51d	no	no	no	no		yes	none	none
+971	Mtmr4	no	no	yes	yes	CONSERVED	yes	C	C
+1044	Psmd3	no	no	no	yes	CONSERVED	yes	none	C
+1064	Acly	no	no	yes	yes	CONSERVED	yes	C	C
+1065	Cnp	yes	yes	yes	yes	CONSERVED	yes	B	B
+1079	Mlx	no	no	no	no		yes	none	none
+1095	Rnd2	no	no	yes	yes	CONSERVED	yes	C	C
+1137	Cdc27	no	no	no	yes	CONSERVED	yes	none	C
+1183	Cdc42ep4	no	no	yes	yes	CONSERVED	yes	C	C
+1193	Slc9a3r1	no	no	yes	yes	CONSERVED	yes	C	C
+1207	Mif4gd	no	no	no	yes	CONSERVED	yes	none	C
+1217	Unk	no	no	yes	yes	CONSERVED	yes	C	C
+1220	Fbf1	no	no	yes	yes	CONSERVED	yes	C	C
+1279	P4hb	no	no	yes	yes	CONSERVED	yes	C	C
+1321	Laptm4a	no	no	yes	yes	CONSERVED	yes	C	C
+1332	Trib2	no	no	yes	yes	CONSERVED	yes	C	C
+1345	Rrm2	no	no	no	no		yes	none	none
+1350	Rps7	no	no	no	no		yes	none	none
+1422	Gm49383	no	no	yes	yes	CONSERVED	yes	C	C
+1447	Rtn1	no	no	no	no		yes	none	none
+1459	Wdr89	no	no	yes	yes	CONSERVED	yes	C	C
+1489	Med6	no	no	yes	yes	CONSERVED	yes	C	C
+1541	Sel1l	no	no	yes	yes	CONSERVED	yes	C	C
+1563	Ubr7	no	no	yes	yes	CONSERVED	yes	C	C
+1579	Degs2	no	no	yes	yes	CONSERVED	yes	C	C
+1598	Ppp1r13b	no	no	yes	no	CONSERVED	yes	C	none
+1614	Crip2	no	no	yes	yes	CONSERVED	yes	C	C
+1776	Rab24	no	no	no	no	CONSERVED	yes	none	none
+1777	Prelid1	no	no	no	yes	CONSERVED	yes	none	C
+1784	Tmed9	no	no	yes	yes	CONSERVED	yes	C	C
+1789	Txndc15	no	no	yes	yes	CONSERVED	yes	C	C
+1794	Smad5	no	no	yes	yes	CONSERVED	yes	C	C
+1815	Zfp367	no	no	no	no		yes	none	none
+1952	Fam107a	yes	yes	yes	yes	CONSERVED	yes	B	B
+2034	Glud1	no	no	yes	yes	CONSERVED	yes	C	C
+2039	Ccser2	no	no	yes	yes	CONSERVED	yes	C	C
+2048	Fermt2	no	no	yes	yes	CONSERVED	yes	C	C
+2055	Atg14	no	no	no	no		yes	none	none
+2067	Pip4p1	no	no	no	no		yes	none	none
+2072	Ndrg2	yes	no	yes	yes	CONSERVED	yes	B	C
+2320	Dap	no	no	yes	yes	CONSERVED	yes	C	C
+2348	Slc25a32	no	no	yes	yes	CONSERVED	yes	C	C
+2408	Ly6a	no	no	no	yes	CONSERVED	yes	none	C
+2409	Ly6c1	no	no	yes	yes	CONSERVED	yes	C	C
+2498	Tab1	no	no	yes	yes	CONSERVED	yes	C	C
+2514	Aco2	no	no	yes	yes	CONSERVED	yes	C	C
+2522	1500009C09Rik	no	no	yes	yes	CONSERVED	yes	C	C
+2572	Ncaph2	no	no	no	no		yes	none	none
+2610	Cacnb3	no	no	yes	yes	CONSERVED	yes	C	C
+2649	Grasp	no	no	yes	yes	CONSERVED	yes	C	C
+2736	Mapk1	no	no	yes	yes	CONSERVED	yes	C	C
+2760	Zdhhc8	no	no	yes	yes	CONSERVED	yes	C	C
+2773	Cldn5	no	no	yes	yes	CONSERVED	yes	C	C
+2783	Map6d1	no	no	yes	yes	CONSERVED	yes	C	C
+2821	Lsg1	no	no	yes	yes	CONSERVED	yes	C	C
+2829	Ncbp2	no	no	yes	yes	CONSERVED	yes	C	C
+2875	Arhgap31	no	no	no	no		yes	none	none
+2928	Cadm2	no	no	yes	yes	CONSERVED	yes	C	C
+2953	Olig1	no	no	yes	yes	CONSERVED	yes	C	C
+3063	Atp6v0c	no	no	yes	yes	CONSERVED	yes	C	C
+3071	Mlst8	no	no	yes	yes	CONSERVED	yes	C	C
+3078	Syngr3	no	no	yes	yes	CONSERVED	yes	C	C
+3173	Zfp952	no	no	no	no		yes	none	none
+3226	Ddah2	no	no	yes	yes	CONSERVED	yes	C	C
+3231	Atp6v1g2	no	no	yes	yes	CONSERVED	yes	C	C
+3233	H2-D1	no	no	yes	yes	CONSERVED	yes	C	C
+3281	Vegfa	no	no	yes	yes	CONSERVED	yes	C	C
+3326	Sh3gl1	no	no	yes	yes	CONSERVED	yes	C	C
+3429	Socs5	no	no	yes	yes	CONSERVED	yes	C	C
+3597	Arap3	no	no	yes	yes	CONSERVED	yes	C	C
+3623	Hsd17b4	no	no	yes	yes	CONSERVED	yes	C	C
+3638	C330018D20Rik	no	no	yes	yes	CONSERVED	yes	C	C
+3651	Dctn4	no	no	yes	yes	CONSERVED	yes	C	C
+3689	Spire1	no	no	yes	yes	CONSERVED	yes	C	C
+3692	Seh1l	no	no	yes	yes	CONSERVED	yes	C	C
+3713	Ier3ip1	no	no	no	no		yes	none	none
+3735	Socs6	no	no	no	yes	CONSERVED	yes	none	C
+3835	Stip1	no	no	yes	yes	CONSERVED	yes	C	C
+3858	Gm49416	no	no	no	no		yes	none	none
+3859	Ganab	no	no	yes	yes	CONSERVED	yes	C	C
+3987	Pgam1	no	no	no	yes	CONSERVED	yes	none	C
+4010	Hif1an	no	no	yes	yes	CONSERVED	yes	C	C
+4050	Nutf2-ps1	no	no	yes	yes	CONSERVED	yes	C	C
+4085	Gm37988	no	no	yes	yes	CONSERVED	yes	C	C
+4088	Atp6v1h	no	no	yes	yes	CONSERVED	yes	C	C
+4161	Fhl2	no	no	no	yes	CONSERVED	yes	none	C
+4198	Spats2l	no	no	yes	yes	CONSERVED	yes	C	C
+4204	Orc2	no	no	yes	yes	CONSERVED	yes	C	C
+4216	Fam117b	no	no	yes	yes	CONSERVED	yes	C	C
+4289	Serpine2	no	no	no	yes	CONSERVED	yes	none	C
+4359	Bok	no	no	yes	yes	CONSERVED	yes	C	C
+4399	Dars	no	no	no	yes	CONSERVED	yes	none	C
+4436	Rabif	no	no	yes	yes	CONSERVED	yes	C	C
+4475	Arpc5	no	no	yes	yes	CONSERVED	yes	C	C
+4524	Aldh9a1	no	no	yes	yes	CONSERVED	yes	C	C
+4534	Uap1	no	no	yes	yes	CONSERVED	yes	C	C
+4574	Ackr1	no	no	no	yes	CONSERVED	yes	none	C
+4591	Cnst	no	no	yes	yes	CONSERVED	yes	C	C
+4612	Degs1	no	no	yes	yes	CONSERVED	yes	C	C
+4672	Usp6nl	no	no	yes	yes	CONSERVED	yes	C	C
+4681	Fbh1	no	no	yes	yes	CONSERVED	yes	C	C
+4684	Pter	no	no	yes	yes	CONSERVED	yes	C	C
+4732	Traf2	no	no	yes	yes	CONSERVED	yes	C	C
+4799	Tor1a	no	no	yes	no	CONSERVED	yes	C	none
+4832	Ralgps1	no	no	no	yes	CONSERVED	yes	none	C
+4880	Acvr1	no	no	no	no		yes	none	none
+4886	Cd302	no	no	no	yes	CONSERVED	yes	none	C
+4921	Pdk1	no	no	yes	yes	CONSERVED	yes	C	C
+4925	Sp3	no	no	yes	yes	CONSERVED	yes	C	C
+4963	Zdhhc5	no	no	yes	yes	CONSERVED	yes	C	C
+5175	Gfra4	no	no	yes	no	CONSERVED	yes	C	none
+5185	Prnp	no	no	yes	yes	CONSERVED	yes	C	C
+5229	Thbd	no	no	yes	yes	CONSERVED	yes	C	C
+5319	Nnat	no	no	yes	yes	CONSERVED	yes	C	C
+5326	Ralgapb	no	no	yes	yes	CONSERVED	yes	C	C
+5389	Ube2v1	no	no	yes	yes	CONSERVED	yes	C	C
+5401	Bcas1	no	no	yes	yes	CONSERVED	yes	C	C
+5407	Rtf2	no	no	yes	yes	CONSERVED	yes	C	C
+5420	Prelid3b	no	no	yes	yes	CONSERVED	yes	C	C
+5500	Car2	no	no	yes	yes	CONSERVED	yes	C	C
+5509	Tbl1xr1	no	no	yes	yes	CONSERVED	yes	C	C
+5561	Lhfp	no	no	yes	yes	CONSERVED	yes	C	C
+5668	Ash1l	no	no	no	no		yes	none	none
+5671	Scamp3	no	no	yes	yes	CONSERVED	yes	C	C
+5687	Shc1	no	no	yes	yes	CONSERVED	yes	C	C
+5690	Pmvk	no	no	yes	yes	CONSERVED	yes	C	C
+5712	S100a16	no	no	yes	yes	CONSERVED	yes	C	C
+5733	Prune1	no	no	yes	yes	CONSERVED	yes	C	C
+5747	Aph1a	no	no	yes	yes	CONSERVED	yes	C	C
+5817	Gstm1	no	no	no	yes	CONSERVED	yes	none	C
+5823	Sort1	no	no	yes	yes	CONSERVED	yes	C	C
+5952	Asph	no	no	yes	yes	CONSERVED	yes	C	C
+5977	Ttpa	no	no	no	no		yes	none	none
+6011	Nol6	no	no	no	no		yes	none	none
+6016	Nudt2	no	no	yes	yes	CONSERVED	yes	C	C
+6017	Myorg	no	no	yes	yes	CONSERVED	yes	C	C
+6070	Tmod1	no	no	no	no		yes	none	none
+6094	Klf4	no	no	no	no		yes	none	none
+6129	Megf9	no	no	yes	yes	CONSERVED	yes	C	C
+6131	Kdm4c	no	no	yes	yes	CONSERVED	yes	C	C
+6196	Prpf38a	no	no	no	yes	CONSERVED	yes	none	C
+6234	Rnf220	no	no	yes	yes	CONSERVED	yes	C	C
+6235	Eri3	no	no	yes	yes	CONSERVED	yes	C	C
+6264	Smap2	no	no	no	yes	CONSERVED	yes	none	C
+6296	Trappc3	no	no	yes	yes	CONSERVED	yes	C	C
+6306	Smim12	no	no	yes	yes	CONSERVED	yes	C	C
+6334	Pef1	no	no	yes	yes	CONSERVED	yes	C	C
+6377	Hmgn2	no	no	yes	yes	CONSERVED	yes	C	C
+6378	Dhdds	no	no	no	yes	CONSERVED	yes	none	C
+6379	Sh3bgrl3	no	no	no	yes	CONSERVED	yes	none	C
+6395	Syf2	no	no	yes	yes	CONSERVED	yes	C	C
+6456	Efhd2	no	no	yes	yes	CONSERVED	yes	C	C
+6458	Kazn	no	yes	yes	yes	CONSERVED	yes	C	B
+6470	Plod1	no	no	no	yes	CONSERVED	yes	none	C
+6479	Ubiad1	no	no	yes	yes	CONSERVED	yes	C	C
+6519	Tprgl	no	no	yes	yes	CONSERVED	yes	C	C
+6532	Cfap74	no	no	yes	yes	CONSERVED	yes	C	C
+6533	Gnb1	no	no	yes	yes	CONSERVED	yes	C	C
+6536	Fndc10	no	no	yes	yes	CONSERVED	yes	C	C
+6542	Ccnl2	no	no	no	no		yes	none	none
+6550	B3galt6	no	no	yes	yes	CONSERVED	yes	C	C
+6563	Cldn12	no	no	yes	yes	not	yes	D	C
+6605	Abcf2	no	no	no	yes	not	yes	none	C
+6658	Fgfr3	no	no	yes	yes	not	yes	D	C
+6659	Nsd2	no	no	no	no		yes	none	none
+6682	Mrfap1	no	no	yes	yes	not	yes	D	C
+6693	Wdr1	no	no	yes	yes	not	yes	D	C
+6749	Sgcb	no	no	yes	yes	not	yes	D	C
+6798	Enoph1	no	no	yes	no	not	yes	D	none
+6817	Sparcl1	yes	no	yes	yes	not	yes	D	C
+6836	Rpl5	no	no	no	no		yes	none	none
+6852	Pgam5	no	no	yes	yes	not	yes	D	C
+6902	Triap1	no	no	yes	yes	not	yes	D	C
+6912	Suds3	no	no	yes	yes	not	yes	D	C
+6916	Rfc5	no	no	yes	yes	not	yes	D	C
+7000	Psph	no	no	yes	no	not	yes	D	none
+7030	Por	no	no	yes	yes	not	yes	D	C
+7044	Ap1s1	no	no	yes	yes	not	yes	D	C
+7070	Cnpy4	no	no	yes	yes	not	yes	D	C
+7164	Casd1	no	no	yes	yes	not	yes	D	C
+7211	Ube2h	no	no	yes	yes	not	yes	D	C
+7304	Adcyap1r1	no	no	yes	yes	not	yes	D	C
+7306	Avl9	no	no	yes	yes	not	yes	D	C
+7347	Tgoln1	no	no	yes	yes	not	yes	D	C
+7391	Pcyox1	no	no	yes	yes	not	yes	D	C
+7510	Atp6v1e1	no	no	yes	yes	not	yes	D	C
+7512	Bid	no	no	yes	yes	not	yes	D	C
+7543	Mlf2	no	no	yes	yes	not	yes	D	C
+7546	Ing4	no	no	yes	yes	not	yes	D	C
+7686	Arhgap35	no	no	yes	yes	not	yes	D	C
+7729	Tomm40	no	no	yes	yes	not	yes	D	C
+7751	Dedd2	no	no	no	yes	not	yes	none	C
+7797	Sirt2	yes	yes	yes	yes	not	yes	D	B
+7821	Aplp1	no	yes	yes	yes	not	yes	D	B
+7856	1600014C10Rik	no	no	yes	yes	not	yes	D	C
+7873	Emc10	no	no	yes	yes	not	yes	D	C
+7917	Kdelr1	no	no	yes	yes	not	yes	D	C
+7942	Atp10a	no	no	yes	yes	not	yes	D	C
+7956	Pcsk6	no	no	yes	yes	not	yes	D	C
+7958	Selenos	no	no	no	no		yes	none	none
+8058	Coa4	no	no	yes	yes	not	yes	D	C
+8114	Denn2b	no	no	yes	yes	not	yes	D	C
+8246	Itgam	no	no	no	no		yes	none	none
+8254	Bag3	no	no	yes	yes	not	yes	D	C
+8318	Polr2l	no	no	no	no		yes	none	none
+8325	Ctsd	no	no	yes	yes	not	yes	D	C
+8350	Mcoln1	no	no	no	yes	not	yes	none	C
+8411	Plekha2	no	no	yes	yes	not	yes	D	C
+8440	Leprotl1	no	no	yes	yes	not	yes	D	C
+8477	Gpm6a	no	no	no	no		yes	none	none
+8485	Clcn3	no	no	yes	yes	not	yes	D	C
+8492	Cpe	yes	no	no	yes	not	yes	none	C
+8538	Jund	no	no	yes	yes	not	yes	D	C
+8584	Tom1	no	no	yes	yes	not	yes	D	C
+8595	Abce1	no	no	yes	yes	not	yes	D	C
+8625	Dand5	no	no	yes	no	not	yes	D	none
+8641	Wdr83os	no	no	yes	yes	not	yes	D	C
+8681	Ccdc102a	no	no	yes	yes	not	yes	D	C
+8694	Got2	no	no	yes	yes	not	yes	D	C
+8702	Dync1li2	no	no	yes	yes	not	yes	D	C
+8724	Ranbp10	no	no	no	no		yes	none	none
+8727	Nutf2	no	no	yes	yes	not	yes	D	C
+8728	Edc4	no	no	yes	yes	not	yes	D	C
+8743	Nip7	no	no	yes	yes	not	yes	D	C
+8753	Ap1g1	no	no	yes	yes	not	yes	D	C
+8798	Usp10	no	no	yes	yes	not	yes	D	C
+8804	Gins2	no	no	yes	yes	not	yes	D	C
+8829	Chmp1a	no	no	yes	yes	not	yes	D	C
+8836	Afg3l1	no	no	yes	yes	not	yes	D	C
+8853	Egln1	no	no	yes	yes	not	yes	D	C
+8899	Zfp317	no	no	no	no		yes	none	none
+8926	Tmed1	no	no	no	no		yes	none	none
+8944	Elof1	no	no	yes	yes	not	yes	D	C
+8997	Gm49380	no	no	yes	yes	not	yes	D	C
+9032	Rbm7	no	no	no	no		yes	none	none
+9058	Cul5	no	no	yes	yes	not	yes	D	C
+9066	Psma4	no	no	no	no	not	yes	none	none
+9087	Mpi	no	no	no	yes	not	yes	none	C
+9109	Pkm	no	no	yes	yes	not	yes	D	C
+9145	Snx1	no	no	yes	yes	not	yes	D	C
+9146	Ciao2a	no	no	yes	no	not	yes	D	none
+9152	Lactb	no	no	yes	yes	not	yes	D	C
+9172	Gm44503	no	no	no	no		yes	none	none
+9196	Tmem30a	no	no	yes	yes	not	yes	D	C
+9199	Myo6	no	no	yes	yes	not	yes	D	C
+9203	Sh3bgrl2	no	no	yes	yes	not	yes	D	C
+9260	Acad11	no	no	yes	yes	not	yes	D	C
+9262	Nudt16	no	no	yes	yes	not	yes	D	C
+9299	Gmppb	no	no	yes	yes	not	yes	D	C
+9347	Crtap	no	no	yes	yes	not	yes	D	C
+9387	Tmem42	no	no	no	yes	not	yes	none	C
+9404	Gpkow	no	no	yes	yes	not	yes	D	C
+9487	Zic3	no	no	yes	yes	not	yes	D	C
+9504	Bgn	no	no	yes	yes	not	yes	D	C
+9521	Ikbkg	no	no	yes	yes	not	yes	D	C
+9551	Igbp1	no	no	yes	yes	not	yes	D	C
+9560	Nono	no	no	yes	yes	not	yes	D	C
+9581	Itm2a	no	no	yes	yes	not	yes	D	C
+9613	Bex2	no	no	no	yes	not	yes	none	C
+9622	Morf4l2	no	no	yes	yes	not	yes	D	C
+61	Soga3	no	no	no	no		yes	none	none
+165	Egr2	no	no	no	no		yes	none	none
+224	Hcn2	no	no	no	yes	CONSERVED	yes	none	C
+345	Ntn4	no	no	no	no		yes	none	none
+356	Nudt4	no	no	yes	yes	CONSERVED	yes	C	C
+480	Rnf185	no	no	no	no		yes	none	none
+513	Ykt6	no	no	no	no		yes	none	none
+553	B3gnt2	no	no	no	no		yes	none	none
+580	Rhbdf1	no	no	yes	yes	CONSERVED	yes	C	C
+628	Mapk9	no	no	yes	yes	CONSERVED	yes	C	C
+757	Arhgef15	no	no	yes	yes	CONSERVED	yes	C	C
+835	Pafah1b1	no	no	yes	yes	CONSERVED	yes	C	C
+870	Git1	no	no	no	no		yes	none	none
+911	Adap2	no	no	no	no		yes	none	none
+959	Rps6kb1	no	no	yes	yes	CONSERVED	yes	C	C
+980	Coil	no	no	yes	yes	CONSERVED	yes	C	C
+990	Spag9	no	no	yes	yes	CONSERVED	yes	C	C
+1012	Abi3	no	no	yes	yes	CONSERVED	yes	C	C
+1072	Stat5b	no	no	no	yes	CONSERVED	yes	none	C
+1123	Nmt1	no	no	yes	yes	CONSERVED	yes	C	C
+1194	Tmem104	no	no	yes	yes	CONSERVED	yes	C	C
+1306	Rab10	no	no	yes	yes	CONSERVED	yes	C	C
+1426	Klhdc2	no	no	yes	yes	CONSERVED	yes	C	C
+1577	Eml1	no	no	yes	yes	CONSERVED	yes	C	C
+1608	Cdca4	no	no	yes	yes	CONSERVED	yes	C	C
+1647	Mplkip	no	no	yes	yes	CONSERVED	yes	C	C
+1746	Spin1	no	no	yes	yes	CONSERVED	yes	C	C
+1798	Gkap1	no	no	no	no		yes	none	none
+1846	Ccdc127	no	no	yes	yes	CONSERVED	yes	C	C
+1873	Tent2	no	no	yes	yes	CONSERVED	yes	C	C
+1968	Rtraf	no	no	no	no		yes	none	none
+2112	Nop9	no	no	yes	yes	CONSERVED	yes	C	C
+2174	Nefl	no	no	no	no		yes	none	none
+2249	Ednrb	no	no	no	no		yes	none	none
+2343	Klf10	no	no	yes	yes	CONSERVED	yes	C	C
+2401	Slc45a4	no	no	yes	yes	CONSERVED	yes	C	C
+2406	Lynx1	no	no	yes	yes	CONSERVED	yes	C	C
+2446	Lrrc14	no	no	yes	yes	CONSERVED	yes	C	C
+2557	Brd1	no	no	no	no		yes	none	none
+2588	Pphln1	no	no	yes	yes	CONSERVED	yes	C	C
+2703	Carhsp1	no	no	yes	yes	CONSERVED	yes	C	C
+2705	1810013L24Rik	no	no	yes	yes	CONSERVED	yes	C	C
+2823	Xxylt1	no	no	no	no		yes	none	none
+2960	Cryzl1	no	no	no	no		yes	none	none
+2971	Ttc3	no	no	yes	yes	CONSERVED	yes	C	C
+2997	Dynlt1b	no	no	yes	yes	CONSERVED	yes	C	C
+3039	Lix1	no	no	no	no		yes	none	none
+3114	Axin1	no	no	no	no		yes	none	none
+3215	Dxo	no	no	yes	yes	CONSERVED	yes	C	C
+3221	Neu1	no	no	yes	yes	CONSERVED	yes	C	C
+3400	Cdc42ep3	no	no	no	no		yes	none	none
+3516	Egr1	no	no	yes	yes	CONSERVED	yes	C	C
+3632	Csnk1g3	no	no	yes	yes	CONSERVED	yes	C	C
+3664	Csnk1a1	no	no	yes	yes	CONSERVED	yes	C	C
+3695	Rnmt	no	no	yes	yes	CONSERVED	yes	C	C
+3818	Ehd1	no	no	yes	yes	CONSERVED	yes	C	C
+3917	Fam189a2	no	no	no	no		yes	none	none
+3953	Ifit2	no	no	no	no		yes	none	none
+3992	Morn4	no	no	yes	yes	CONSERVED	yes	C	C
+4020	Kcnip2	no	no	no	no		yes	none	none
+4023	Pprc1	no	no	no	no		yes	none	none
+4103	Eloc	no	no	yes	yes	CONSERVED	yes	C	C
+4408	Nucks1	no	no	yes	yes	CONSERVED	yes	C	C
+4800	BC005624	no	no	yes	yes	CONSERVED	yes	C	C
+5093	Zfp106	no	no	yes	yes	CONSERVED	yes	C	C
+5126	Dut	no	no	yes	yes	CONSERVED	yes	C	C
+5202	Snap25	no	no	yes	yes	CONSERVED	yes	C	C
+5432	2210418O10Rik	no	no	yes	yes	CONSERVED	yes	C	C
+5457	Mrgbp	no	no	yes	yes	CONSERVED	yes	C	C
+5549	Pgrmc2	no	no	yes	yes	CONSERVED	yes	C	C
+5631	Arfip1	no	no	yes	yes	CONSERVED	yes	C	C
+5791	Phtf1	no	no	yes	yes	CONSERVED	yes	C	C
+5860	1810037I17Rik	no	no	yes	yes	CONSERVED	yes	C	C
+5919	Ssx2ip	no	no	no	no		yes	none	none
+5946	Ubxn2b	no	no	yes	yes	CONSERVED	yes	C	C
+5957	Ints8	no	no	yes	yes	CONSERVED	yes	C	C
+6224	Gpbp1l1	no	no	no	no		yes	none	none
+6401	Fuca1	no	no	yes	yes	CONSERVED	yes	C	C
+6412	Luzp1	no	no	no	no		yes	none	none
+6480	Mtor	no	no	no	no		yes	none	none
+6534	Nadk	no	no	yes	yes	CONSERVED	yes	C	C
+6651	Yes1	no	no	no	no		yes	none	none
+6670	Lrpap1	no	no	yes	yes	not	yes	D	C
+6785	Scarb2	no	no	yes	yes	not	yes	D	C
+6788	Ccng2	no	no	no	no		yes	none	none
+6831	Zfp644	no	no	no	no		yes	none	none
+6837	Dipk1a	no	no	yes	yes	not	yes	D	C
+6840	Dr1	no	no	no	no		yes	none	none
+6886	Git2	no	no	yes	yes	not	yes	D	C
+6895	Mlec	no	no	yes	yes	not	yes	D	C
+6953	Atp2a2	yes	yes	yes	yes	not	yes	D	B
+6961	Rhof	no	no	no	no		yes	none	none
+6994	Ran	no	no	yes	yes	not	yes	D	C
+7101	Ap5z1	no	no	yes	yes	not	yes	D	C
+7129	Smurf1	no	no	yes	yes	not	yes	D	C
+7146	Ubl3	no	no	yes	yes	not	yes	D	C
+7212	Klhdc10	no	no	yes	yes	not	yes	D	C
+7295	Tril	no	no	no	no		yes	none	none
+7315	Nap1l5	no	no	no	no		yes	none	none
+7453	Sumf1	no	no	yes	yes	not	yes	D	C
+7706	Qpctl	no	no	yes	yes	not	yes	D	C
+7823	Arhgap33	no	no	no	yes	not	yes	none	C
+7938	Nipa2	no	no	no	yes	not	yes	none	C
+8073	Anapc15	no	no	yes	yes	not	yes	D	C
+8321	Ap2a2	no	no	yes	yes	not	yes	D	C
+8446	Mfhas1	no	no	no	no		yes	none	none
+8572	Gm10282	no	no	no	no		yes	none	none
+8579	Smim7	no	no	yes	yes	not	yes	D	C
+8596	Anapc10	no	no	yes	yes	not	yes	D	C
+8653	Heatr3	no	no	no	no		yes	none	none
+8659	Cyld	no	no	yes	yes	not	yes	D	C
+8722	Acd	no	no	yes	yes	not	yes	D	C
+8934	Rab3d	no	no	yes	yes	not	yes	D	C
+8942	Zfp653	no	no	no	yes	not	yes	none	C
+9043	Dlat	no	no	yes	yes	not	yes	D	C
+9072	Hmg20a	no	no	yes	yes	not	yes	D	C
+9445	Usp11	no	no	yes	yes	not	yes	D	C
+9457	C330007P06Rik	no	no	yes	yes	not	yes	D	C
+9524	Fundc2	no	no	yes	yes	not	yes	D	C
+9544	Zxdb	no	no	yes	yes	not	yes	D	C
+9546	Msn	no	no	yes	yes	not	yes	D	C
+9578	Taf9b	no	no	no	yes	not	yes	none	C
+9606	Tceal6	no	no	no	no		yes	none	none
+9647	Fgd1	no	no	no	no		yes	none	none
+44	Sgk1	no	no	yes	yes	CONSERVED	yes	C	C
+119	Serinc1	no	no	yes	yes	CONSERVED	yes	C	C
+133	Dnajb12	no	no	yes	yes	CONSERVED	yes	C	C
+241	Atp5d	no	no	no	yes	CONSERVED	yes	none	C
+288	Mfsd12	no	no	yes	yes	CONSERVED	yes	C	C
+300	Tle5	no	no	yes	yes	CONSERVED	yes	C	C
+301	Tle6	no	no	no	no		yes	none	none
+332	Gnptab	no	no	no	no		yes	none	none
+453	Cs	no	no	yes	yes	CONSERVED	yes	C	C
+493	Ccdc157	no	no	yes	yes	CONSERVED	yes	C	C
+521	H2az2	no	no	no	yes	CONSERVED	yes	none	C
+647	Ube2b	no	no	yes	yes	CONSERVED	yes	C	C
+704	Med9	no	no	yes	yes	CONSERVED	yes	C	C
+732	Zswim7	no	no	yes	no	CONSERVED	yes	C	none
+775	Mpdu1	no	no	yes	yes	CONSERVED	yes	C	C
+813	Mis12	no	no	yes	yes	CONSERVED	yes	C	C
+825	Atp2a3	no	no	yes	yes	CONSERVED	yes	C	C
+975	Srsf1	no	no	yes	yes	CONSERVED	yes	C	C
+976	Vezf1	no	no	yes	yes	CONSERVED	yes	C	C
+1061	P3h4	no	no	yes	yes	CONSERVED	yes	C	C
+1102	Dusp3	no	no	yes	yes	CONSERVED	yes	C	C
+1103	Mpp2	no	no	no	yes	CONSERVED	yes	none	C
+1129	Arhgap27	no	no	no	yes	CONSERVED	yes	none	C
+1144	Dcaf7	no	no	yes	yes	CONSERVED	yes	C	C
+1180	Slc39a11	no	no	yes	yes	CONSERVED	yes	C	C
+1184	Ttyh2	no	no	no	no		yes	none	none
+1198	Cdr2l	no	no	yes	yes	CONSERVED	yes	C	C
+1303	Wdr45b	no	no	yes	yes	CONSERVED	yes	C	C
+1304	Rab40b	no	no	yes	yes	CONSERVED	yes	C	C
+1324	Rdh14	no	no	yes	yes	CONSERVED	yes	C	C
+1396	Dtd2	no	no	yes	yes	CONSERVED	yes	C	C
+1455	Hif1a	no	no	yes	yes	CONSERVED	yes	C	C
+1503	Aldh6a1	no	no	no	yes	CONSERVED	yes	none	C
+1507	Isca2	no	no	yes	yes	CONSERVED	yes	C	C
+1513	Pgf	no	no	yes	yes	CONSERVED	yes	C	C
+1591	Gm266	no	no	yes	yes	CONSERVED	yes	C	C
+1653	Epdr1	no	no	yes	yes	CONSERVED	yes	C	C
+1669	H1f2	no	no	yes	yes	CONSERVED	yes	C	C
+1736	Phf2	no	no	yes	yes	CONSERVED	yes	C	C
+1764	Higd2a	no	no	yes	yes	CONSERVED	yes	C	C
+1865	Rps23	no	no	no	no		yes	none	none
+1964	Nkiras1	no	no	no	no		yes	none	none
+1984	Vcl	no	no	yes	yes	CONSERVED	yes	C	C
+1985	Ap3m1	no	no	no	no		yes	none	none
+1993	Ppif	no	no	yes	yes	CONSERVED	yes	C	C
+1994	Zcchc24	no	no	yes	yes	CONSERVED	yes	C	C
+2069	Rnase4	no	no	yes	yes	CONSERVED	yes	C	C
+2139	Mtmr6	no	no	yes	yes	CONSERVED	yes	C	C
+2165	Ephx2	no	no	yes	yes	CONSERVED	yes	C	C
+2166	Ptk2b	no	no	no	yes	CONSERVED	yes	none	C
+2228	Rgcc	no	no	yes	yes	CONSERVED	yes	C	C
+2243	Commd6	no	no	yes	yes	CONSERVED	yes	C	C
+2313	Zfp622	no	no	no	no		yes	none	none
+2318	Trio	no	no	no	no		yes	none	none
+2347	Cthrc1	no	no	yes	yes	CONSERVED	yes	C	C
+2433	Maf1	no	no	yes	yes	CONSERVED	yes	C	C
+2442	Cyhr1	no	no	no	no		yes	none	none
+2449	Zfp251	no	no	yes	yes	CONSERVED	yes	C	C
+2470	Pdxp	no	no	yes	yes	CONSERVED	yes	C	C
+2508	Ep300	no	no	yes	yes	CONSERVED	yes	C	C
+2530	Poldip3	no	no	yes	yes	CONSERVED	yes	C	C
+2664	Prr13	no	no	yes	yes	CONSERVED	yes	C	C
+2688	Cdip1	no	no	no	no		yes	none	none
+2785	Dvl3	no	no	yes	yes	CONSERVED	yes	C	C
+2842	Osbpl11	no	no	yes	yes	CONSERVED	yes	C	C
+2893	Gm4737	no	no	no	yes	CONSERVED	yes	none	C
+2903	Zbtb11	no	no	yes	yes	CONSERVED	yes	C	C
+2921	Pros1	no	no	no	yes	CONSERVED	yes	none	C
+2926	Chmp2b	no	no	no	yes	CONSERVED	yes	none	C
+3012	Mpc1	no	no	yes	yes	CONSERVED	yes	C	C
+3021	Mrpl18	no	no	yes	yes	CONSERVED	yes	C	C
+3031	Phf10	no	no	yes	yes	CONSERVED	yes	C	C
+3067	Rnps1	no	no	yes	yes	CONSERVED	yes	C	C
+3070	Pgp	no	no	no	no		yes	none	none
+3096	Rpusd1	no	no	yes	yes	CONSERVED	yes	C	C
+3100	Jmjd8	no	no	no	no		yes	none	none
+3103	Gm20683	no	no	yes	yes	CONSERVED	yes	C	C
+3183	Rps28	no	no	no	no		yes	none	none
+3223	Hspa1a	no	no	no	yes	CONSERVED	yes	none	C
+3225	Clic1	no	no	no	no	CONSERVED	yes	none	none
+3243	Tubb5	no	no	no	no		yes	none	none
+3248	Ppp1r10	no	no	yes	yes	CONSERVED	yes	C	C
+3256	Ppp1r11	no	no	yes	yes	CONSERVED	yes	C	C
+3303	Mrps10	no	no	yes	yes	CONSERVED	yes	C	C
+3306	Med20	no	no	yes	yes	CONSERVED	yes	C	C
+3310	Tfeb	no	no	yes	yes	CONSERVED	yes	C	C
+3348	Khsrp	no	no	yes	yes	CONSERVED	yes	C	C
+3376	Gm49909	no	no	yes	no	CONSERVED	yes	C	none
+3411	Tmem178	no	no	yes	yes	CONSERVED	yes	C	C
+3414	Cox7a2l	no	no	yes	yes	CONSERVED	yes	C	C
+3443	Jcad	no	no	yes	yes	CONSERVED	yes	C	C
+3499	Sft2d3	no	no	yes	yes	CONSERVED	yes	C	C
+3590	Pcdhgc3	no	no	yes	yes	CONSERVED	yes	C	C
+3709	Acaa2	no	no	no	yes	CONSERVED	yes	none	C
+3723	Gm16286	no	no	yes	yes	CONSERVED	yes	C	C
+3738	Cpt1a	no	no	yes	yes	CONSERVED	yes	C	C
+3741	1810055G02Rik	no	no	yes	yes	CONSERVED	yes	C	C
+3816	Ppp2r5b	no	no	yes	yes	CONSERVED	yes	C	C
+3839	Spindoc	no	no	yes	yes	CONSERVED	yes	C	C
+3852	Gng3	no	no	no	no		yes	none	none
+3941	Cstf2t	no	no	yes	yes	CONSERVED	yes	C	C
+3958	Pank1	no	no	yes	yes	CONSERVED	yes	C	C
+3959	Rpp30	no	no	yes	yes	CONSERVED	yes	C	C
+3962	Ppp1r3c	no	no	yes	yes	CONSERVED	yes	C	C
+3996	Golga7b	no	no	yes	yes	CONSERVED	yes	C	C
+4022	Ldb1	no	no	yes	yes	CONSERVED	yes	C	C
+4029	Sufu	no	no	yes	yes	CONSERVED	yes	C	C
+4071	Pdzd8	no	no	yes	yes	CONSERVED	yes	C	C
+4159	Tgfbrap1	no	no	yes	yes	CONSERVED	yes	C	C
+4203	Nif3l1	no	no	yes	yes	CONSERVED	yes	C	C
+4235	Acadl	no	no	yes	no	CONSERVED	yes	C	none
+4267	Tuba4a	no	no	no	no		yes	none	none
+4310	Ptma	no	no	yes	yes	CONSERVED	yes	C	C
+4415	Dstyk	no	no	yes	yes	CONSERVED	yes	C	C
+4444	Shisa4	no	no	yes	yes	CONSERVED	yes	C	C
+4564	Pea15a	yes	yes	yes	yes	CONSERVED	yes	B	B
+4565	Igsf8	no	no	yes	yes	CONSERVED	yes	C	C
+4628	Bpnt1	no	no	yes	yes	CONSERVED	yes	C	C
+4712	Arrdc1	no	no	yes	yes	CONSERVED	yes	C	C
+4736	Bmyc	no	no	no	yes	CONSERVED	yes	none	C
+4743	Entr1	no	no	yes	yes	CONSERVED	yes	C	C
+4751	Med22	no	no	yes	yes	CONSERVED	yes	C	C
+4767	Olfm1	no	no	no	yes	CONSERVED	yes	none	C
+4791	Miga2	no	no	yes	yes	CONSERVED	yes	C	C
+4867	Lypd6b	no	no	yes	yes	CONSERVED	yes	C	C
+4877	Gpd2	no	no	yes	yes	CONSERVED	yes	C	C
+4899	Stk39	no	no	yes	yes	CONSERVED	yes	C	C
+4909	Ubr3	no	no	yes	yes	CONSERVED	yes	C	C
+4926	Ola1	no	no	yes	yes	CONSERVED	yes	C	C
+4935	Hnrnpa3	no	no	yes	yes	CONSERVED	yes	C	C
+4956	Calcrl	no	no	yes	yes	CONSERVED	yes	C	C
+5000	Chst1	no	no	yes	yes	CONSERVED	yes	C	C
+5161	Sirpa	no	no	yes	yes	CONSERVED	yes	C	C
+5192	Cds2	no	no	yes	yes	CONSERVED	yes	C	C
+5224	Slc24a3	no	no	yes	yes	CONSERVED	yes	C	C
+5290	Trp53inp2	no	no	yes	yes	CONSERVED	yes	C	C
+5303	Nfs1	no	no	yes	yes	CONSERVED	yes	C	C
+5330	Top1	no	no	yes	yes	CONSERVED	yes	C	C
+5335	Ptprt	no	no	yes	yes	CONSERVED	yes	C	C
+5345	Pkig	no	no	yes	yes	CONSERVED	yes	C	C
+5390	Gm20431	no	no	yes	yes	CONSERVED	yes	C	C
+5423	Gm14391	no	no	no	no		yes	none	none
+5513	Eif5a2	no	no	yes	yes	CONSERVED	yes	C	C
+5645	Hdgf	no	no	yes	yes	CONSERVED	yes	C	C
+5688	Pygo2	no	no	no	no		yes	none	none
+5710	Chtop	no	no	yes	yes	CONSERVED	yes	C	C
+5816	Gstm2	no	no	yes	yes	CONSERVED	yes	C	C
+5970	Tmem64	no	no	yes	yes	CONSERVED	yes	C	C
+6001	Aco1	no	no	yes	yes	CONSERVED	yes	C	C
+6033	Ccl19	no	no	yes	yes	CONSERVED	yes	C	C
+6135	Mpdz	no	no	yes	yes	CONSERVED	yes	C	C
+6213	Efcab14	no	no	yes	yes	CONSERVED	yes	C	C
+6250	Ybx1	no	no	yes	yes	CONSERVED	yes	C	C
+6305	Dlgap3	no	no	yes	yes	CONSERVED	yes	C	C
+6387	Stmn1	no	no	no	no	CONSERVED	yes	none	none
+6390	Selenon	no	no	yes	yes	CONSERVED	yes	C	C
+6410	Zfp46	no	no	yes	yes	CONSERVED	yes	C	C
+6426	Ddost	no	no	yes	yes	CONSERVED	yes	C	C
+6443	Atp13a2	no	no	yes	yes	CONSERVED	yes	C	C
+6498	Eno1	no	no	yes	yes	CONSERVED	yes	C	C
+6548	Acap3	no	no	yes	yes	CONSERVED	yes	C	C
+6647	Zfp512	no	no	yes	yes	not	yes	D	C
+6671	Adra2c	no	no	yes	yes	not	yes	D	C
+6687	Evc2	no	no	yes	yes	not	yes	D	C
+6704	Qdpr	no	no	yes	yes	not	yes	D	C
+6710	5730480H06Rik	no	no	yes	yes	not	yes	D	C
+6751	Rasl11b	no	no	yes	yes	not	yes	D	C
+6756	Kdr	no	no	yes	yes	not	yes	D	C
+6791	Mrpl1	no	no	no	no		yes	none	none
+6799	Sec31a	no	no	yes	yes	not	yes	D	C
+6845	Tmem175	no	no	yes	yes	not	yes	D	C
+6858	Ulk1	no	no	yes	yes	not	yes	D	C
+6925	Plbd2	no	no	yes	yes	not	yes	D	C
+6943	Sh2b3	no	no	no	no		yes	none	none
+6974	Cdk2ap1	no	no	no	yes	not	yes	none	C
+6988	Bri3bp	no	no	yes	yes	not	yes	D	C
+7005	Crcp	no	no	yes	yes	not	yes	D	C
+7025	Baz1b	no	no	yes	yes	not	yes	D	C
+7082	Cox19	no	no	yes	yes	not	yes	D	C
+7123	Lmtk2	no	no	yes	yes	not	yes	D	C
+7147	Katnal1	no	no	no	no		yes	none	none
+7197	Gcc1	no	no	yes	yes	not	yes	D	C
+7261	Cul1	no	no	yes	yes	not	yes	D	C
+7319	Snca	no	no	no	yes	not	yes	none	C
+7331	Krcc1	no	no	yes	yes	not	yes	D	C
+7335	Reep1	no	no	yes	yes	not	yes	D	C
+7394	Pcbp1	no	no	yes	yes	not	yes	D	C
+7470	Emc3	no	no	yes	yes	not	yes	D	C
+7471	Brk1	no	no	yes	yes	not	yes	D	C
+7472	Vhl	no	no	yes	yes	not	yes	D	C
+7478	Atg7	no	no	yes	yes	not	yes	D	C
+7511	Bcl2l13	no	no	yes	yes	not	yes	D	C
+7533	Phb2	no	no	yes	yes	not	yes	D	C
+7586	Strap	no	no	yes	yes	not	yes	D	C
+7596	Ldhb	no	no	no	yes	not	yes	none	C
+7606	Bhlhe41	no	no	no	no		yes	none	none
+7627	Prpf31	no	no	no	no		yes	none	none
+7629	Leng1	no	no	yes	yes	not	yes	D	C
+7762	Hnrnpul1	no	no	yes	yes	not	yes	D	C
+7776	Sertad1	no	no	no	no	not	yes	none	none
+7778	2310022A10Rik	no	no	yes	yes	not	yes	D	C
+7813	Zfp260	no	no	yes	yes	not	yes	D	C
+7836	Scn1b	no	no	yes	yes	not	yes	D	C
+7841	4931406P16Rik	no	no	yes	yes	not	yes	D	C
+7912	Sphk2	no	no	yes	yes	not	yes	D	C
+7929	Tmem86a	no	no	yes	yes	not	yes	D	C
+7992	Pde8a	no	no	yes	yes	not	yes	D	C
+8115	Akip1	no	no	yes	no	not	yes	D	none
+8184	Tufm	no	no	no	no	not	yes	none	none
+8206	Gm42742	no	no	yes	no	not	yes	D	none
+8220	Zfp764	no	no	no	yes	not	yes	none	C
+8263	Htra1	no	no	yes	yes	not	yes	D	C
+8276	Uros	no	no	yes	yes	not	yes	D	C
+8357	Ctxn1	no	no	yes	yes	not	yes	D	C
+8359	Elavl1	no	no	yes	yes	not	yes	D	C
+8416	Bag4	no	no	yes	yes	not	yes	D	C
+8537	Lsm4	no	no	no	yes	not	yes	none	C
+8560	Slc27a1	no	no	yes	yes	not	yes	D	C
+8631	Gcdh	no	no	yes	yes	not	yes	D	C
+8637	Trir	no	no	yes	yes	not	yes	D	C
+8648	Itfg1	no	no	yes	yes	not	yes	D	C
+8666	Amfr	no	no	yes	yes	not	yes	D	C
+8711	Nol3	no	no	no	no		yes	none	none
+8719	Atp6v0d1	no	no	yes	yes	not	yes	D	C
+8744	Cyb5b	no	no	yes	yes	not	yes	D	C
+8791	Mbtps1	no	no	no	yes	not	yes	none	C
+8796	Meak7	no	no	yes	yes	not	yes	D	C
+8818	Rnf166	no	no	yes	yes	not	yes	D	C
+8854	Sipa1l2	no	no	no	yes	not	yes	none	C
+8976	Ei24	no	no	yes	yes	not	yes	D	C
+9071	Tspan3	no	no	yes	yes	not	yes	D	C
+9178	Arpp19	no	no	no	no		yes	none	none
+9189	Elovl5	no	no	yes	yes	not	yes	D	C
+9193	Eef1a1	no	no	no	yes	not	yes	none	C
+9204	Elovl4	no	no	yes	yes	not	yes	D	C
+9209	Me1	no	no	no	no		yes	none	none
+9277	Rbm15b	no	no	no	no		yes	none	none
+9346	Ubp1	no	no	yes	yes	not	yes	D	C
+9353	Cmtm8	no	no	yes	yes	not	yes	D	C
+9391	Limd1	no	no	yes	yes	not	yes	D	C
+9414	Timm17b	no	no	yes	yes	not	yes	D	C
+9417	Suv39h1	no	no	yes	yes	not	yes	D	C
+9423	Slc38a5	no	no	yes	yes	not	yes	D	C
+9434	Ddx3x	no	no	yes	yes	not	yes	D	C
+9508	Naa10	no	no	yes	yes	not	yes	D	C
+9543	Maged1	no	no	yes	no	not	yes	D	none
+9632	Tsc22d3	no	no	yes	yes	not	yes	D	C
+10	Lrp11	no	no	yes	yes	CONSERVED	yes	C	C
+117	Msl3l2	no	no	yes	yes	CONSERVED	yes	C	C
+137	Psap	no	no	yes	yes	CONSERVED	yes	C	C
+167	Zfp365	no	no	yes	yes	CONSERVED	yes	C	C
+188	Gstt1	no	no	no	yes	CONSERVED	yes	none	C
+266	Oaz1	no	no	yes	yes	CONSERVED	yes	C	C
+329	Hsp90b1	no	no	yes	yes	CONSERVED	yes	C	C
+373	Nav3	no	no	yes	yes	CONSERVED	yes	C	C
+380	Atxn7l3b	no	no	yes	yes	CONSERVED	yes	C	C
+388	Kcnmb4	no	no	yes	yes	CONSERVED	yes	C	C
+487	Tcn2	no	no	yes	yes	CONSERVED	yes	C	C
+503	Ap1b1	no	no	yes	yes	CONSERVED	yes	C	C
+507	Ccdc117	no	no	no	no		yes	none	none
+518	Ogdh	no	no	yes	yes	CONSERVED	yes	C	C
+617	Irgm1	no	no	yes	yes	CONSERVED	yes	C	C
+756	Ndel1	no	no	yes	yes	CONSERVED	yes	C	C
+786	Eif5a	no	no	yes	yes	CONSERVED	yes	C	C
+879	Traf4	no	no	yes	yes	CONSERVED	yes	C	C
+952	Car4	no	no	no	no		yes	none	none
+967	Smg8	no	no	yes	yes	CONSERVED	yes	C	C
+999	Mrpl27	no	no	yes	yes	CONSERVED	yes	C	C
+1036	Ppp1r1b	no	no	yes	yes	CONSERVED	yes	C	C
+1046	Thra	no	no	yes	yes	CONSERVED	yes	C	C
+1112	Grn	no	no	yes	yes	CONSERVED	yes	C	C
+1156	Pecam1	no	no	yes	yes	CONSERVED	yes	C	C
+1219	Trim47	no	no	yes	yes	CONSERVED	yes	C	C
+1222	Ten1	no	no	yes	yes	CONSERVED	yes	C	C
+1227	Prpsap1	no	no	yes	yes	CONSERVED	yes	C	C
+1307	Kif3c	no	no	yes	yes	CONSERVED	yes	C	C
+1331	Lratd1	no	no	yes	yes	CONSERVED	yes	C	C
+1475	Arg2	no	no	no	no	CONSERVED	yes	none	none
+1484	Srsf5	no	no	yes	yes	CONSERVED	yes	C	C
+1531	Vipas39	no	no	yes	yes	CONSERVED	yes	C	C
+1588	Traf3	no	no	no	no		yes	none	none
+1594	Ckb	no	no	no	no	CONSERVED	yes	none	none
+1597	Zfyve21	no	no	yes	yes	CONSERVED	yes	C	C
+1650	Vps41	no	no	yes	yes	CONSERVED	yes	C	C
+1678	Dusp22	no	no	no	no		yes	none	none
+1701	Txndc5	no	no	yes	yes	CONSERVED	yes	C	C
+1726	Cap2	no	no	yes	yes	CONSERVED	yes	C	C
+1731	Tpmt	no	no	yes	yes	CONSERVED	yes	C	C
+1768	Gprin1	no	no	yes	yes	CONSERVED	yes	C	C
+1812	Zfp935	no	no	yes	yes	CONSERVED	yes	C	C
+1831	Tent4a	no	no	yes	yes	CONSERVED	yes	C	C
+1839	Clptm1l	no	no	yes	yes	CONSERVED	yes	C	C
+1845	Sdha	no	no	yes	yes	CONSERVED	yes	C	C
+1965	Ube2e1	no	no	yes	yes	CONSERVED	yes	C	C
+1980	Fut11	no	no	yes	yes	CONSERVED	yes	C	C
+1999	Tmem254c	no	no	yes	yes	CONSERVED	yes	C	C
+2075	Hnrnpc	no	no	no	yes	CONSERVED	yes	none	C
+2177	Entpd4	no	no	yes	yes	CONSERVED	yes	C	C
+2213	Lcp1	no	no	yes	yes	CONSERVED	yes	C	C
+2272	Selenop	no	no	yes	yes	CONSERVED	yes	C	C
+2426	Plec	no	yes	yes	yes	CONSERVED	yes	C	B
+2447	C030006K11Rik	no	no	no	no		yes	none	none
+2486	Cby1	no	no	yes	no	CONSERVED	yes	C	none
+2641	Dazap2	no	no	yes	yes	CONSERVED	yes	C	C
+2739	Sdf2l1	no	no	yes	yes	CONSERVED	yes	C	C
+2754	B830017H08Rik	no	no	yes	yes	CONSERVED	yes	C	C
+2890	Tagln3	no	no	yes	yes	CONSERVED	yes	C	C
+2986	Scaf8	no	no	yes	yes	CONSERVED	yes	C	C
+3000	Ezr	no	no	yes	yes	CONSERVED	yes	C	C
+3015	Qk	yes	yes	no	no		yes	none	none
+3101	Stub1	no	no	no	no		yes	none	none
+3118	Dusp1	no	no	yes	yes	CONSERVED	yes	C	C
+3126	Lemd2	no	no	yes	yes	CONSERVED	yes	C	C
+3129	Pacsin1	no	no	no	no		yes	none	none
+3157	U2af1	no	no	no	no		yes	none	none
+3170	Cyp4f14	no	no	yes	yes	CONSERVED	yes	C	C
+3250	Gnl1	no	no	yes	yes	CONSERVED	yes	C	C
+3295	Klhdc3	no	no	yes	yes	CONSERVED	yes	C	C
+3297	Ppp2r5d	no	no	yes	yes	CONSERVED	yes	C	C
+3331	Tnfaip8l1	no	no	yes	yes	CONSERVED	yes	C	C
+3427	Pigf	no	no	no	no		yes	none	none
+3469	Kctd1	no	no	yes	yes	CONSERVED	yes	C	C
+3475	Rnf125	no	no	no	yes	CONSERVED	yes	none	C
+3682	Gnal	no	no	no	no		yes	none	none
+3751	Rps6kb2	no	no	no	no		yes	none	none
+3752	Ppp1ca	no	no	yes	yes	CONSERVED	yes	C	C
+3764	Sptbn2	no	no	yes	yes	CONSERVED	yes	C	C
+3784	Sf3b2	no	no	yes	yes	CONSERVED	yes	C	C
+3792	Mus81	no	no	no	no		yes	none	none
+3891	Osbp	no	no	yes	yes	CONSERVED	yes	C	C
+3969	Hhex	no	no	yes	yes	CONSERVED	yes	C	C
+4018	Fbxw4	no	no	no	yes	CONSERVED	yes	none	C
+4036	Ina	no	no	yes	yes	CONSERVED	yes	C	C
+4042	Sfr1	no	no	yes	yes	CONSERVED	yes	C	C
+4098	Eya1	no	no	yes	yes	CONSERVED	yes	C	C
+4190	Hspd1	no	no	yes	yes	CONSERVED	yes	C	C
+4229	Idh1	no	no	yes	yes	CONSERVED	yes	C	C
+4243	Arpc2	no	no	yes	yes	CONSERVED	yes	C	C
+4269	Ptprn	no	no	yes	yes	CONSERVED	yes	C	C
+4281	Sgpp2	no	no	yes	yes	CONSERVED	yes	C	C
+4302	Itm2c	no	no	yes	yes	CONSERVED	yes	C	C
+4312	Efhd1	no	no	no	no		yes	none	none
+4341	Asb1	no	no	yes	yes	CONSERVED	yes	C	C
+4362	Dtymk	no	no	no	no		no	none	none
+4435	Klhl12	no	no	yes	yes	CONSERVED	yes	C	C
+4451	Camsap2	no	no	yes	yes	CONSERVED	yes	C	C
+4521	Pogk	no	no	no	no		yes	none	none
+4545	Pcp4l1	no	no	yes	yes	CONSERVED	yes	C	C
+4588	Efcab2	no	no	no	no		yes	none	none
+4649	Sertad4	no	no	yes	yes	CONSERVED	yes	C	C
+4698	Commd3	no	no	yes	yes	CONSERVED	yes	C	C
+4717	Nelfb	no	no	yes	yes	CONSERVED	yes	C	C
+4752	Surf1	no	no	no	no		yes	none	none
+4764	Wdr5	no	no	no	no		yes	none	none
+4788	Spout1	no	no	yes	yes	CONSERVED	yes	C	C
+4875	Rprm	no	no	yes	yes	CONSERVED	yes	C	C
+4977	Kbtbd4	no	no	no	yes	CONSERVED	yes	none	C
+4979	Celf1	no	no	no	no		yes	none	none
+4984	Nr1h3	no	no	yes	yes	CONSERVED	yes	C	C
+5021	Cat	no	no	yes	yes	CONSERVED	yes	C	C
+5032	Pax6	no	no	yes	yes	CONSERVED	yes	C	C
+5050	Scg5	no	no	yes	no	CONSERVED	yes	C	none
+5222	Sec23b	no	no	yes	yes	CONSERVED	yes	C	C
+5244	Nanp	no	no	yes	yes	CONSERVED	yes	C	C
+5259	Nrsn2	no	no	yes	yes	CONSERVED	yes	C	C
+5284	Eif2s2	no	no	no	no		yes	none	none
+5399	Atp9a	no	no	yes	yes	CONSERVED	yes	C	C
+5405	Aurka	no	no	yes	yes	CONSERVED	yes	C	C
+5650	Bcan	no	no	yes	yes	CONSERVED	yes	C	C
+5848	Plppr4	no	no	yes	yes	CONSERVED	yes	C	C
+5889	Ddit4l	no	no	yes	yes	CONSERVED	yes	C	C
+5892	Lamtor3	no	no	yes	yes	CONSERVED	yes	C	C
+5995	Pnrc1	no	no	no	yes	CONSERVED	yes	none	C
+6034	Ccl21a	no	no	no	no		yes	none	none
+6190	Scp2	no	no	yes	yes	CONSERVED	yes	C	C
+6280	1110065P20Rik	no	no	no	yes	CONSERVED	yes	none	C
+6295	Map7d1	no	no	yes	yes	CONSERVED	yes	C	C
+6314	Hpca	no	no	yes	yes	CONSERVED	yes	C	C
+6343	Laptm5	no	no	yes	yes	CONSERVED	yes	C	C
+6500	Errfi1	no	no	yes	yes	CONSERVED	yes	C	C
+6556	Noc2l	no	no	yes	yes	CONSERVED	yes	C	C
+6588	Napepld	no	no	no	no		yes	none	none
+6640	Mpv17	no	no	yes	yes	not	no	D	D
+6653	Ywhah	no	no	yes	yes	not	yes	D	C
+6685	Crmp1	no	no	no	yes	not	yes	none	C
+6734	Uchl1	no	no	yes	yes	not	yes	D	C
+6763	Igfbp7	yes	no	yes	yes	not	yes	D	C
+6843	Cplx1	no	no	yes	yes	not	yes	D	C
+6872	Iscu	no	no	no	no		yes	none	none
+6874	Selplg	no	no	yes	yes	not	yes	D	C
+6913	Taok3	no	no	yes	yes	not	yes	D	C
+6932	Rpl6	no	no	yes	yes	not	yes	D	C
+6966	Rsrc2	no	no	no	no		yes	none	none
+7011	Rcc1l	no	no	yes	yes	not	yes	D	C
+7024	Bcl7b	no	no	yes	yes	not	yes	D	C
+7053	Gnb2	no	no	no	yes	not	yes	none	C
+7065	Zscan21	no	no	no	yes	not	yes	none	C
+7151	Medag	no	no	yes	yes	not	yes	D	C
+7239	Clec2l	no	no	yes	yes	not	yes	D	C
+7357	Pole4	no	no	yes	yes	not	yes	D	C
+7493	Depp1	no	no	yes	yes	not	yes	D	C
+7537	Tpi1	no	no	yes	yes	not	yes	D	C
+7538	Usp5	no	no	yes	yes	not	yes	D	C
+7542	Ptms	no	no	yes	yes	not	yes	D	C
+7780	Ttc9b	no	no	no	no		yes	none	none
+7848	Rhpn2	no	no	yes	yes	not	yes	D	C
+7870	Shank1	no	no	no	no		yes	none	none
+7880	Akt1s1	no	no	yes	yes	not	yes	D	C
+8040	Lrrc32	no	no	yes	yes	not	yes	D	C
+8105	Taf10	no	no	yes	yes	not	yes	D	C
+8112	Tub	no	no	yes	yes	not	yes	D	C
+8168	Ndufab1	no	no	no	no		yes	none	none
+8277	Bccip	no	no	yes	yes	not	yes	D	C
+8284	Bnip3	no	no	yes	yes	not	yes	D	C
+8394	Vps36	no	no	no	no		yes	none	none
+8452	Zdhhc2	no	no	no	no		yes	none	none
+8480	Sap30	no	no	no	no	not	yes	none	none
+8548	Nr2f6	no	no	no	yes	not	yes	none	C
+8551	Abhd8	no	no	yes	yes	not	yes	D	C
+8639	Dhps	no	no	yes	yes	not	yes	D	C
+8654	Tent4b	no	no	yes	yes	not	yes	D	C
+8662	Rbl2	no	no	yes	yes	not	yes	D	C
+8765	Exosc6	no	no	yes	yes	not	yes	D	C
+8921	Kri1	no	no	no	yes	not	yes	none	C
+9003	Nlrx1	no	no	yes	yes	not	yes	D	C
+9044	Dixdc1	no	no	yes	yes	not	yes	D	C
+9114	Paqr5	no	no	yes	yes	not	yes	D	C
+9126	Map2k1	no	no	yes	yes	not	yes	D	C
+9242	Faim	no	no	yes	yes	not	yes	D	C
+9344	Pdcd6ip	no	no	yes	yes	not	yes	D	C
+9416	Hdac6	no	no	no	yes	not	yes	none	C
+9431	Atp6ap2	no	no	yes	yes	not	yes	D	C
+9517	Gdi1	no	no	yes	yes	not	yes	D	C
+9536	Arx	no	no	yes	yes	not	yes	D	C
+9617	Bex1	no	no	no	yes	not	yes	none	C
+9655	Mageh1	no	no	yes	yes	not	yes	D	C
+9668	Map3k15	no	no	no	no	not	yes	none	none
+9692	Eif2s3y	no	no	no	yes	not	yes	none	C
+9693	Ddx3y	no	no	no	no		yes	none	none
+96	Snx3	no	no	yes	yes	CONSERVED	yes	C	C
+226	Rnf126	no	no	yes	yes	CONSERVED	yes	C	C
+252	Mbd3	no	no	yes	no	CONSERVED	yes	C	none
+256	Abhd17a	no	no	yes	yes	CONSERVED	yes	C	C
+291	Dohh	no	no	yes	yes	CONSERVED	yes	C	C
+293	Gm48552	no	no	yes	yes	CONSERVED	yes	C	C
+367	Cep290	no	no	yes	yes	CONSERVED	yes	C	C
+504	Rasl10a	no	no	yes	yes	CONSERVED	yes	C	C
+635	Rufy1	no	no	yes	yes	CONSERVED	yes	C	C
+1009	Nxph3	no	no	yes	yes	CONSERVED	yes	C	C
+1071	Ghdc	no	no	yes	yes	CONSERVED	yes	C	C
+1110	Rundc3a	no	no	yes	yes	CONSERVED	yes	C	C
+1118	Gjc1	no	no	yes	yes	CONSERVED	yes	C	C
+1127	Hexim2	no	no	yes	yes	CONSERVED	yes	C	C
+1186	Btbd17	no	no	yes	yes	CONSERVED	yes	C	C
+1532	Ahsa1	no	no	yes	yes	CONSERVED	yes	C	C
+1558	Chga	no	no	yes	yes	CONSERVED	yes	C	C
+1761	4833439L19Rik	no	no	yes	yes	CONSERVED	yes	C	C
+1949	Rpp14	no	no	yes	yes	CONSERVED	yes	C	C
+1986	Adk	no	no	yes	yes	CONSERVED	yes	C	C
+2138	Gm49336	no	no	no	no		yes	none	none
+2356	Ebag9	no	no	yes	yes	CONSERVED	yes	C	C
+2571	Lmf2	no	no	no	yes	CONSERVED	yes	none	C
+2620	Kcnh3	no	no	no	yes	CONSERVED	yes	none	C
+2682	Adcy9	no	no	no	yes	CONSERVED	yes	none	C
+2693	Rogdi	no	no	yes	yes	CONSERVED	yes	C	C
+2752	Klhl22	no	no	no	yes	CONSERVED	yes	none	C
+2999	Dynlt1f	no	no	yes	yes	CONSERVED	yes	C	C
+3081	Nubp2	no	no	no	no		yes	none	none
+3087	Tmem204	no	no	yes	yes	CONSERVED	yes	C	C
+3112	Nme4	no	no	yes	no	CONSERVED	yes	C	none
+3176	Zfp955b	no	no	yes	yes	CONSERVED	yes	C	C
+3193	H2-Ke6	no	no	yes	yes	CONSERVED	yes	C	C
+3197	H2-DMa	no	no	no	no		yes	none	none
+3298	Pex6	no	no	no	yes	CONSERVED	yes	none	C
+3299	Cnpy3	no	no	no	no		yes	none	none
+3304	Ccnd3	no	no	yes	yes	CONSERVED	yes	C	C
+3428	Cript	no	no	yes	yes	CONSERVED	yes	C	C
+3436	Ppp1r21	no	no	yes	yes	CONSERVED	yes	C	C
+3627	Snx2	no	no	no	no		yes	none	none
+3710	BC031181	no	no	yes	yes	CONSERVED	yes	C	C
+3761	Pcx	no	no	yes	yes	CONSERVED	yes	C	C
+3801	Fam89b	no	no	yes	yes	CONSERVED	yes	C	C
+4006	Bloc1s2	no	no	no	yes	CONSERVED	yes	none	C
+4015	Kazald1	no	no	no	yes	CONSERVED	yes	none	C
+4035	Nt5c2	no	no	no	no		yes	none	none
+4144	Eif5b	no	no	no	no		yes	none	none
+4185	Stk17b	no	no	yes	yes	CONSERVED	yes	C	C
+4239	Igfbp2	no	no	yes	yes	CONSERVED	yes	C	C
+4244	Aamp	no	no	yes	yes	CONSERVED	yes	C	C
+4317	Atg16l1	no	no	yes	yes	CONSERVED	yes	C	C
+4339	Hes6	no	no	yes	yes	CONSERVED	yes	C	C
+4749	Agpat2	no	no	yes	yes	CONSERVED	yes	C	C
+4756	Cacfd1	no	no	no	no		yes	none	none
+5053	Dph6	no	no	no	no		yes	none	none
+5100	Ccndbp1	no	no	no	yes	CONSERVED	yes	none	C
+5116	Sord	no	no	yes	yes	CONSERVED	yes	C	C
+5238	Apmap	no	no	yes	yes	CONSERVED	yes	C	C
+5267	Pdrg1	no	no	no	no		yes	none	none
+5288	Map1lc3a	no	no	yes	yes	CONSERVED	yes	C	C
+5346	Rims4	no	no	yes	yes	CONSERVED	yes	C	C
+5358	Zswim1	no	no	yes	yes	CONSERVED	yes	C	C
+5417	Nelfcd	no	no	yes	yes	CONSERVED	yes	C	C
+5434	Gm14434	no	no	yes	yes	CONSERVED	yes	C	C
+5468	Stmn3	no	no	no	no	CONSERVED	yes	none	none
+5485	Stmn2	no	no	no	no		yes	none	none
+5619	Rapgef2	no	no	no	no		yes	none	none
+5692	Ube2q1	no	no	no	no		yes	none	none
+5731	Mllt11	no	no	no	no		yes	none	none
+5979	Ccnc	no	no	yes	yes	CONSERVED	yes	C	C
+6009	Chmp5	no	no	yes	yes	CONSERVED	yes	C	C
+6019	Enho	no	no	yes	yes	CONSERVED	yes	C	C
+6121	Atp6v1g1	no	no	yes	yes	CONSERVED	yes	C	C
+6381	Zfp593	no	no	no	no		yes	none	none
+6427	Pink1	no	no	yes	yes	CONSERVED	yes	C	C
+6447	Fbxo42	no	no	no	no		yes	none	none
+6478	Fbxo2	no	no	no	yes	CONSERVED	yes	none	C
+6561	Fzd1	no	no	no	no		yes	none	none
+6571	Crot	no	no	no	yes	not	yes	none	C
+6574	Grm3	no	no	yes	no	not	yes	D	none
+6645	Nrbp1	no	no	yes	yes	not	yes	D	C
+6877	Svop	no	no	yes	yes	not	yes	D	C
+6882	Mvk	no	no	yes	yes	not	yes	D	C
+7091	Mrm2	no	no	yes	yes	not	yes	D	C
+7139	Rasl11a	no	no	yes	yes	not	yes	D	C
+7205	Atp6v1f	no	no	yes	yes	not	yes	D	C
+7423	Fbln2	no	no	yes	yes	not	yes	D	C
+7439	Arl6ip5	no	no	yes	yes	not	yes	D	C
+7469	Prrt3	no	no	yes	yes	not	yes	D	C
+7544	Cops7a	no	no	yes	yes	not	yes	D	C
+7583	Arhgdib	no	no	yes	yes	not	yes	D	C
+7603	Etfrf1	no	no	yes	yes	not	yes	D	C
+7854	Tshz3	no	no	yes	yes	not	yes	D	C
+7871	Lrrc4b	no	no	yes	yes	not	yes	D	C
+7941	Gabra5	no	no	yes	yes	not	yes	D	C
+7949	Mcee	no	no	no	yes	not	yes	none	C
+8084	Rhog	no	no	yes	yes	not	yes	D	C
+8310	Tmem80	no	no	yes	yes	not	yes	D	C
+8390	Arhgef10	no	no	yes	yes	not	yes	D	C
+8420	Fnta	no	no	no	yes	not	yes	none	C
+8527	Crtc1	no	no	no	no		yes	none	none
+8555	Gtpbp3	no	no	yes	yes	not	yes	D	C
+8567	Zfp617	no	no	no	no		yes	none	none
+8575	1700030K09Rik	no	no	yes	yes	not	yes	D	C
+8591	Rbmxl1	no	no	yes	no	not	yes	D	none
+8605	Tecr	no	no	yes	yes	not	yes	D	C
+8651	Zfp423	no	no	yes	yes	not	yes	D	C
+8701	Cmtm4	no	no	yes	yes	not	yes	D	C
+8741	Vps4a	no	no	yes	yes	not	yes	D	C
+8742	Pdf	no	no	yes	yes	not	yes	D	C
+8752	Zfp821	no	no	no	yes	not	yes	none	C
+8910	Icam1	no	no	yes	yes	not	yes	D	C
+9031	Rexo2	no	no	yes	yes	not	yes	D	C
+9037	Pts	no	no	yes	yes	not	yes	D	C
+9140	Oaz2	no	no	yes	yes	not	yes	D	C
+9181	Tmod3	no	no	yes	yes	not	yes	D	C
+9373	Eif1b	no	no	yes	yes	not	yes	D	C
+9407	Praf2	no	no	yes	yes	not	yes	D	C
+9456	Slc25a5	no	no	yes	yes	not	yes	D	C
+9476	Hprt	no	no	yes	yes	not	yes	D	C
+9561	Ogt	no	no	yes	yes	not	yes	D	C
+9619	Bex3	no	no	no	no	not	yes	none	none

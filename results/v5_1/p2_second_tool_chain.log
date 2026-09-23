@@ -1,0 +1,66 @@
+[chain] start Sat Sep 19 22:57:54 +08 2026
+
+gzip: mm10_atlas.clusters.bed.gz: not in gzip format
+[pas] DOWNLOAD FAILED (register as pending)
+2 channel Terms of Service accepted
+Channels:
+ - bioconda
+ - conda-forge
+ - defaults
+Platform: linux-64
+Collecting package metadata (repodata.json): ...working... done
+Solving environment: ...working... done
+
+## Package Plan ##
+
+  environment location: /home/taylor/miniconda3/envs/qapa
+
+  added / updated specs:
+    - gffread
+
+
+The following packages will be downloaded:
+
+    package                    |            build
+    ---------------------------|-----------------
+    gffread-0.12.7             |       hdcf5f25_4         131 KB  bioconda
+    ------------------------------------------------------------
+                                           Total:         131 KB
+
+The following NEW packages will be INSTALLED:
+
+  gffread            bioconda/linux-64::gffread-0.12.7-hdcf5f25_4 
+
+
+
+Downloading and Extracting Packages: ...working... done
+Preparing transaction: ...working... done
+Verifying transaction: ...working... done
+Executing transaction: ...working... done
+WARNING conda.conda_pypi.main:notify_externally_managed_future(156): 
+  Did you know? You can install many PyPI packages with conda
+  using the conda-pypi beta. Get started:
+    https://docs.conda.io/projects/conda/en/stable/new-features.html
+
+FASTA index file genome.fa.fai created.
+[txfa] OK 142604 transcripts
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 36: salmon: command not found
+usage: qapa [-h] [-v] {build,fasta,quant} ...
+qapa: error: argument subcommand: invalid choice: 'annotation' (choose from 'build', 'fasta', 'quant')
+ls: cannot access 'qapa_annotation*': No such file or directory
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+/mnt/d/stroke_apa/scripts/p2_second_tool_chain.sh: line 53: salmon: command not found
+usage: qapa quant [-h] [-t TEMP] --db DB [-f FIELD] [-F FORMAT] [-s FILE]
+                  quant_files [quant_files ...]
+qapa quant: error: the following arguments are required: --db
+[chain] END Sat Sep 19 22:58:56 +08 2026

@@ -1,0 +1,19 @@
+family	lost_hit_regions	null_hit_regions	rate_lost	rate_null	enrichment
+# FIMO (Find Individual Motif Occurrences): Version 5.5.9 compiled on May 27 2026 at 12:41:17	1	1	0.0006	0.0006	1.0
+# The format of this file is described at https://meme-suite.org/meme/doc/fimo-output-format.html#tsv	1	1	0.0006	0.0006	1.0
+TARDBP	21	21	0.0136	0.0136	1.0
+SRSF1	21	21	0.0136	0.0136	1.0
+QKI	21	21	0.0136	0.0136	1.0
+PTBP1	21	21	0.0136	0.0136	1.0
+NOVA2	21	21	0.0136	0.0136	1.0
+NOVA1	21	21	0.0136	0.0136	1.0
+KHDRBS1	21	21	0.0136	0.0136	1.0
+HNRNPA2B1	21	21	0.0136	0.0136	1.0
+HNRNPA1	21	21	0.0136	0.0136	1.0
+FUS	21	21	0.0136	0.0136	1.0
+ELAVL1	21	21	0.0136	0.0136	1.0
+# fimo --thresh 1e-3 --norc --max-stored-scores 5000000 --oc fimo	1	1	0.0006	0.0006	1.0
+ZFP36	21	21	0.0136	0.0136	1.0
+MBNL1	20	21	0.013	0.0136	0.95
+PABPN1	20	21	0.013	0.0136	0.95
+PTBP2	20	21	0.013	0.0136	0.95

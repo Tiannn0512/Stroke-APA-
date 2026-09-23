@@ -1,0 +1,6 @@
+# captured 2026-09-21
+samtools 1.19.2
+bedtools v2.31.1
+2.7.11b
+DaPars2: ~/DaPars2/src patched 2026-09-18 (empty-coverage NA)
+reference: GRCm38/mm10 GENCODE vM25 (genome.fa + gencode.vM25.annotation.gtf)

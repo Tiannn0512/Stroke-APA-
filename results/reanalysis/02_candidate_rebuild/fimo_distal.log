@@ -1,0 +1,2485 @@
+Using motif +ZFP36_M269_0.6 of width 11.
+Using motif -ZFP36_M269_0.6 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 343 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.96649
+#   Estimated pi_0=0.971413
+Using motif +HNRNPA2B1_705 of width 11.
+Using motif -HNRNPA2B1_705 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 195 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990316
+#   Estimated pi_0=0.993299
+Using motif +SRSF1_1227 of width 9.
+Using motif -SRSF1_1227 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 200 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.971507
+#   Estimated pi_0=0.983763
+Using motif +SRSF1_1241 of width 7.
+Using motif -SRSF1_1241 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 39 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 1.00132
+#   Estimated pi_0=1
+Using motif +HNRNPA1_690 of width 6.
+Using motif -HNRNPA1_690 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_1103 of width 5.
+Using motif -ELAVL1_1103 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_M271_0.6 of width 6.
+Using motif -HNRNPA1_M271_0.6 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +MBNL1_M320_0.6 of width 8.
+Using motif -MBNL1_M320_0.6 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 102 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977091
+#   Estimated pi_0=0.986806
+Using motif +SRSF1_1218 of width 6.
+Using motif -SRSF1_1218 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_64 of width 4.
+Using motif -NOVA1_64 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_660 of width 8.
+Using motif -HNRNPA1_660 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 39 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 1.00171
+#   Estimated pi_0=1
+Using motif +TARDBP_144 of width 12.
+Using motif -TARDBP_144 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 250 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.971667
+#   Estimated pi_0=0.976898
+Using motif +SRSF1_1221 of width 6.
+Using motif -SRSF1_1221 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_s49 of width 7.
+Using motif -SRSF1_s49 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 55 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.998655
+#   Estimated pi_0=0.998995
+Using motif +SRSF1_1229 of width 6.
+Using motif -SRSF1_1229 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1234 of width 7.
+Using motif -SRSF1_1234 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 179 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988696
+#   Estimated pi_0=0.99268
+Using motif +PTBP1_998 of width 6.
+Using motif -PTBP1_998 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_1155 of width 6.
+Using motif -KHDRBS1_1155 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1233 of width 7.
+Using motif -SRSF1_1233 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 185 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.992063
+#   Estimated pi_0=0.996583
+Using motif +PTBP1_51 of width 4.
+Using motif -PTBP1_51 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_M106_0.6 of width 8.
+Using motif -SRSF1_M106_0.6 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 282 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977297
+#   Estimated pi_0=0.989255
+Using motif +HNRNPA1_692 of width 7.
+Using motif -HNRNPA1_692 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 184 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988256
+#   Estimated pi_0=0.990899
+Using motif +ELAVL1_367 of width 4.
+Using motif -ELAVL1_367 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1211 of width 9.
+Using motif -SRSF1_1211 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 155 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.979141
+#   Estimated pi_0=0.989841
+Using motif +HNRNPA1_679 of width 6.
+Using motif -HNRNPA1_679 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +FUS_M316_0.6 of width 4.
+Using motif -FUS_M316_0.6 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_1131 of width 5.
+Using motif -NOVA1_1131 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1216 of width 7.
+Using motif -SRSF1_1216 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 169 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991087
+#   Estimated pi_0=0.996345
+Using motif +HNRNPA1_653 of width 7.
+Using motif -HNRNPA1_653 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 51 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.998235
+#   Estimated pi_0=1
+Using motif +HNRNPA1_644 of width 6.
+Using motif -HNRNPA1_644 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +MBNL1_M320_0.6a of width 4.
+Using motif -MBNL1_M320_0.6a of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1017 of width 7.
+Using motif -PTBP1_1017 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984127
+#   Estimated pi_0=0.984127
+Using motif +ELAVL1_1105 of width 9.
+Using motif -ELAVL1_1105 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 87 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.976783
+#   Estimated pi_0=0.980874
+Using motif +SRSF1_M272_0.6 of width 8.
+Using motif -SRSF1_M272_0.6 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 224 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.9896
+#   Estimated pi_0=0.993229
+Using motif +PTBP1_1013 of width 11.
+Using motif -PTBP1_1013 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 245 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.966036
+#   Estimated pi_0=0.968324
+Using motif +MBNL1_s30 of width 6.
+Using motif -MBNL1_s30 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_M108_0.6 of width 7.
+Using motif -ELAVL1_M108_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 336 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.972469
+#   Estimated pi_0=0.978503
+Using motif +SRSF1_M273_0.6 of width 7.
+Using motif -SRSF1_M273_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 26 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.9874
+#   Estimated pi_0=1
+Using motif +ELAVL1_1104 of width 5.
+Using motif -ELAVL1_1104 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_652 of width 5.
+Using motif -HNRNPA1_652 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +FUS_1061 of width 7.
+Using motif -FUS_1061 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_M160_0.6 of width 7.
+Using motif -KHDRBS1_M160_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 193 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.986845
+#   Estimated pi_0=0.988211
+Using motif +SRSF1_s51 of width 7.
+Using motif -SRSF1_s51 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 15 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.997358
+#   Estimated pi_0=1
+Using motif +HNRNPA2B1_698 of width 5.
+Using motif -HNRNPA2B1_698 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +MBNL1_M037_0.6 of width 7.
+Using motif -MBNL1_M037_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 105 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980127
+#   Estimated pi_0=0.990659
+Using motif +PTBP1_1014 of width 7.
+Using motif -PTBP1_1014 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 169 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985434
+#   Estimated pi_0=0.991031
+Using motif +ELAVL1_M112_0.6 of width 7.
+Using motif -ELAVL1_M112_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 336 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977582
+#   Estimated pi_0=0.980638
+Using motif +PTBP1_1009 of width 9.
+Using motif -PTBP1_1009 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 240 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980759
+#   Estimated pi_0=0.982857
+Using motif +PTBP1_31 of width 4.
+Using motif -PTBP1_31 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP2_1134 of width 6.
+Using motif -PTBP2_1134 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA2_M325_0.6 of width 16.
+Using motif -NOVA2_M325_0.6 of width 16.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 148 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.998586
+#   Estimated pi_0=0.999598
+Using motif +HNRNPA1_665 of width 5.
+Using motif -HNRNPA1_665 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_647 of width 10.
+Using motif -HNRNPA1_647 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.992475
+#   Estimated pi_0=0.999296
+Using motif +ZFP36_155 of width 6.
+Using motif -ZFP36_155 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_43 of width 12.
+Using motif -HNRNPA1_43 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 178 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989431
+#   Estimated pi_0=0.998667
+Using motif +PTBP1_8 of width 5.
+Using motif -PTBP1_8 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_706 of width 11.
+Using motif -HNRNPA2B1_706 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 189 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990211
+#   Estimated pi_0=0.995533
+Using motif +ZFP36_138 of width 5.
+Using motif -ZFP36_138 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_s12 of width 6.
+Using motif -PTBP1_s12 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_1157 of width 5.
+Using motif -KHDRBS1_1157 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_s99 of width 7.
+Using motif -SRSF1_s99 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 20 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.999786
+#   Estimated pi_0=1
+Using motif +ZFP36_49 of width 6.
+Using motif -ZFP36_49 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_663 of width 6.
+Using motif -HNRNPA1_663 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_681 of width 6.
+Using motif -HNRNPA1_681 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_s34 of width 6.
+Using motif -KHDRBS1_s34 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_710 of width 6.
+Using motif -HNRNPA2B1_710 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1004 of width 6.
+Using motif -PTBP1_1004 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +QKI_104 of width 12.
+Using motif -QKI_104 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 166 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989421
+#   Estimated pi_0=0.995077
+Using motif +MBNL1_1123 of width 6.
+Using motif -MBNL1_1123 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_651 of width 5.
+Using motif -HNRNPA1_651 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_M060_0.6 of width 7.
+Using motif -KHDRBS1_M060_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 150 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987059
+#   Estimated pi_0=0.994872
+Using motif +HNRNPA1_664 of width 6.
+Using motif -HNRNPA1_664 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +TARDBP_1282 of width 10.
+Using motif -TARDBP_1282 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 255 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980537
+#   Estimated pi_0=0.98829
+Using motif +HNRNPA1_696 of width 6.
+Using motif -HNRNPA1_696 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1018 of width 7.
+Using motif -PTBP1_1018 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_11 of width 4.
+Using motif -PTBP1_11 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1002 of width 8.
+Using motif -PTBP1_1002 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 91 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984048
+#   Estimated pi_0=0.989534
+Using motif +NUDT21_420 of width 5.
+Using motif -NUDT21_420 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_M104_0.6 of width 7.
+Using motif -SRSF1_M104_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 283 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991937
+#   Estimated pi_0=0.994197
+Using motif +NOVA2_179 of width 4.
+Using motif -NOVA2_179 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_1108 of width 7.
+Using motif -ELAVL1_1108 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_M103_0.6 of width 7.
+Using motif -SRSF1_M103_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 228 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.995106
+#   Estimated pi_0=0.998794
+Using motif +SRSF1_126 of width 7.
+Using motif -SRSF1_126 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_539 of width 5.
+Using motif -PTBP1_539 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_161 of width 12.
+Using motif -ELAVL1_161 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 360 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.970513
+#   Estimated pi_0=0.978043
+Using motif +QKI_1139 of width 5.
+Using motif -QKI_1139 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_702 of width 6.
+Using motif -HNRNPA2B1_702 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_703 of width 11.
+Using motif -HNRNPA2B1_703 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 181 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988321
+#   Estimated pi_0=0.994225
+Using motif +HNRNPA2B1_699 of width 6.
+Using motif -HNRNPA2B1_699 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_165 of width 4.
+Using motif -PTBP1_165 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA2_s95 of width 7.
+Using motif -NOVA2_s95 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_657 of width 6.
+Using motif -HNRNPA1_657 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1008 of width 6.
+Using motif -PTBP1_1008 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_s27 of width 6.
+Using motif -NOVA1_s27 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_s94 of width 12.
+Using motif -NOVA1_s94 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 136 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980127
+#   Estimated pi_0=0.984699
+Using motif +FUS_1060 of width 7.
+Using motif -FUS_1060 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.981693
+#   Estimated pi_0=0.981693
+Using motif +HNRNPA1_646 of width 6.
+Using motif -HNRNPA1_646 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1215 of width 9.
+Using motif -SRSF1_1215 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 200 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.973631
+#   Estimated pi_0=0.980108
+Using motif +SRSF1_s48 of width 7.
+Using motif -SRSF1_s48 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 13 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.999592
+#   Estimated pi_0=1
+Using motif +NOVA2_492 of width 7.
+Using motif -NOVA2_492 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 40 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 1.00071
+#   Estimated pi_0=1
+Using motif +HNRNPA1_695 of width 6.
+Using motif -HNRNPA1_695 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +FUS_1059 of width 7.
+Using motif -FUS_1059 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987725
+#   Estimated pi_0=0.987725
+Using motif +HNRNPA1_659 of width 10.
+Using motif -HNRNPA1_659 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 166 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.99399
+#   Estimated pi_0=0.997071
+Using motif +HNRNPA1_643 of width 6.
+Using motif -HNRNPA1_643 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_512 of width 4.
+Using motif -ELAVL1_512 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1012 of width 11.
+Using motif -PTBP1_1012 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 245 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.951124
+#   Estimated pi_0=0.955349
+Using motif +PTBP1_1001 of width 6.
+Using motif -PTBP1_1001 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PABPN1_M148_0.6 of width 7.
+Using motif -PABPN1_M148_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 137 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.959649
+#   Estimated pi_0=0.959649
+Using motif +PTBP1_991 of width 7.
+Using motif -PTBP1_991 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 312 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.961765
+#   Estimated pi_0=0.97022
+Using motif +KHDRBS1_1156 of width 6.
+Using motif -KHDRBS1_1156 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_M232_0.6 of width 7.
+Using motif -ELAVL1_M232_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_697 of width 10.
+Using motif -HNRNPA2B1_697 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.98902
+#   Estimated pi_0=1
+Using motif +TARDBP_1280 of width 12.
+Using motif -TARDBP_1280 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 250 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.968171
+#   Estimated pi_0=0.974545
+Using motif +HNRNPA1_658 of width 6.
+Using motif -HNRNPA1_658 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_M351_0.6 of width 10.
+Using motif -SRSF1_M351_0.6 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 174 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977457
+#   Estimated pi_0=0.98492
+Using motif +TARDBP_541 of width 8.
+Using motif -TARDBP_541 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 30 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.994769
+#   Estimated pi_0=1
+Using motif +HNRNPA1_662 of width 6.
+Using motif -HNRNPA1_662 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_704 of width 11.
+Using motif -HNRNPA2B1_704 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 174 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.982797
+#   Estimated pi_0=0.985896
+Using motif +SRSF1_1240 of width 7.
+Using motif -SRSF1_1240 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 36 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988976
+#   Estimated pi_0=1
+Using motif +PTBP1_992 of width 6.
+Using motif -PTBP1_992 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_996 of width 8.
+Using motif -PTBP1_996 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 251 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977349
+#   Estimated pi_0=0.987243
+Using motif +NOVA1_1130 of width 5.
+Using motif -NOVA1_1130 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1023 of width 8.
+Using motif -PTBP1_1023 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 67 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.978817
+#   Estimated pi_0=0.987876
+Using motif +NOVA2_s96 of width 7.
+Using motif -NOVA2_s96 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984472
+#   Estimated pi_0=0.986561
+Using motif +NUDT21_575 of width 5.
+Using motif -NUDT21_575 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_M024_0.6 of width 7.
+Using motif -HNRNPA2B1_M024_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 71 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991293
+#   Estimated pi_0=0.996166
+Using motif +HNRNPA1_683 of width 7.
+Using motif -HNRNPA1_683 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_656 of width 6.
+Using motif -HNRNPA1_656 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +TARDBP_1277 of width 7.
+Using motif -TARDBP_1277 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 62 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.9888
+#   Estimated pi_0=0.999082
+Using motif +SRSF1_1236 of width 7.
+Using motif -SRSF1_1236 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 43 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996754
+#   Estimated pi_0=0.998384
+Using motif +PTBP1_1006 of width 6.
+Using motif -PTBP1_1006 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +MBNL1_1121 of width 6.
+Using motif -MBNL1_1121 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_183 of width 11.
+Using motif -HNRNPA1_183 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 195 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989773
+#   Estimated pi_0=0.993163
+Using motif +PTBP1_71 of width 8.
+Using motif -PTBP1_71 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 67 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.971538
+#   Estimated pi_0=0.976114
+Using motif +NOVA1_459 of width 5.
+Using motif -NOVA1_459 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1231 of width 8.
+Using motif -SRSF1_1231 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 191 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989518
+#   Estimated pi_0=0.993886
+Using motif +SRSF1_1220 of width 6.
+Using motif -SRSF1_1220 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_s33 of width 6.
+Using motif -KHDRBS1_s33 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_375 of width 8.
+Using motif -SRSF1_375 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 42 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996741
+#   Estimated pi_0=0.999698
+Using motif +PTBP1_995 of width 12.
+Using motif -PTBP1_995 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 178 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984224
+#   Estimated pi_0=0.993441
+Using motif +PTBP1_997 of width 6.
+Using motif -PTBP1_997 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_84 of width 11.
+Using motif -ELAVL1_84 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 193 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.965749
+#   Estimated pi_0=0.972979
+Using motif +SRSF1_s22 of width 10.
+Using motif -SRSF1_s22 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 180 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.977405
+#   Estimated pi_0=0.989836
+Using motif +PTBP1_1022 of width 8.
+Using motif -PTBP1_1022 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 65 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990867
+#   Estimated pi_0=0.995253
+Using motif +PTBP1_133 of width 6.
+Using motif -PTBP1_133 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_648 of width 6.
+Using motif -HNRNPA1_648 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1238 of width 7.
+Using motif -SRSF1_1238 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 72 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996437
+#   Estimated pi_0=1
+Using motif +QKI_352 of width 6.
+Using motif -QKI_352 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_645 of width 7.
+Using motif -HNRNPA1_645 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993125
+#   Estimated pi_0=0.999594
+Using motif +HNRNPA1_654 of width 5.
+Using motif -HNRNPA1_654 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_688 of width 10.
+Using motif -HNRNPA1_688 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 68 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991073
+#   Estimated pi_0=0.998462
+Using motif +PTBP1_M227_0.6 of width 7.
+Using motif -PTBP1_M227_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 228 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.95622
+#   Estimated pi_0=0.963077
+Using motif +PTBP1_994 of width 9.
+Using motif -PTBP1_994 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 164 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.982152
+#   Estimated pi_0=0.988783
+Using motif +NOVA2_1133 of width 5.
+Using motif -NOVA2_1133 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_s50 of width 7.
+Using motif -SRSF1_s50 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 204 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985974
+#   Estimated pi_0=0.993936
+Using motif +PTBP1_1015 of width 7.
+Using motif -PTBP1_1015 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1016 of width 7.
+Using motif -PTBP1_1016 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988995
+#   Estimated pi_0=0.993737
+Using motif +SRSF1_1230 of width 10.
+Using motif -SRSF1_1230 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 166 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.963409
+#   Estimated pi_0=0.966333
+Using motif +TARDBP_178 of width 12.
+Using motif -TARDBP_178 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 250 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.978293
+#   Estimated pi_0=0.985668
+Using motif +NOVA1_1127 of width 7.
+Using motif -NOVA1_1127 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987831
+#   Estimated pi_0=0.987831
+Using motif +MBNL1_1122 of width 10.
+Using motif -MBNL1_1122 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 219 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.983108
+#   Estimated pi_0=0.990667
+Using motif +TARDBP_1279 of width 6.
+Using motif -TARDBP_1279 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_642 of width 6.
+Using motif -HNRNPA1_642 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_700 of width 6.
+Using motif -HNRNPA2B1_700 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ZFP36_128 of width 5.
+Using motif -ZFP36_128 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1228 of width 7.
+Using motif -SRSF1_1228 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 146 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985
+#   Estimated pi_0=0.990777
+Using motif +ELAVL1_476 of width 5.
+Using motif -ELAVL1_476 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1225 of width 8.
+Using motif -SRSF1_1225 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 50 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.975657
+#   Estimated pi_0=0.975657
+Using motif +HNRNPA1_674 of width 10.
+Using motif -HNRNPA1_674 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 49 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989565
+#   Estimated pi_0=1
+Using motif +MBNL1_1124 of width 9.
+Using motif -MBNL1_1124 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 59 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 1.00182
+#   Estimated pi_0=1
+Using motif +HNRNPA1_689 of width 6.
+Using motif -HNRNPA1_689 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_117 of width 5.
+Using motif -PTBP1_117 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1217 of width 11.
+Using motif -SRSF1_1217 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 32 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.975833
+#   Estimated pi_0=0.982031
+Using motif +HNRNPA1_680 of width 6.
+Using motif -HNRNPA1_680 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ZFP36_M350_0.6 of width 9.
+Using motif -ZFP36_M350_0.6 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 240 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985393
+#   Estimated pi_0=0.988421
+Using motif +NOVA2_564 of width 11.
+Using motif -NOVA2_564 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 93 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993064
+#   Estimated pi_0=0.996041
+Using motif +ELAVL1_s101 of width 7.
+Using motif -ELAVL1_s101 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_M031_0.6 of width 7.
+Using motif -ELAVL1_M031_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +KHDRBS1_1158 of width 7.
+Using motif -KHDRBS1_1158 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +FUS_1058 of width 7.
+Using motif -FUS_1058 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_993 of width 8.
+Using motif -PTBP1_993 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 30 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.998342
+#   Estimated pi_0=0.998693
+Using motif +QKI_1138 of width 6.
+Using motif -QKI_1138 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_675 of width 6.
+Using motif -HNRNPA1_675 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +TARDBP_1281 of width 8.
+Using motif -TARDBP_1281 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 154 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985763
+#   Estimated pi_0=0.993472
+Using motif +MBNL1_1125 of width 9.
+Using motif -MBNL1_1125 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 122 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.994625
+#   Estimated pi_0=1
+Using motif +PTBP1_1021 of width 5.
+Using motif -PTBP1_1021 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_440 of width 7.
+Using motif -NOVA1_440 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 111 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987558
+#   Estimated pi_0=0.992391
+Using motif +SRSF1_167 of width 7.
+Using motif -SRSF1_167 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_639 of width 10.
+Using motif -HNRNPA1_639 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 38 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991287
+#   Estimated pi_0=1
+Using motif +HNRNPA2B1_707 of width 11.
+Using motif -HNRNPA2B1_707 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 116 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.995
+#   Estimated pi_0=0.998788
+Using motif +PTBP1_1019 of width 5.
+Using motif -PTBP1_1019 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_641 of width 6.
+Using motif -HNRNPA1_641 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA2B1_708 of width 11.
+Using motif -HNRNPA2B1_708 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 195 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.99411
+#   Estimated pi_0=0.998782
+Using motif +QKI_1142 of width 6.
+Using motif -QKI_1142 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_684 of width 7.
+Using motif -HNRNPA1_684 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989947
+#   Estimated pi_0=0.995253
+Using motif +PTBP1_999 of width 6.
+Using motif -PTBP1_999 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1232 of width 7.
+Using motif -SRSF1_1232 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.992206
+#   Estimated pi_0=0.998894
+Using motif +HNRNPA1_655 of width 8.
+Using motif -HNRNPA1_655 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 168 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.978303
+#   Estimated pi_0=0.987872
+Using motif +NOVA2_s29 of width 7.
+Using motif -NOVA2_s29 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 93 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993256
+#   Estimated pi_0=0.998477
+Using motif +TARDBP_1276 of width 7.
+Using motif -TARDBP_1276 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 114 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.98512
+#   Estimated pi_0=0.995612
+Using motif +HNRNPA1_678 of width 6.
+Using motif -HNRNPA1_678 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_105 of width 8.
+Using motif -PTBP1_105 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 65 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.981905
+#   Estimated pi_0=0.989474
+Using motif +HNRNPA2B1_125 of width 11.
+Using motif -HNRNPA2B1_125 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 195 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.995361
+#   Estimated pi_0=0.997172
+Using motif +TARDBP_M074_0.6 of width 8.
+Using motif -TARDBP_M074_0.6 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 155 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996522
+#   Estimated pi_0=1
+Using motif +NOVA2_s28 of width 6.
+Using motif -NOVA2_s28 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1025 of width 6.
+Using motif -PTBP1_1025 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_691 of width 6.
+Using motif -HNRNPA1_691 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ELAVL1_1106 of width 7.
+Using motif -ELAVL1_1106 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_687 of width 10.
+Using motif -HNRNPA1_687 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 109 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990693
+#   Estimated pi_0=1
+Using motif +NUDT21_499 of width 4.
+Using motif -NUDT21_499 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +QKI_1141 of width 6.
+Using motif -QKI_1141 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_686 of width 7.
+Using motif -HNRNPA1_686 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_685 of width 7.
+Using motif -HNRNPA1_685 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_M102_0.6 of width 7.
+Using motif -SRSF1_M102_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 228 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996
+#   Estimated pi_0=0.998485
+Using motif +FUS_s31 of width 6.
+Using motif -FUS_s31 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1219 of width 6.
+Using motif -SRSF1_1219 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_1132 of width 5.
+Using motif -NOVA1_1132 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1213 of width 9.
+Using motif -SRSF1_1213 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 207 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.979747
+#   Estimated pi_0=0.987725
+Using motif +HNRNPA2B1_711 of width 6.
+Using motif -HNRNPA2B1_711 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_640 of width 10.
+Using motif -HNRNPA1_640 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.983564
+#   Estimated pi_0=0.995773
+Using motif +PTBP1_143 of width 5.
+Using motif -PTBP1_143 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_676 of width 6.
+Using motif -HNRNPA1_676 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1011 of width 11.
+Using motif -PTBP1_1011 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 192 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.965714
+#   Estimated pi_0=0.966897
+Using motif +PTBP1_1000 of width 6.
+Using motif -PTBP1_1000 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ZFP36_109 of width 9.
+Using motif -ZFP36_109 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 87 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.976494
+#   Estimated pi_0=0.977596
+Using motif +QKI_M046_0.6 of width 7.
+Using motif -QKI_M046_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 101 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.996604
+#   Estimated pi_0=1
+Using motif +NOVA1_1128 of width 7.
+Using motif -NOVA1_1128 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987513
+#   Estimated pi_0=0.994444
+Using motif +HNRNPA1_M022_0.6 of width 7.
+Using motif -HNRNPA1_M022_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 83 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 1.00161
+#   Estimated pi_0=1
+Using motif +HNRNPA2B1_709 of width 6.
+Using motif -HNRNPA2B1_709 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1235 of width 7.
+Using motif -SRSF1_1235 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 158 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.98593
+#   Estimated pi_0=0.989524
+Using motif +TARDBP_1283 of width 12.
+Using motif -TARDBP_1283 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 250 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.971266
+#   Estimated pi_0=0.982888
+Using motif +SRSF1_M154_0.6 of width 7.
+Using motif -SRSF1_M154_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 264 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.967215
+#   Estimated pi_0=0.972473
+Using motif +HNRNPA1_682 of width 6.
+Using motif -HNRNPA1_682 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1024 of width 9.
+Using motif -PTBP1_1024 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 240 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.970545
+#   Estimated pi_0=0.977778
+Using motif +HNRNPA1_693 of width 10.
+Using motif -HNRNPA1_693 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 220 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.976045
+#   Estimated pi_0=0.977
+Using motif +SRSF1_40 of width 6.
+Using motif -SRSF1_40 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +QKI_83 of width 12.
+Using motif -QKI_83 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 71 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.970609
+#   Estimated pi_0=0.986957
+Using motif +HNRNPA1_677 of width 6.
+Using motif -HNRNPA1_677 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_17 of width 7.
+Using motif -SRSF1_17 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 39 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.999855
+#   Estimated pi_0=1
+Using motif +HNRNPA1_s32 of width 6.
+Using motif -HNRNPA1_s32 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1237 of width 7.
+Using motif -SRSF1_1237 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 35 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.999186
+#   Estimated pi_0=1
+Using motif +PTBP1_59 of width 5.
+Using motif -PTBP1_59 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +QKI_3 of width 6.
+Using motif -QKI_3 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_25 of width 9.
+Using motif -PTBP1_25 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 240 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.970545
+#   Estimated pi_0=0.98328
+Using motif +HNRNPA1_72 of width 6.
+Using motif -HNRNPA1_72 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1212 of width 8.
+Using motif -SRSF1_1212 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 190 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.992556
+#   Estimated pi_0=0.997688
+Using motif +PTBP1_1003 of width 7.
+Using motif -PTBP1_1003 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 144 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990497
+#   Estimated pi_0=0.994898
+Using motif +HNRNPA1_52 of width 11.
+Using motif -HNRNPA1_52 of width 11.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 195 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989827
+#   Estimated pi_0=0.993608
+Using motif +ELAVL1_164 of width 12.
+Using motif -ELAVL1_164 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 335 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.958146
+#   Estimated pi_0=0.970787
+Using motif +PTBP1_136 of width 5.
+Using motif -PTBP1_136 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1239 of width 9.
+Using motif -SRSF1_1239 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 206 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.96671
+#   Estimated pi_0=0.972308
+Using motif +MBNL1_1126 of width 10.
+Using motif -MBNL1_1126 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 68 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.994069
+#   Estimated pi_0=1
+Using motif +ELAVL1_1107 of width 7.
+Using motif -ELAVL1_1107 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 73 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990688
+#   Estimated pi_0=0.994242
+Using motif +PTBP1_s80 of width 7.
+Using motif -PTBP1_s80 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 169 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980698
+#   Estimated pi_0=0.988737
+Using motif +KHDRBS1_1159 of width 7.
+Using motif -KHDRBS1_1159 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_650 of width 5.
+Using motif -HNRNPA1_650 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_649 of width 10.
+Using motif -HNRNPA1_649 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993861
+#   Estimated pi_0=1
+Using motif +PTBP1_1020 of width 5.
+Using motif -PTBP1_1020 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_489 of width 4.
+Using motif -PTBP1_489 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_694 of width 6.
+Using motif -HNRNPA1_694 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_661 of width 5.
+Using motif -HNRNPA1_661 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +TARDBP_1278 of width 7.
+Using motif -TARDBP_1278 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 54 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.990814
+#   Estimated pi_0=0.999086
+Using motif +HNRNPA1_673 of width 7.
+Using motif -HNRNPA1_673 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 83 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988082
+#   Estimated pi_0=0.999184
+Using motif +HNRNPA2B1_701 of width 6.
+Using motif -HNRNPA2B1_701 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_1129 of width 7.
+Using motif -NOVA1_1129 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +QKI_70 of width 12.
+Using motif -QKI_70 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 90 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.98323
+#   Estimated pi_0=0.98323
+Using motif +ELAVL1_M127_0.6 of width 7.
+Using motif -ELAVL1_M127_0.6 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 215 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.979048
+#   Estimated pi_0=0.986321
+Using motif +PTBP1_s100 of width 7.
+Using motif -PTBP1_s100 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 312 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.960706
+#   Estimated pi_0=0.963222
+Using motif +SRSF1_1222 of width 6.
+Using motif -SRSF1_1222 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1214 of width 10.
+Using motif -SRSF1_1214 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 240 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987517
+#   Estimated pi_0=0.992642
+Using motif +SRSF1_1223 of width 7.
+Using motif -SRSF1_1223 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 31 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.99625
+#   Estimated pi_0=1
+Using motif +PTBP1_100 of width 10.
+Using motif -PTBP1_100 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 222 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.974189
+#   Estimated pi_0=0.982333
+Using motif +NOVA1_99 of width 4.
+Using motif -NOVA1_99 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +ZFP36_38 of width 5.
+Using motif -ZFP36_38 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_380 of width 6.
+Using motif -PTBP1_380 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1226 of width 12.
+Using motif -SRSF1_1226 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 220 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993939
+#   Estimated pi_0=0.996884
+Using motif +SRSF1_1224 of width 7.
+Using motif -SRSF1_1224 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 201 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.98328
+#   Estimated pi_0=0.986875
+Using motif +SRSF1_s60 of width 8.
+Using motif -SRSF1_s60 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 196 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984103
+#   Estimated pi_0=0.994545
+Using motif +QKI_1140 of width 5.
+Using motif -QKI_1140 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +HNRNPA1_1342 of width 5.
+Using motif -HNRNPA1_1342 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_325 of width 7.
+Using motif -SRSF1_325 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1362 of width 9.
+Using motif -SRSF1_1362 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 201 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.983681
+#   Estimated pi_0=0.988995
+Using motif +PTBP1_1379 of width 10.
+Using motif -PTBP1_1379 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 161 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988515
+#   Estimated pi_0=0.994301
+Using motif +HNRNPA1_1305 of width 6.
+Using motif -HNRNPA1_1305 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1351 of width 9.
+Using motif -SRSF1_1351 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 196 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.969535
+#   Estimated pi_0=0.972069
+Using motif +HNRNPA1_1358 of width 6.
+Using motif -HNRNPA1_1358 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1314 of width 9.
+Using motif -PTBP1_1314 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 169 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987933
+#   Estimated pi_0=0.993538
+Using motif +SRSF1_1388 of width 7.
+Using motif -SRSF1_1388 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 161 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985146
+#   Estimated pi_0=0.989167
+Using motif +SRSF1_1367 of width 7.
+Using motif -SRSF1_1367 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 155 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991447
+#   Estimated pi_0=0.99433
+Using motif +SRSF1_1385 of width 7.
+Using motif -SRSF1_1385 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 156 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.987283
+#   Estimated pi_0=0.994619
+Using motif +SRSF1_1336 of width 10.
+Using motif -SRSF1_1336 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 266 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.985275
+#   Estimated pi_0=0.989278
+Using motif +PTBP1_1381 of width 10.
+Using motif -PTBP1_1381 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 244 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.982938
+#   Estimated pi_0=0.986051
+Using motif +SRSF1_1345 of width 7.
+Using motif -SRSF1_1345 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 114 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989531
+#   Estimated pi_0=0.999086
+Using motif +HNRNPA1_1304 of width 5.
+Using motif -HNRNPA1_1304 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1324 of width 7.
+Using motif -SRSF1_1324 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 146 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.980109
+#   Estimated pi_0=0.980109
+Using motif +SRSF1_1327 of width 9.
+Using motif -SRSF1_1327 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 150 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984
+#   Estimated pi_0=0.993571
+Using motif +SRSF1_1335 of width 7.
+Using motif -SRSF1_1335 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 48 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.993089
+#   Estimated pi_0=0.998384
+Using motif +HNRNPA1_1306 of width 10.
+Using motif -HNRNPA1_1306 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 266 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.982
+#   Estimated pi_0=0.985978
+Using motif +PTBP1_1341 of width 7.
+Using motif -PTBP1_1341 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 169 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.973288
+#   Estimated pi_0=0.977444
+Using motif +SRSF1_1349 of width 6.
+Using motif -SRSF1_1349 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +NOVA1_1378 of width 8.
+Using motif -NOVA1_1378 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 48 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.997474
+#   Estimated pi_0=1
+Using motif +HNRNPA1_1346 of width 10.
+Using motif -HNRNPA1_1346 of width 10.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 99 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.975686
+#   Estimated pi_0=0.996907
+Using motif +SRSF1_1376 of width 12.
+Using motif -SRSF1_1376 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 141 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.983304
+#   Estimated pi_0=0.992826
+Using motif +PTBP1_1398 of width 6.
+Using motif -PTBP1_1398 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1390 of width 9.
+Using motif -SRSF1_1390 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 207 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.96962
+#   Estimated pi_0=0.979337
+Using motif +SRSF1_1312 of width 8.
+Using motif -SRSF1_1312 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 50 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.989231
+#   Estimated pi_0=0.999394
+Using motif +SRSF1_1319 of width 9.
+Using motif -SRSF1_1319 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 248 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.986961
+#   Estimated pi_0=0.990204
+Using motif +SRSF1_1393 of width 7.
+Using motif -SRSF1_1393 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1364 of width 7.
+Using motif -SRSF1_1364 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 173 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988
+#   Estimated pi_0=0.990576
+Using motif +PTBP1_1368 of width 8.
+Using motif -PTBP1_1368 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 81 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.97432
+#   Estimated pi_0=0.976744
+Using motif +PTBP2_1317 of width 5.
+Using motif -PTBP2_1317 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1353 of width 9.
+Using motif -SRSF1_1353 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 207 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.984485
+#   Estimated pi_0=0.992593
+Using motif +SRSF1_1310 of width 7.
+Using motif -SRSF1_1310 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 146 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.991243
+#   Estimated pi_0=0.992959
+Using motif +PTBP2_1370 of width 6.
+Using motif -PTBP2_1370 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1372 of width 5.
+Using motif -PTBP1_1372 of width 5.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1326 of width 6.
+Using motif -SRSF1_1326 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +SRSF1_1383 of width 8.
+Using motif -SRSF1_1383 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 64 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.982599
+#   Estimated pi_0=0.987579
+Using motif +SRSF1_1389 of width 9.
+Using motif -SRSF1_1389 of width 9.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 200 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.97707
+#   Estimated pi_0=0.980851
+Using motif +HNRNPA1_1397 of width 4.
+Using motif -HNRNPA1_1397 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1359 of width 6.
+Using motif -PTBP1_1359 of width 6.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.
+Using motif +PTBP1_1382 of width 7.
+Using motif -PTBP1_1382 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 245 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.976642
+#   Estimated pi_0=0.980109
+Using motif +PTBP1_1340 of width 7.
+Using motif -PTBP1_1340 of width 7.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 284 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.969595
+#   Estimated pi_0=0.972111
+Using motif +SRSF1_1373 of width 8.
+Using motif -SRSF1_1373 of width 8.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 190 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.988876
+#   Estimated pi_0=0.995385
+Using motif +SRSF1_1338 of width 12.
+Using motif -SRSF1_1338 of width 12.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 297 sequences.
+Computing q-values.
+# Computing q-values.
+#   Estimating pi_0 from a uniformly sampled set of 10000 p-values.
+#   Estimating pi_0.
+# Minimal pi_zero = 0.978424
+#   Estimated pi_0=0.982995
+Using motif +HNRNPA1_1366 of width 4.
+Using motif -HNRNPA1_1366 of width 4.
+Finding best site passing the output threshold in each of the 824 sequences.
+Found a best site in 0 sequences.
+Computing q-values.

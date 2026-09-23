@@ -1,0 +1,12 @@
+PAP members among 977 sig genes: 161
+top 20 by padj:
+Tmem64(0.023) Ganab(0.023) Rfc5(0.023) Asph(0.023) Plec(0.023) Slc24a3(0.023) Crtc1(0.023) Edc4(0.023) Zdhhc8(0.023) Ttc3(0.023) Zfp644(0.023) Reep1(0.024) Mapk1(0.024) Dcaf7(0.024) Ackr1(0.024) Casd1(0.024) Mtmr4(0.025) Pdzd8(0.025) Pcyox1(0.025) Scn1b(0.025)
+
+triple-factor (QKI-loss + PAP-localized): 1
+ symbol  contrasts   direction  dPDUI_min  padj_min
+ Atp2a2  day3,day7  shortening     -0.125  0.028027
+
+endfoot-response members among sig: 34
+Htra1 Gstm1 Zcchc24 Aldh6a1 Snap25 Snca Msn Bcas1 Ndrg2 Stmn1 Egr1 Nnat Enho 1500009C09Rik Fam107a Slc9a3r1 Pea15a Rtn1 Ptk2b Fgfr3
+
+WM members: 429; QKI-loss+WM: 9 -> Agpat3 Cnp Fam107a Ndrg2 Qk Pea15a Igfbp7 Sparcl1 Sirt2

@@ -1,0 +1,5 @@
+generated 2026-09-21T14:55:53
+python: scripts/p2_rebuild_matrix.py (stdlib only)
+inputs: input_links sha256 (results/00_inventory/input_files_sha256.tsv)
+rules: config/coordinate_convention.yaml; class frozen P4-03 (input_links/P4_03_evidence_class_frozen.md)
+PAS: PolyASite 2.0 GRCm38.96 atlas (301,006 clusters) downloaded 2026-09-21 from https://polyasite.unibas.ch/download/atlas/2.0/GRCm38.96/atlas.clusters.2.0.GRCm38.96.bed.gz (old polyasite.ethz.ch domain retired NXDOMAIN); pas_distance_977.tsv computed + columns appended to matrix/ranking

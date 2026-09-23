@@ -1,0 +1,7 @@
+pairs	824
+median_len_diff	21.5
+max_len_diff	4175
+median_gc_diff_pp	0.03
+max_gc_diff_pp	4.159999999999997
+p_threshold	0.0001
+frozen8	ELAVL1;HNRNPA2B1;MBNL2;NOVA1;NOVA2;PTBP1;QKI;TARDBP

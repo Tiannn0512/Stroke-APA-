@@ -1,0 +1,31 @@
+[full:chr19] start 2026-09-19 11:48:39
+3
+/home/taylor/stroke_APA_work/dapars2_full/chr19_chr19
+[Sat Sep 19 11:48:40 2026] Start Analysis ...
+All samples Joint Processing chr19 ...
+[Sat Sep 19 11:48:40 2026] Loading Coverage ...
+/home/taylor/stroke_APA_work/bedgraph/day1_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day1_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day21_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day21_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day3_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day3_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day60_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day60_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day7_rep1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/day7_rep2.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham1.bedgraph
+/home/taylor/stroke_APA_work/bedgraph/sham2.bedgraph
+[49652326 52273421 39837975 39038280 38560545 40906253 39861605 44513076
+ 38391433 41344758 40347218 51568111]
+#assigned events:
+692
+[Sat Sep 19 11:50:34 2026] Loading Coverage Finished ...
+[Sat Sep 19 12:20:02 2026] Finished!
+[full:chr19] exit=0 2026-09-19 12:20:02
+total 20
+drwxr-xr-x  2 taylor taylor 4096 Sep 19 11:48 .
+drwxr-xr-x 30 taylor taylor 4096 Sep 19 11:53 ..
+-rw-r--r--  1 taylor taylor    6 Sep 19 11:48 chr.txt
+-rw-r--r--  1 taylor taylor  984 Sep 19 11:48 job.cfg
+-rw-r--r--  1 taylor taylor 1175 Sep 19 12:20 run.log

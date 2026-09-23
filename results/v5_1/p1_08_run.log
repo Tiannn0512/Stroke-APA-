@@ -1,0 +1,26 @@
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+[V0 ours col4 loose plain] genes_in_model=14323 sig=409 (up=145 down=264)
+paper-style prefilter genes = 10862 (paper: 10,862)
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+[V1 col4 paperfilter greaterAbs0.322] genes_in_model=10862 sig=55 (up=34 down=21)
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+[V2 col4 paperfilter plain] genes_in_model=10862 sig=391 (up=159 down=232)
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+[V3 col4 loose greaterAbs0.322] genes_in_model=14323 sig=55 (up=31 down=24)
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:548: UserWarning: As the residual degrees of freedom is less than 3, the distribution of log dispersions is especially asymmetric and likely to be poorly estimated by the MAD.
+  self.fit_dispersion_prior()
+[V4 col2 paperfilter plain] genes_in_model=10736 sig=370 (up=142 down=228)
+                     variant  genes  sig  up  down
+    V0_ours_col4_loose_plain  14323  409 145   264
+V1_col4_paperfilter_lfc0.322  10862   55  34    21
+   V2_col4_paperfilter_plain  10862  391 159   232
+      V3_col4_loose_lfc0.322  14323   55  31    24
+   V4_col2_paperfilter_plain  10736  370 142   228
+
+overlap V0(409) vs V1(55): 54
+
+P1-08 grid DONE

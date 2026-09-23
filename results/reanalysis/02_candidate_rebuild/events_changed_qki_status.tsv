@@ -1,0 +1,9 @@
+event_num	gene_symbol	old_L2	new_L2v2	new_distal_peaks
+216	Agpat3	yes	no	
+2072	Ndrg2	yes	no	
+6458	Kazn	no	yes	chr4:142139850-142139900(fdr=9.32e-07)
+6817	Sparcl1	yes	no	
+7821	Aplp1	no	yes	chr7:30435000-30435050(fdr=2.02e-02)
+8492	Cpe	yes	no	
+2426	Plec	no	yes	chr15:76171050-76171100(fdr=1.57e-03)
+6763	Igfbp7	yes	no	

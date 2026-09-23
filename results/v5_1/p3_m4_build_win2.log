@@ -1,0 +1,56 @@
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:539: UserWarning: Every gene contains at least one zero, cannot compute log geometric means. Switching to iterative mode.
+  self.fit_size_factors(
+refmap: 55401
+Traceback (most recent call last):
+  File "D:\stroke_apa\scripts\p3_m4_reference_sets.py", line 47, in <module>
+    dds.deseq2()
+    ~~~~~~~~~~^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 539, in deseq2
+    self.fit_size_factors(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        fit_type=self.size_factors_fit_type, control_genes=self.control_genes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 690, in fit_size_factors
+    self._fit_iterate_size_factors()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 1530, in _fit_iterate_size_factors
+    res = minimize(objective, np.log(old_sf), method="Powell")
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_minimize.py", line 775, in minimize
+    res = _minimize_powell(fun, x0, args, callback, bounds, **options)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 3567, in _minimize_powell
+    fval, x, direc1 = _linesearch_powell(func, x, direc1,
+                      ~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^
+                                         tol=xtol * 100,
+                                         ^^^^^^^^^^^^^^^
+                                         lower_bound=lower_bound,
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^
+                                         upper_bound=upper_bound,
+                                         ^^^^^^^^^^^^^^^^^^^^^^^^
+                                         fval=fval)
+                                         ^^^^^^^^^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 3243, in _linesearch_powell
+    res = _recover_from_bracket_error(_minimize_scalar_brent,
+                                      myfunc, None, tuple(), xtol=tol)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 3136, in _recover_from_bracket_error
+    res = solver(fun, bracket, args, **options)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 2735, in _minimize_scalar_brent
+    brent.optimize()
+    ~~~~~~~~~~~~~~^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 2572, in optimize
+    fu = func(*((u,) + self.args))      # calculate new output value
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 3236, in myfunc
+    return func(p + alpha*xi)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 561, in function_wrapper
+    fx = function(np.copy(x), *(wrapper_args + args))
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 1491, in objective
+    nll = nb_nll(
+        counts=self[:, self.non_zero_genes].X,
+    ...<3 lines>...
+        alpha=self.var.loc[self.non_zero_genes, "dispersions"].values,
+    )
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\utils.py", line 223, in nb_nll
+    + (counts + alpha_neg1) * np.log(mu + alpha_neg1)
+                              ~~~~~~^^^^^^^^^^^^^^^^^
+numpy._core._exceptions._ArrayMemoryError: Unable to allocate 1.89 MiB for an array with shape (41393, 6) and data type float64

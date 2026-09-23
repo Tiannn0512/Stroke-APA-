@@ -1,0 +1,79 @@
+<!DOCTYPE html><html><head><meta charset="utf-8"><title>Stroke APA Final Report v5.1r</title><style>body{font-family:Segoe UI,Arial,sans-serif;max-width:1000px;margin:2em auto;line-height:1.6;padding:0 1em}table{border-collapse:collapse;font-size:.95em}th{background:#eef}td,th{border:1px solid #aaa;padding:4px 8px}h1{border-bottom:3px solid #2a5d9f}h2{color:#2a5d9f;border-bottom:1px solid #ccc}blockquote{background:#f4f7fb;padding:.6em 1em;border-left:4px solid #2a5d9f}</style></head><body><h1>Stroke→Astrocyte APA→定位潜能：最终报告（v5.1r 执行版）</h1>
+<p></p>
+<blockquote>t; 生成：2026-09-20 ｜ 课题：卒中→星形胶质细胞 APA 调控子改变→特异 mRNA APA→远端隔室定位潜能</blockquote>
+<blockquote>t; <b>表述纪律声明</b>：本报告全部结论上限为 &quot;altered localization potential（定位潜能改变）&quot;；不声称已证明实际转运；RiboTag/TRAP 一律为&quot;转译组 proxy&quot;；三级证据（L1 调控 / L2 结合证据一致 / L3 预测相关）逐处标注，禁止越级。</blockquote>
+<p></p>
+<hr>
+<p></p>
+<h2>一、执行总览</h2>
+<p></p>
+<table border=1 cellspacing=0 cellpadding=4>
+<tr><th>阶段</th><th>内容</th><th>状态</th><th>Gate</th></tr>
+<tr><td>P0</td><td>数据底座（6 数据集核实/下载）、Gate GA：M2 走 Plan B</td><td>✅ 09-16</td><td>GA</td></tr>
+<tr><td>P1</td><td>M1 regulator 层（scRNA 伪bulk DE + 配对层）</td><td>✅ 09-16</td><td>G1</td></tr>
+<tr><td>P2</td><td>M2 APA 层（GSE238125 12 样本、DaPars2、SAP v1.1 统计）</td><td>✅ 09-20</td><td><b>G2</b></td></tr>
+<tr><td>P3</td><td>M3 关联三层 + M4 三轴定位参考</td><td>✅ 09-20</td><td><b>G3</b></td></tr>
+<tr><td>P4</td><td>漏斗 + evidence class（A/B/C/D）</td><td>✅ 09-20</td><td><b>G4</b></td></tr>
+<tr><td>P5</td><td>交付（本报告 + 候选卡 + 湿实验路线书）</td><td>✅ 09-20</td><td><b>G5</b>（用户确认）</td></tr>
+</table>
+<p></p>
+<p>关键路径原定 10-12 收官，实际 09-20 完成干实验部分（MPRA 修复除外，见局限）。</p>
+<p></p>
+<h2>二、七环节证据链总表</h2>
+<p></p>
+<table border=1 cellspacing=0 cellpadding=4>
+<tr><th>#</th><th>环节</th><th>主要证据</th><th>强度</th><th>缺口</th></tr>
+<tr><td>1</td><td>卒中后星形胶质细胞 regulator 改变</td><td>Pabpn1↓（scRNA 层 padj 3e-4，homeostatic 层 0.017 重复）；Qk 双层↓（0.077/0.122）；17/31 方向一致</td><td>中（mRNA 层，非蛋白活性）</td><td>蛋白/核定位未测</td></tr>
+<tr><td>2</td><td>全局 APA 重塑</td><td>9,693 事件可定量；<b>977 显著</b>（联合 BH&lt;0.1 &amp; \</td><td>ΔPDUI\</td><td>≥0.1 &amp; 双重复同向；<b>471 个在 ≥2 时间点同向显著</b>）；d1–d60 全程缩短主导（4.84/0.73*/7.23/6.58/4.58:1）</td><td>强（预注册 SAP、LOSO 稳定、分层反伪迹梯度）</td><td>n=2/时点，discovery 层</td></tr>
+<tr><td>3</td><td>regulator→APA 因果</td><td>PABPN1→全局缩短有 perturbation 文献（L1，PMID 22502866 等 12 对）</td><td>中（文献外部证据，本项目未做扰动）</td><td>需湿实验 KD/rescue</td></tr>
+<tr><td>4</td><td>特异事件结合证据</td><td><b>11/977 事件丢失段含 QKI 真实结合位点</b>（OR=2.71，p=0.013，10/11 缩短）：Agpat3/Cnp/Fam107a/Ndrg2/<b>Qk</b>/Pea15a/Igfbp7/Sparcl1/Atp2a2/Sirt2/Cpe。方法学一致性：salmon 与 DaPars2 两独立管线方向全时点一致（Spearman 0.041–0.139，5/5 时点 p≤0.0023）</td><td>弱-中（单事件功效有限；top40 一致性 13/27 = 功效不足）</td><td>事件级真实性需 3&#x27;RACE</td></tr>
+<tr><td>5</td><td>序列元件层</td><td><b>L3 阴性</b>：丢失段 vs UTR 匹配 null 无家族<b>富集</b>（enrichment 0.89–1.07；5 家族呈轻度缺失且过 BH，方向与富集相反）</td><td>阴性（高功效）</td><td>MPRA 阻断（manifest 未核）</td></tr>
+<tr><td>6</td><td>定位背景富集</td><td><b>PAP_localized 轴一致向缩短偏移</b>（fgsea：d7 padj≈1e-4 / d3 0.0018 / omnibus 0.0042 / d1 0.044）；血管周 endfoot 轴阴性；WM zone 弱同向</td><td>中（rank-based 信号，量级温和：PAP 基因占显著集 16.5%）</td><td>终足假设未被支持——修正为 PAP</td></tr>
+<tr><td>7</td><td>保守性</td><td>1,004/1,541 丢失段含 phastCons60way 元件（65%）</td><td>描述性</td><td>无对照比较</td></tr>
+</table>
+<p></p>
+<p>\* d3 0.73:1 系 day3_rep1 文库异常（insert=150）所致假象；剔除后 d3 亦缩短（2.13:1）。</p>
+<p></p>
+<h2>三、Top 候选（G4 通过，冻结规则自动选出，稳定性排序）</h2>
+<p></p>
+<table border=1 cellspacing=0 cellpadding=4>
+<tr><th>排序</th><th>基因</th><th>class</th><th>显著时点</th><th>最强 ΔPDUI</th><th>关键证据</th></tr>
+<tr><td>1</td><td><b>Ndrg2</b></td><td>B</td><td>d1/21/60 + d7 边缘</td><td>−0.280</td><td>QKI 丢失段重叠（chr14:51905900-51906000）；HNRNPA2B1+NOVA2 motif；保守重叠 447bp；属于 endfoot/cortex/WM 三个响应集（注意：<b>不在</b>信号阳性的 PAP 轴清单内）</td></tr>
+<tr><td>2</td><td><b>Agpat3</b></td><td>B</td><td>d1/3/7/21</td><td>−0.305</td><td>QKI 重叠；脂质重塑基因；4 时点稳定缩短</td></tr>
+<tr><td>3</td><td><b>Cnp</b></td><td>B</td><td>d1（d7/60 边缘）</td><td>−0.145</td><td>QKI 重叠；NOVA1 motif；保守 236bp；髓鞘蛋白，WM 轴成员</td></tr>
+<tr><td>4</td><td><b>Pea15a</b></td><td>B</td><td>d7/60</td><td>−0.135</td><td>QKI 重叠；保守</td></tr>
+<tr><td>5</td><td><b>Fam107a</b></td><td>B</td><td>d1</td><td>−0.220</td><td>QKI 重叠；应激响应基因</td></tr>
+</table>
+<p></p>
+<p><b>补充案例（G4 后专项提取，2026-09-20）</b>：<b>Atp2a2（SERCA2 钙泵）</b>——977 事件中唯一同时满足三要素的基因：① 外周突起定位注释（PAP 成员）；② 卒中后显著缩短（d3/d7，ΔPDUI −0.125，padj 0.028）；③ 剪掉片段含 QKI 结合位点（chr5:122,456,550–650，FDR 0.006）。按冻结规则 class = <b>D</b>（丢失段无保守元件重叠，如实登记）；作为&quot;UTR 缩短可能影响定位转录本投递&quot;的最强单点案例，建议湿实验优先级与 Ndrg2/Agpat3 并列（reporter + smFISH 直接检验，见路线书 §1a/2b）。</p>
+<p></p>
+<p>候选卡全文（含坐标/motif p 值/保守 bp）= `results/p4_candidate_cards.md`；<b>977 基因完整清单</b>（含 padj/方向/class/QKI/PAP 归属）= `results/final_answer_gene_list.tsv`。</p>
+<p></p>
+<h2>四、结论（按纪律措辞）</h2>
+<p></p>
+<li>缺血性卒中伴随皮层星形胶质细胞<b>时间依赖的 3&#x27;UTR 重塑</b>：d1 起缩短主导，持续至 d60（直接数据支持）。</li>
+<li>重塑发生的同时，<b>Pabpn1 mRNA 下降、Qk 双层下降</b>（并发上游候选，非因果；直接数据 + 文献支持）。</li>
+<li>一部分 APA 事件发生在<b>外周突起定位相关转录本</b>中（正交证据支持的方向一致偏好），血管周终足响应集未见对应信号。</li>
+<li>少数事件（11 个）的剪掉片段有 <b>QKI 结合证据</b>（正交证据支持）；其中 <b>Atp2a2（SERCA2 钙泵）为唯一同时具备外周突起定位注释者</b>（三要素案例，class D）；序列预测层未发现普适性 motif 富集（阴性照登）。</li>
+<li>上述证据共同产生 <b>可验证的机制候选</b>（Top 5），其定位/功能意义需湿实验检验（路线书另附）。</li>
+<p></p>
+<h2>五、局限（全部照登）</h2>
+<p></p>
+<li>GSE238125 n=2/时间点——discovery 层，无 confirmatory 推断力。</li>
+<li>regulator 变化为 mRNA 层，非蛋白活性/核定位。</li>
+<li>APA 测量在分选胞体 bulk，<b>无空间分辨率</b>；&quot;外周突起&quot;信号来自定位清单的三角互证，非隔室直测。</li>
+<li>MPRA 层（GSE330741）数据与官方描述矛盾，manifest 未核——<b>本周期不可用</b>，A 级不可达。</li>
+<li>QKI CLIP 为 P21 全前脑数据，非卒中星形胶质细胞特异。</li>
+<li>L3 motif 层阴性；top40 单事件第二工具抽验功效不足（13/27）。</li>
+<li>slim 注释（每基因最长 3&#x27;UTR）会漏替选末端外显子事件；事件表述 = &quot;最长注释末端 3&#x27;UTR 参考内的 DaPars2 断点移位&quot;。</li>
+<li>GSE286075 层按审计重定位为&quot;卒中响应参考&quot;，409 DE 与原文 205 的差异已作复现附录（判据差异，非管线错误）。</li>
+<li>双联体/ambient 敏感性通过（0 regulator 翻转），但 ambient 为无 raw matrix 的近似口径。</li>
+<p></p>
+<h2>六、湿实验路线书</h2>
+<p></p>
+<p>见独立文档 `STROKE_APA_WETLAB_ROUTE.md`（PAP 轴修订版：第一阶段候选验证 + 长短异构体定位 reporter；第二阶段 PABPN1 扰动 + 突触周 smFISH；第三阶段突触功能）。</p>
+<p></p>
+<h2>七、红线自查</h2>
+<p></p>
+<p>P5-05 grep 结果见 `results/p5_redline_check.tsv`（禁语 0 命中）。</p>
+<p></p></body></html>

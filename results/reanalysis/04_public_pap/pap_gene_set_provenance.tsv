@@ -1,0 +1,11 @@
+pap_gene_set_provenance — 任务 A 第 6 步（来源审计）
+
+item	value
+list_file	results/04_public_pap 内引用的 pap_gene_sets_set1_pap2729.txt（源：v5.1 阶段 results/p3_m4_set1_pap_enriched.txt，已入库 input_links/pap_gene_sets_set1_pap2729.txt）
+derivation	本课题组对 GSE74456（Sakers et al. 2017, PNAS; SRP065508）的重新分析：PAP-TRAP vs 全皮层 TRAP，pydeseq2 ~condition
+inclusion_criteria	padj < 0.05 且 log2FC > 0 且 baseMean >= 10
+n_genes	2729
+evidence_type	相对富集（PAP 翻译组 vs 全皮层星形胶质细胞翻译组），不是"仅检测到"，也不是"核糖体结合"单一口径；TRAP 数据反映核糖体结合（翻译中）RNA
+paper_version_note	Sakers 2017 原文补充表的官方 PAP 基因列表未另行核对；本列表为课题组自重分析结果，阈值冻结于 v5.1 P4-02（用户批准）
+Atp2a2_membership	member（log2FC=+2.13, padj=7.97e-07, baseMean=8288；该行统计量为 2026-09-21 应用户问询补充调取，属事后描述性证据，不参与冻结分级）
+caveat	健康海马独立数据（GSE143531）经 edgeR 归一化重算后不支持 Atp2a2 的 PAP 富集（log2FC=-0.273, FDR=0.683）——两数据集脑区与流程不同，富集先验按区域依赖处理

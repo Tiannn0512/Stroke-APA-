@@ -1,0 +1,18 @@
+refmap: 55401
+[SET1] tested=15550 PAP-enriched(padj<0.05,l2fc>0)=2729
+[SET2] background=14320 endfoot DE padj<0.05=409
+[SET3] cortex zones (L*) vs LSb
+  cortex zone1: tested=21952 sig=2204
+  cortex zone2: tested=21776 sig=2460
+  cortex zone3: tested=21132 sig=1048
+  cortex zone4: tested=21565 sig=1929
+  cortex zone5: tested=21453 sig=681
+[SET3:cortex] stroke-responsive union=4773
+[SET3] white matter zones (M*) vs MSb
+  whitematter zone1: tested=26939 sig=5600
+  whitematter zone2: tested=26401 sig=6459
+  whitematter zone3: tested=26676 sig=6993
+  whitematter zone4: tested=26902 sig=7725
+  whitematter zone5: tested=27065 sig=7585
+[SET3:whitematter] stroke-responsive union=10434
+[DONE] M4 reference sets built

@@ -1,0 +1,6 @@
+contrast	n_genes	spearman_rho	p_value
+day1	5798	0.088	1.98e-11
+day3	5769	0.139	3.52e-26
+day7	5499	0.041	2.25e-03
+day21	5820	0.042	1.28e-03
+day60	5847	0.076	6.52e-09

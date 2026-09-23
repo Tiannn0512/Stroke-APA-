@@ -1,0 +1,26 @@
+D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py:539: UserWarning: Every gene contains at least one zero, cannot compute log geometric means. Switching to iterative mode.
+  self.fit_size_factors(
+refmap: 55401
+Traceback (most recent call last):
+  File "D:\stroke_apa\scripts\p3_m4_reference_sets.py", line 47, in <module>
+    dds.deseq2()
+    ~~~~~~~~~~^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 539, in deseq2
+    self.fit_size_factors(
+    ~~~~~~~~~~~~~~~~~~~~~^
+        fit_type=self.size_factors_fit_type, control_genes=self.control_genes
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+    )
+    ^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 690, in fit_size_factors
+    self._fit_iterate_size_factors()
+    ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~^^
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\pydeseq2\dds.py", line 1530, in _fit_iterate_size_factors
+    res = minimize(objective, np.log(old_sf), method="Powell")
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_minimize.py", line 775, in minimize
+    res = _minimize_powell(fun, x0, args, callback, bounds, **options)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\scipy\optimize\_optimize.py", line 3535, in _minimize_powell
+    direc = eye(N, dtype=float)
+  File "D:\Auto Claw\AutoClaw\resources\python\Lib\site-packages\numpy\lib\_twodim_base_impl.py", line 237, in eye
+    m = zeros((N, M), dtype=dtype, order=order, device=device)
+numpy._core._exceptions._ArrayMemoryError: Unable to allocate 12.8 GiB for an array with shape (41393, 41393) and data type float64

@@ -1,0 +1,6 @@
+event	symbol	contrasts	n_contrasts	dPDUI_min	dPDUI_max	padj_min	direction	L1	L2_qki_lostseg	L3_motif_frozen	L4_conserved	axis_PAP	axis_endfoot	axis_zone_cortex	axis_zone_WM	class
+2072	Ndrg2	day1,day21,day60,day7	4	-0.28	-0.225	0.0341459271600608	shortening	none	yes	yes	CONSERVED	no	yes	yes	yes	B
+1065	Cnp	day1,day7	2	-0.145	-0.125	0.0384900151361251	shortening	none	yes	yes	CONSERVED	no	no	no	yes	B
+1952	Fam107a	day1	1	-0.22	-0.22	0.0517862334161404	shortening	none	yes	yes	CONSERVED	no	yes	yes	yes	B
+4564	Pea15a	day60,day7	2	-0.135	-0.13	0.0564626863981111	shortening	none	yes	yes	CONSERVED	no	yes	yes	yes	B
+216	Agpat3	day1,day21,day3,day7	4	-0.305	-0.245	0.0740356745390241	shortening	none	yes	yes	CONSERVED	no	no	yes	yes	B

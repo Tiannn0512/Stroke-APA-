@@ -1,0 +1,69 @@
+date	item	source	size_or_shape	purpose	stage
+2026-09-16	data/GSE174574/GSE174574_RAW.tar	NCBI FTP (parallel Range)	263086080 B	scRNA raw supplement	P0-04
+2026-09-16	data/GSE174574/extract/	tar extract	18 files (6 samples x barcodes/genes/matrix)	10x three-piece per sample	P0-04
+2026-09-16	data/GSE174574/h5ad/raw_all.h5ad	scripts/p0_load_audit.py	58528 cells x ~31k genes (sparse)	merged raw AnnData	P0-04
+2026-09-16	data/GSE286075/GSE286075_RAW.tar	NCBI FTP	1802240 B	endfoot RiboTag supplement	P0-05
+2026-09-16	data/GSE286075/extract/	tar extract	6 files ReadsPerGene.out.tab.gz	gene-level counts CTR/Stroke x3	P0-05
+2026-09-16	results/p0_cell_audit_raw.tsv	scripts/p0_load_audit.py	6 rows	per-sample QC audit (raw)	P0-09
+2026-09-16	results/p0_regulator_quickcheck.tsv	scripts/p0_load_audit.py (rerun pending)	9 genes x 6 samples	regulator quickcheck	P0-08
+2026-09-16	D:\stroke_apa_data\ena_filereport.tsv	ENA portal API (PRJNA997998)	12 runs, 47.66 GB FASTQ Ԫ数据	P2-05 下载清单与校验基准	P2
+2026-09-16	D:\stroke_apa_data\fastq\sham1_1_1.fastq.gz	ENA SRR25403070_1	2,090,117,617 B	P2-05 试点 Sham rep1 R1（完整）	P2
+2026-09-16	WSL ~/stroke_APA_pilot	前期试点工作区（GSE225110 6 runs）	GRCm38+GENCODE vM25+STAR index 24GB+PolyASite PAS+dapars2/qapa/salmon env	P2 参考与工具复用源；reanalysis_v3 纠错报告=方法学教训库	P2
+2026-09-16	E:\stroke_apa\scripts\p2_gse238125_align.sh	本次编写（复用试点参数）	2.5KB	P2-05 比对流程（fastp→STAR→bedgraph -split→depth）	P2
+2026-09-16	E:\stroke_apa\scripts\p2_dapars2_run.sh	本次编写	1.5KB	P2-06 DaPars2 运行器（12 样本 cfg）	P2
+2026-09-16	D:\stroke_apa_data\fastq_md5_all.tsv	ENA filereport	12 runs×2 md5	P2-05 下载校验基准	P2
+2026-09-16	E:\stroke_apa\ENVIRONMENT.md	本次编写（版本当日实查）	环境清单（Win+WSL 双侧软件/包/版本/路径）	工作环境总览	P2
+2026-09-16	results/p1_DE_paired_GSE286075.wrongstrand.bak.tsv	p1_de_catalog.py 修正前备份	3688 genes, 6 sig	错误取列(col3)版存档，负结果照登	P1-05 勘误
+2026-09-16	results/p1_regulator_catalog.wrongstrand.bak.tsv	p1_de_catalog.py 修正前备份	31 rows, 4 concordant	错误取列版存档	P1-06 勘误
+2026-09-16	results/p1_DE_paired_GSE286075.tsv	p1_de_catalog.py（col4 修正重跑）	14323 genes, 409 padj<0.05	修正版配对 DE（dUTP 第二链）	P1-05 勘误
+2026-09-16	results/p1_regulator_catalog.tsv	p1_de_catalog.py（col4 修正重跑）	31 rows, 17 concordant	修正版 regulator 目录	P1-06 勘误
+2026-09-16	scripts/diag_286_strand.py	本次编写	诊断脚本（6 样本 col2/3/4 求和）	链列实证依据	P1-05 勘误
+2026-09-17	D:\stroke_apa_data\fastq\sham1_2.fastq.gz	ENA SRR25403070_2（重拉）	2,499,313,759 B，md5 OK	试点 Sham rep1 R2（首装 md5 不匹配已删重拉）	P2-05a
+2026-09-17	D:\stroke_apa_data\fastq\sham2_1.fastq.gz	ENA SRR25403071_1	2,203,999,787 B	试点 Sham rep2 R1	P2-05b
+2026-09-17	D:\stroke_apa_data\fastq\sham2_2.fastq.gz	ENA SRR25403071_2	~2.60GB	试点 Sham rep2 R2	P2-05b
+2026-09-17	D:\stroke_apa_data\fastq\day1_rep1_1.fastq.gz	ENA SRR25403072_1	~1.62GB	试点 d1 rep1 R1	P2-05b
+2026-09-17	scripts/p2_redo_sham1_2.py	本次编写（独立 8 并发重拉）	断点续传下载器	sham1_2 坏文件重拉专用	P2-05a
+2026-09-17	scripts/p2_pilot_qc.py	本次编写	描述性 PDUI 质检（无阈值门禁）	试点首批 PDUI 质检	P2-05g
+2026-09-17	scripts/p2_dl_8runs.py	本次编写	8 runs 断点续传下载器	剩余 8 runs 自动下载（ENA 直连选路）	P2-05h
+2026-09-17	D:\stroke_apa_data\night_chain.sh / stage2_chain.sh / dl_8runs_watcher.sh	本次编写	自动链：md5 门禁→比对；试点比对→DaPars2→QC；下载排队	过夜无人值守执行	P2-05
+2026-09-17	D:\stroke_apa_data\qc\sham1_fastp.html/json	比对链产物	fastp QC 报告	sham1 接头裁剪记录	P2-05d
+2026-09-17	data/GSE263986/GSE263986_ProcessedData.xlsx	NCBI FTP	15,962,154 B	M4 参考集3：分区转译组 processed	P3 预取
+2026-09-17	data/GSE74456/GSE74456_RAW.tar	NCBI FTP	1,740,800 B（12 count 文件，tar 完整）	M4 参考集1：PAPTRAP counts（CtxPre/TRAP/PAPpre/TRAP ×3）	P3 预取
+2026-09-17	data/GSE146935/GSE146935_RAW.tar	NCBI FTP	2,222,080 B（11 htseq counts）	注：仅 TRAPseq counts，无 CLIP peaks（peaks 走 POSTAR3/SRA，见 P3-02）	P3 预取
+2026-09-17	data/GSE330741/*.counts.txt.gz	NCBI FTP	32 文件，392KB	MPRA DNA/Post counts × L1/L2 tiles	M5/P4 预取
+2026-09-17	results/p3_level1_pairs.tsv	主会话检索+eutils 核验	12 对 regulator-target	M3 L1 正式表（PMID 全核验）	P3-01
+2026-09-18	D:\stroke_apa_data\ext4_backup_20260918\	WSL ext4 → D 盘冷备	12 样本 bedgraph + depth + qc（5.4GB）	防 WSL 误删事故的完整备份（取代 0917 部分备份）	P2
+2026-09-18	results/p2_pilot_pdui_qc_v1.tsv	DaPars2 试点质检	9,269 事件；sham r=0.919；d1 缩短 3.4:1	试点 PDUI 质检存档	P2-05g
+2026-09-18	[清理] D:\stroke_apa_data\{ext4_backup_20260917, work, bam, bedgraph, reference_rebuild, dapars2_chr[1-8], fastq/day7_rep1_1.parts}	清理（删前逐项核验）	回收 ~21GB（76→97GB 空闲）	慢速路径残骸/被取代备份/孤儿分块；fastq 24 文件与 dapars2_single_chr* 结果未动	磁盘管理
+2026-09-19	reviews/Stroke_APA_v5.1_论证逻辑审计报告_20260918.md	外部审计（微信原件拷贝入库）	849 行	Major revision/有条件 Go；v5.1r 修订依据	审计
+2026-09-19	results/P2_SAP_frozen.md	本次编写（审计 §3/§4/§6 细则）	v1.0/v1.1（R 例外修订见文内）	P2 统计分析计划冻结（全量统计前）	P2-06a
+2026-09-19	results/p1_08_grid_205v409.tsv	scripts/p1_08_205v409.py	5 变体 × 5 列	205 vs 409 判据分解网格	P1-08
+2026-09-19	results/p1_286075_paper_criteria_repro.tsv	scripts/p1_08_205v409.py (V1)	10,862 基因，55 sig	原文判据复现全表（anchor Hspa1a/Hspa1b rank1/2）	P1-08
+2026-09-19	results/p1_08_286075_205v409_appendix.md	本次编写	4 节	205 vs 409 正式复现附录	P1-08
+2026-09-20	results/p3_m4_set1_paptrap_de.tsv + p3_m4_set1_pap_enriched.txt	scripts/p3_m4_reference_sets.py (Set1)	15,550 入模；2,729 PAP 富集	PAP_localized 参考轴	M4 参考集1
+2026-09-20	results/p3_m4_set2_endfoot_de.txt + _background.txt	scripts/p3_m4_reference_sets.py (Set2)	409 DE；14,320 背景	endfoot_stroke_responsive 参考轴	M4 参考集2
+2026-09-20	results/p3_m4_set3_stroke_responsive_{cortex,whitematter}.txt + zone_de_*.tsv	scripts/p3_m4_reference_sets.py (Set3)	皮层并集 4,773；白质并集 10,434	stroke_spatial_zone_response 参考轴（10 zone contrast 全存）	M4 参考集3
+2026-09-20	results/p1_07_sensitivity_summary.tsv + p1_07_variant_{DE,subpop,regulators}_*.tsv	scripts/p1_07_doublet_ambient.py	scrublet 1,624 双联体(2.85%)；ambient 2,849 (5.0%)；B/C 变体 astro 3,046/3,042 vs 原 3,045；DE_sig 1,310/1,311 vs 原 1,280（overlap 96%/94%）；31 regulator 方向翻转 = 0	doublet/ambient 敏感性：P1 结论稳健	P1-07
+2026-09-20	results/p2_full_pdui_matrix.tsv	p2_full_merge_qc.py（20/20 chr 合并；depth 22/22 日志核验）	9,693 事件 × 12 样本 + 17 列	全量 PDUI 矩阵（主表）	P2-06
+2026-09-20	results/p2_full_merge_qc.tsv	同上	35 行指标	sham r=0.9257；d1 4.84:1 缩短；d3 0.73:1（含技术异常，见层1）；d7 7.23:1；d21 6.58:1；d60 4.58:1	P2-06
+2026-09-20	results/p2_full_qc_sample_level.tsv + _correlation.tsv + _pca.tsv + _stratified.tsv	p2_sap_layer1_qc.py	12 样本 QC + 混杂 + 分层	day3 双样本 insert=150 异常（d3_rep1 dup 0.215）；d1 缩短随表达量升高而增强（Q4 5.87 vs Q1 2.17）；PC1 36.8%	SAP 层1
+2026-09-20	results/p2_sap_layer2_events.tsv + _omnibus.tsv	p2_sap_layer2_limma.R（limma robust+trend）	9,693 事件检验	显著（联合BH<0.1 & |ΔPDUI|≥0.1 & 双重复同向）：d1 292 / d3 159 / d7 435 / d21 496 / d60 392；并集 977（≥2 时间点 471，09-20 审计修正）；omnibus 4,910/5,923	SAP 层2
+2026-09-20	results/p2_gate_g2_evidence_extras.tsv + p2_gate_g2_top_events.tsv	p2_gate_g2_evidence.py	LOSO/方向拆分/top40	LOSO 稳定；d3 翻转系 d3_rep1 技术假象（剔除后 2.13:1 缩短）	Gate G2
+2026-09-20	results/p3_level2_qki_intersect.tsv + _summary.tsv	p3_02_m4_enrich.py	11/977 事件丢失段含 QKI peak（10 短缩）；OR=2.71 p=0.0125	P3-02 L2：QKI 结合区丢失富集显著	P3-02
+2026-09-20	results/p3_m4_enrichment.tsv	p3_02_m4_enrich.py	4 轴 × 2 基因集 Fisher	重叠层面不富集（OR 0.96–1.16；仅 WM 边缘 p≈0.045）	M4 Fisher
+2026-09-20	results/p3_m4_gsea.tsv	p3_m4_gsea.R（fgsea 10k perm）	24 检验 = 4 轴 × 6 排序	PAP_localized 一致负向富集：d7 padj 1e-4 / d3 0.0018 / omnibus 0.0042 / d1 0.044；WM 同向 4 项过线；endfoot 轴 day3 反向 +1.28 后全阴	M4 GSEA
+2026-09-20	salmon 转录组定量 12/12（WSL salmon_idx_vM25 + quant）	p2_second_tool_chain2.sh	142,604 转录本索引；12 quant.sf	第二工具（G2-d 抽验）输入	P2-G1(d)
+2026-09-20	results/p2_second_tool_consistency.tsv	p2_second_tool_consistency.py（salmon TPM 长短异构体占比 vs DaPars2 dPDUI）	5,499–5,847 基因/时点	全 5 时点 Spearman 正相关显著（rho 0.041–0.139，p≤0.0023）——双管线方向一致；qapa 自动合并失败（空注释），走注册的自定义兜底	P2-G1(d)
+2026-09-20	results/p2_second_tool_top40_signs.tsv	同上	27/40 可测；13/27 同号	单事件一致性 = 功效不足（非矛盾）；单事件真实性归湿实验	P2-G1(d)
+2026-09-20	results/p3_level3_family_enrichment.tsv	p3_fimo_finalize_v4.py（vs UTR 匹配 null，Poisson 密度检验）	15 family × lost 1.68Mb vs null 1.00Mb	L3 全阴性：enrichment 0.89–1.07，无 family 过 BH（富集方向）；5 family 轻度缺失（TARDBP 0.92 等）	P3-03 关闭（负结果照登）
+2026-09-20	[作废] results/p3_level3_family_null_enrichment.tsv（随机基因组 null）	p3_fimo_finalize.py v1	设计无效：UTR vs 随机基因组 = 平凡 73×	负结果/无效设计照登，勿引用	作废记录
+2026-09-20	results/p3_level3_motif.tsv	p3_fimo_finalize.py v3	6,532 event×family 丢失段命中（描述性）	逐事件 motif 命中表（fimo p 截断于 1e-3，不作逐事件检验——登记）	描述层
+2026-09-20	results/p3_p4_event_annotation_matrix.tsv	p3_04_matrix.py（L1/L2/L3/L4 逐事件标注，冻结规则）	977 事件；class B=5 / C=475 / D=250 / none=247；方向 缩短811/延长153/混合13	逐事件关联矩阵（P3-04 + P4 输入）	P3-04
+2026-09-20	results/p4_top_b_class_candidates.tsv	p3_04_matrix.py	5 事件	B 级候选（CLIP+motif+保守）：Ndrg2/Cnp/Fam107a/Pea15a/Agpat3，全短缩、多时点	P4-08 预表
+2026-09-20	phastCons60way elements（bigWig→bedGraph→score>0 合并 6,788 万元件）	p3_l4_conservation.sh + p3_l4_merge/overlap.py	丢失段 CONSERVED 1,004/1,541（65%）	L4 保守层；随机基因组 null 版本已作废	L4
+2026-09-20	note: triple-factor (QKI-loss + PAP + shortened) = Atp2a2 (SERCA2) only; see final_qa_pap_triple_factor.tsv	最终问答提取（Atp2a2 已补入终报告与路线书）	—	三要素案例	补充
+2026-09-20	STROKE_APA_FINAL_DELIVERABLES_20260920.zip	交付打包（bsdtar：顶层文档 5 件 + results/ 全目录）	25,387,318 B / 111 项	课题干实验阶段完整归档包（报告/路线书/TODO/工作日志/全部结果表）	P5 交付
+2026-09-20	ATP2A2_IGV_CHECK_PACKAGE_20260920.zip + results/p6_igv_package_README.md	scripts/p6_igv_slices.sh（BAM 切自 WSL ~/stroke_APA_work/bam）+ p6_filter_candidates.py	29,569,120 B / 62 项；切片验证 chr5 19,125 + chr10 5,132 + chr14 10,334、区间外 0	湿实验聚焦（长/短异构体 × 胞体/PAP）前的读段层核查包：sham×2/day3×2/day7×2 的 Atp2a2/Ndrg2/Agpat3 全基因±5kb BAM 切片+索引+聚焦表+样本对应/深度/注释/QKI peaks/参数版本	P6 补充
+2026-09-20	DELETED: D:\stroke_apa_data\fastq\（GSE238125 24 FASTQ）+ D:\stroke_apa\data\GSE174574\（scRAW+extract+h5ad）	用户指令（数据已导出、释放空间）；公开数据可重下载	释放 ~47.6 GB；保留重下校验元数据 = ena_filereport.tsv + fastq_md5_all.tsv（同目录）	重下载路径：ENA filereport（SRR25403062-69, 070-073...）→ md5 全量校验（p2_md5_check.py）→ 比对脚本仍在 scripts/；WSL STAR 索引未删可直用	P6 补充（raw 清理）
+2026-09-20	STROKE_APA_WETLAB_PLAN_v3.md + docs/研究方案v3_source_20260920.docx	用户定稿 docx（p6_read_docx.py 提取入库）	三关方案（读段核查定靶→公共数据筛选→独立动物先证 APA 再测定位）	**取代 WETLAB_ROUTE v2 成为湿实验唯一执行方案**；Atp2a2 预测断点 chr5:122456498 与 PDUI 矩阵核实一致	P6-03（新方向）
+2026-09-20	DELETED 二轮清理: D: ext4_backup_20260918(5.4G)+mm10.60way.phastCons.bw(4.3G)+旧版 HTML×2；WSL: reference_v2/phastcons60way(47G)+STAR_index(15G)+stroke_APA_work/fimo_seq(1.2G)	用户指令"没用的删了吧"；L4 已完成入库、FASTQ 已删故 STAR 索引无近期用途	释放 ~73GB（D: 120→130GB 空闲；WSL vhdx ~63GB 待手动压缩）	保留：12 样本 BAM（读段证据）、salmon+salmon_idx（Gate1 补算 Atp2a2 基线）、genome.fa/GTF/PAS/注释 bed（事件卡+引物设计）、miniconda3；STAR 索引可由 genome.fa+GTF 重建	P6-07（二轮清理）

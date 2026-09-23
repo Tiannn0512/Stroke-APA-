@@ -1,0 +1,11 @@
+gene_symbol	ensembl	status	C1_full_counts	C1_pap_counts	C2_full_counts	C2_pap_counts	C3_full_counts	C3_pap_counts	pap_over_full_log2	mean_log2_pap_over_full	direction_consistent_3animals	detectable_all_animals
+Atp2a2	ENSMUSG00000029467	ok	3454	313	3740	281	2426	401	-3.46;-3.73;-2.60	-3.27	yes	yes
+Agpat3	ENSMUSG00000001211	ok	6233	435	7786	556	5154	956	-3.84;-3.81;-2.43	-3.36	yes	yes
+Aplp1	ENSMUSG00000006651	ok	12225	248	17520	965	9821	1745	-5.62;-4.18;-2.49	-4.1	yes	yes
+Sirt2	ENSMUSG00000015149	ok	10001	55	7248	468	9052	801	-7.51;-3.95;-3.50	-4.99	yes	yes
+Ndrg2	ENSMUSG00000004558	ok	110852	1098	109604	2984	113295	11305	-6.66;-5.20;-3.33	-5.06	yes	yes
+Cnp	ENSMUSG00000006782	ok	6740	170	4611	17	7832	269	-5.31;-8.08;-4.86	-6.09	yes	yes
+Pea15a	ENSMUSG00000013698	ok	31752	261	35255	1884	34092	5610	-6.93;-4.23;-2.60	-4.59	yes	yes
+Kazn	ENSMUSG00000040606	ok	242	0	158	48	154	0	-inf;-1.72;-inf	-1.72	yes	no
+Plec	ENSMUSG00000022565	ok	49	26	75	58	66	328	-0.91;-0.37;2.31	0.34	mixed	yes
+Fam107a	ENSMUSG00000021750	ok	44829	110	27473	2452	25730	752	-8.67;-3.49;-5.10	-5.75	yes	yes

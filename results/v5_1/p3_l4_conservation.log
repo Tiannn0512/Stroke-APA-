@@ -1,0 +1,25 @@
+[l4] start Sun Sep 20 12:23:33 +08 2026
+-rwxr-xr-x 1 taylor taylor 12903736 Sep 20 12:27 bigWigAverageOverBed
+-rwxr-xr-x 1 taylor taylor 12941016 Sep 20 12:25 bigWigToBedGraph
+Terminated
+-rw-r--r-- 1 taylor taylor 2166784 Sep 20 12:27 mm10.60way.phastCons.bw
+udc couldn't read 4 bytes from mm10.60way.phastCons.bw, did read 0
+[l4] elements: 0 regions
+awk: cmd. line:1: $2==\"CONSERVED\"
+awk: cmd. line:1:     ^ backslash not last character on line
+[l4] scored: 1541 segments; conserved: 0
+[l4] END Sun Sep 20 12:27:32 +08 2026
+[l4] start Sun Sep 20 13:01:38 +08 2026
+-rwxr-xr-x 1 taylor taylor 12903736 Sep 20 12:27 bigWigAverageOverBed
+-rwxr-xr-x 1 taylor taylor 12941016 Sep 20 12:25 bigWigToBedGraph
+-rwxrwxrwx 1 taylor taylor 4577568636 Sep 20 13:01 /mnt/d/stroke_apa_data/mm10.60way.phastCons.bw
+/mnt/d/stroke_apa/scripts/p3_l4_conservation.sh: line 17:   381 Killed                  ./bigWigToBedGraph "$BW" all_scores.bedgraph
+[l4] elements: 870239358 regions
+/mnt/d/stroke_apa/scripts/p3_l4_conservation.sh: line 24:   515 Killed                  bedtools intersect -a /mnt/d/stroke_apa/results/fimo_seqs/lost_segments.bed -b phastCons60way_elements.bed -wao
+       516 Done                    | awk 'BEGIN{OFS="\t"}{key=$4; ov=$NF; if(NF>10) for(i=12;i<=NF-3;i++){} print}' > /dev/null 2>&1
+/mnt/d/stroke_apa/scripts/p3_l4_conservation.sh: line 28:   517 Killed                  bedtools intersect -a /mnt/d/stroke_apa/results/fimo_seqs/lost_segments.bed -b phastCons60way_elements.bed -wao
+       518 Done                    | awk 'BEGIN{OFS="\t"}{k=$4; sum[k]+=$NF; if($NF>=10) hit[k]=1} END{for(k in sum) print k, (k in hit)?"CONSERVED":"not", sum[k]}' > lost_segments_conservation.tsv
+awk: cmd. line:1: $2==\"CONSERVED\"
+awk: cmd. line:1:     ^ backslash not last character on line
+[l4] scored: 0 segments; conserved: 0
+[l4] END Sun Sep 20 13:20:27 +08 2026

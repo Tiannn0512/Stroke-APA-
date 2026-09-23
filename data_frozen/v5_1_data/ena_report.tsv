@@ -1,0 +1,13 @@
+run_accession	fastq_ftp	fastq_bytes	scientific_name	library_layout
+SRR25403062	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/062/SRR25403062/SRR25403062_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/062/SRR25403062/SRR25403062_2.fastq.gz	1888969160;2077321272	Mus musculus	PAIRED
+SRR25403063	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/063/SRR25403063/SRR25403063_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/063/SRR25403063/SRR25403063_2.fastq.gz	1808974726;2115518528	Mus musculus	PAIRED
+SRR25403068	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/068/SRR25403068/SRR25403068_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/068/SRR25403068/SRR25403068_2.fastq.gz	1633891094;1945606863	Mus musculus	PAIRED
+SRR25403065	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/065/SRR25403065/SRR25403065_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/065/SRR25403065/SRR25403065_2.fastq.gz	1858263749;2166189038	Mus musculus	PAIRED
+SRR25403067	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/067/SRR25403067/SRR25403067_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/067/SRR25403067/SRR25403067_2.fastq.gz	1800827038;2092579609	Mus musculus	PAIRED
+SRR25403069	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/069/SRR25403069/SRR25403069_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/069/SRR25403069/SRR25403069_2.fastq.gz	2073285072;2578042548	Mus musculus	PAIRED
+SRR25403064	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/064/SRR25403064/SRR25403064_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/064/SRR25403064/SRR25403064_2.fastq.gz	1734627512;1984996684	Mus musculus	PAIRED
+SRR25403066	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/066/SRR25403066/SRR25403066_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/066/SRR25403066/SRR25403066_2.fastq.gz	1557585893;1772782743	Mus musculus	PAIRED
+SRR25403070	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/070/SRR25403070/SRR25403070_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/070/SRR25403070/SRR25403070_2.fastq.gz	2090117617;2499313759	Mus musculus	PAIRED
+SRR25403071	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/071/SRR25403071/SRR25403071_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/071/SRR25403071/SRR25403071_2.fastq.gz	2203999787;2600414669	Mus musculus	PAIRED
+SRR25403072	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/072/SRR25403072/SRR25403072_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/072/SRR25403072/SRR25403072_2.fastq.gz	1619518494;1908705751	Mus musculus	PAIRED
+SRR25403073	ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/073/SRR25403073/SRR25403073_1.fastq.gz;ftp.sra.ebi.ac.uk/vol1/fastq/SRR254/073/SRR25403073/SRR25403073_2.fastq.gz	1744646188;1968612492	Mus musculus	PAIRED

@@ -1,0 +1,32 @@
+=== per-replicate d1 vs sham-mean (replicate-level consistency) ===
+day1_rep1	short=2137	lengthen=752	ratio=2.84	median=-0.0200
+day1_rep2	short=2231	lengthen=585	ratio=3.81	median=-0.0250
+day7_rep1	short=2405	lengthen=534	ratio=4.50	median=-0.0350
+day7_rep2	short=2603	lengthen=533	ratio=4.88	median=-0.0400
+day21_rep1	short=2702	lengthen=603	ratio=4.48	median=-0.0350
+day21_rep2	short=2678	lengthen=635	ratio=4.22	median=-0.0350
+day60_rep1	short=2324	lengthen=915	ratio=2.54	median=-0.0200
+day60_rep2	short=2615	lengthen=722	ratio=3.62	median=-0.0300
+=== LOSO: drop one sham, recompute d1/d7 global ratios ===
+day1_vs_sham1-excluded-sham	short=2181	lengthen=686	ratio=3.18	median=-0.0200
+day7_vs_sham1-excluded-sham	short=2453	lengthen=503	ratio=4.88	median=-0.0350
+day1_vs_sham2-excluded-sham	short=2193	lengthen=661	ratio=3.32	median=-0.0250
+day7_vs_sham2-excluded-sham	short=2472	lengthen=505	ratio=4.90	median=-0.0400
+=== LOSO: drop one timepoint replicate (d1) ===
+d1_day1_rep1-only	short=2137	lengthen=752	ratio=2.84	median=-0.0200
+d1_day1_rep2-only	short=2231	lengthen=585	ratio=3.81	median=-0.0250
+=== d3 anomaly: exclude day3_rep1 (insert=150, dup=0.215) ===
+d3_rep2-only	short=1708	lengthen=803	ratio=2.13	median=-0.0100
+d3_rep1-only	short=1024	lengthen=2384	ratio=0.43	median=0.0200
+=== per-contrast significant direction split (sig_joint) ===
+day1	sig=292	shortening=254	lengthening=38
+day21	sig=496	shortening=439	lengthening=57
+day3	sig=159	shortening=108	lengthening=51
+day60	sig=392	shortening=350	lengthening=42
+day7	sig=435	shortening=390	lengthening=45
+union_sig_events	977
+union_events_significant_at_>=2_timepoints	579
+top40_written	40
+omnibus_padj<0.1	4910/5923
+
+# CORRECTION 2026-09-20: union_events_significant_at_>=2_timepoints was 579 via and/or precedence bug; correct value 471

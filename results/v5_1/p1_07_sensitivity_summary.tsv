@@ -1,0 +1,4 @@
+variant	n_cells_used	removed	astro_cells	astro_subpop_reactive	DE_sig	DE_sig_overlap_with_A	regulator_direction_flips
+A_original	56904	0	3045				
+B_minus_doublet	55280	1624	3046	623.0	1310.0	1234.0	0.0
+C_minus_doublet_ambient	52451	4453	3042	652.0	1311.0	1203.0	0.0

@@ -1,0 +1,47 @@
+Detecting adapter sequence for read1...
+No adapter detected for read1
+
+Detecting adapter sequence for read2...
+No adapter detected for read2
+
+Read1 before filtering:
+total reads: 23276640
+total bases: 3465633035
+Q20 bases: 3386231162(97.7089%)
+Q30 bases: 3268387432(94.3085%)
+
+Read2 before filtering:
+total reads: 23276640
+total bases: 3451821624
+Q20 bases: 3320651013(96.2%)
+Q30 bases: 3108357465(90.0498%)
+
+Read1 after filtering:
+total reads: 23274990
+total bases: 3450642324
+Q20 bases: 3372621228(97.7389%)
+Q30 bases: 3256153551(94.3637%)
+
+Read2 after filtering:
+total reads: 23274990
+total bases: 3430733625
+Q20 bases: 3302612945(96.2655%)
+Q30 bases: 3093734975(90.1771%)
+
+Filtering result:
+reads passed filter: 46549980
+reads failed due to low quality: 3300
+reads failed due to too many N: 0
+reads failed due to too short: 0
+reads with adapter trimmed: 4507636
+bases trimmed due to adapters: 35741173
+
+Duplication rate: 21.4744%
+
+Insert size peak (evaluated by paired-end reads): 150
+
+JSON report: /home/taylor/stroke_APA_work/qc/day3_rep1_fastp.json
+HTML report: /home/taylor/stroke_APA_work/qc/day3_rep1_fastp.html
+
+fastp -i /mnt/d/stroke_apa_data/fastq/day3_rep1_1.fastq.gz -I /mnt/d/stroke_apa_data/fastq/day3_rep1_2.fastq.gz -o /home/taylor/stroke_APA_work/day3_rep1_1.trimmed.fastq.gz -O /home/taylor/stroke_APA_work/day3_rep1_2.trimmed.fastq.gz --html /home/taylor/stroke_APA_work/qc/day3_rep1_fastp.html --json /home/taylor/stroke_APA_work/qc/day3_rep1_fastp.json --thread 8 --detect_adapter_for_pe 
+fastp v0.23.4, time used: 133 seconds

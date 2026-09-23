@@ -14,6 +14,7 @@ audit_upload_coverage.py — 上传覆盖机械审计
 r"""
 import hashlib
 import os
+import subprocess
 import sys
 import zipfile
 from collections import Counter
@@ -34,7 +35,7 @@ SKIP_DIRS = {".git", "__pycache__", ".zcode"}
 REGEN_RULES = [
     # v5.1 档案
     (SRC1, "data/GSE147119/", "GEO GSE147119 原始补充，peaks 冻结副本在 input_links"),
-    (SRC1, "data/GSE263986/", "GEO GSE263986 xlsx，Set3 DE 结果已在 results/v5_1"),
+    # GSE263986 全目录入库（含 ena_titles.tsv —— 无生成脚本，删除即丢失）
     # 重建区
     (SRC2, "data/bam/", "12 BAM 由 FASTQ 经 p2_gse238125_align.sh 重建"),
     (SRC2, "data/references/", "GENCODE/GRCm38 公开重下 + REGENERATE.md §3 建索引"),
@@ -125,17 +126,23 @@ def sha256(path):
 
 def main():
     zip_names = set()
-    zip_entry_size = {}   # basename -> size（用于内容核对）
-    zip_of = {}           # basename -> zip 文件名
+    zip_pairs = set()     # (basename, size) 跨全部 zip 收集，防同名同大小不同内容撞车
+    zip_of = {}
     for zp in ZIPS:
         with zipfile.ZipFile(zp) as z:
             for i in z.infolist():
                 b = os.path.basename(i.filename)
                 zip_names.add(i.filename)
                 zip_names.add(b)
-                if b and b not in zip_entry_size:
-                    zip_entry_size[b] = i.file_size
-                    zip_of[b] = os.path.basename(zp)
+                if b:
+                    zip_pairs.add((b, i.file_size))
+                    zip_of.setdefault((b, i.file_size), os.path.basename(zp))
+
+    # git 跟踪集合：STAGED 不只要求副本在磁盘，还要求已进 git（防 gitlink/ignore 盲区）
+    # -c core.quotepath=false：ls-files 默认把非 ASCII 路径转义成八进制，会导致中文文件误报未跟踪
+    tracked = set(subprocess.run(
+        ["git", "-c", "core.quotepath=false", "ls-files"], cwd=STAGE,
+        capture_output=True, text=True, encoding="utf-8").stdout.splitlines())
 
     rows, uncovered, mismatch = [], [], []
     counts = Counter()
@@ -150,15 +157,17 @@ def main():
                 if ".openclaw" + os.sep + "workspace-state.json" in os.path.join(
                         os.path.relpath(dirpath, src_root), fn):
                     counts["SKIP"] += 1
-                    continue  # 代理工作区状态缓存，无档案价值
+                    rows.append((src_root, rel, "SKIP", "代理工作区状态缓存，无档案价值"))
+                    continue
                 if full in ZIPS or (fn.endswith(".zip") and src_root == SRC2):
                     counts["RELEASE_ZIP"] += 1
                     rows.append((src_root, rel, "RELEASE_ZIP", os.path.basename(full)))
                     continue
                 b = os.path.basename(rel)
-                if b in zip_entry_size and zip_entry_size[b] == os.path.getsize(full):
+                if (b, os.path.getsize(full)) in zip_pairs:
                     counts["RELEASE_ZIP"] += 1
-                    rows.append((src_root, rel, "RELEASE_ZIP", f"内容在 {zip_of[b]} 内(basename+size 一致)"))
+                    rows.append((src_root, rel, "RELEASE_ZIP",
+                                 f"内容在 {zip_of[(b, os.path.getsize(full))]} 内(basename+size 一致)"))
                     continue
                 cat, why = classify(rel, src_root)
                 if cat is None:
@@ -167,7 +176,13 @@ def main():
                         tgt = os.path.join(STAGE, sp)
                         if os.path.getsize(full) == os.path.getsize(tgt) and \
                            sha256(full) == sha256(tgt):
-                            cat, why = "STAGED", sp + "（sha256 一致）"
+                            if sp in tracked:
+                                cat, why = "STAGED", sp + "（sha256 一致，git 已跟踪）"
+                            else:
+                                counts["GIT_NOT_TRACKED"] += 1
+                                rows.append((src_root, rel, "GIT_NOT_TRACKED", sp))
+                                mismatch.append((full, sp + " [git 未跟踪: gitlink/ignore]"))
+                                continue
                         else:
                             mismatch.append((full, sp))
                             cat, why = "HASH_MISMATCH", sp

@@ -14,7 +14,7 @@
 ├── docs/
 │   ├── 实验流程.md（在 docs/reanalysis/）★ 复现总手册：数据/软件版本/参数/预期结果锚点
 │   ├── reanalysis/           ← Proposal、TODO、全程报告、重建报告、定靶决策
-│   └── v5_1/                 ← v5.1 阶段全部文档、冻结参数（P1/P2 SAP/P4 分级）、评审、工作日志
+│   └── v5_1/                 ← v5.1 阶段全部文档、评审、工作日志（冻结参数在 results/v5_1/ 与 input_links/）
 ├── scripts/
 │   ├── v5_1/                 ← P0–P6 全部脚本（QC/比对/DaPars2/limma/FIMO/定位层）
 │   └── reanalysis/           ← R0–R4 + Task A–D 脚本（链修正/重建/定靶/引物）+ 单元测试
@@ -54,4 +54,4 @@
 
 ## 纪律声明（沿用课题冻结规则）
 
-一切 poly(A) 位点表述为"预测断点"；候选 ≠ 验证，结论上限为 altered localization potential；阴性结果（终足轴、L3 motif 富集、海马 PAP、d21/d60、GSE330741 manifest 矛盾）全部随档案保留；冻结文件（`docs/v5_1/P1_frozen_params.md`、`P2_SAP_frozen.md`、`P4_03_evidence_class_frozen.md`、`config/coordinate_convention.yaml`）修改须登记理由。
+一切 poly(A) 位点表述为"预测断点"；候选 ≠ 验证，结论上限为 altered localization potential；阴性结果（终足轴、L3 motif 富集、海马 PAP、d21/d60、GSE330741 manifest 矛盾）全部随档案保留；冻结文件（`results/v5_1/P1_frozen_params.md`、`input_links/P2_SAP_frozen.md`、`input_links/P4_03_evidence_class_frozen.md`、`config/coordinate_convention.yaml`）修改须登记理由。

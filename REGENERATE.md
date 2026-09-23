@@ -28,7 +28,7 @@
 |---|---|
 | GRCm38 genome.fa | `wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/GRCm38.primary_assembly.genome.fa.gz` |
 | GENCODE vM25 GTF / transcripts | `wget https://ftp.ebi.ac.uk/pub/databases/gencode/Gencode_mouse/release_M25/gencode.vM25.annotation.gtf.gz` 及 `gencode.vM25.transcripts.fa.gz` |
-| PolyASite 2.0 mm10 atlas（301,006 clusters） | 新址 **polyasite.unibas.ch**（旧 .ethz.ch 已废弃）→ 下载 GRCm38.96 atlas；文件名形如 `atlas.clusters.96.GRCm38.96.bed.gz` |
+| PolyASite 2.0 mm10 atlas（301,006 clusters） | 新址 **polyasite.unibas.ch**（旧 .ethz.ch 已废弃）→ 下载页 `/download/atlas/2.0/GRCm38.96/`，文件名 `atlas.clusters.2.0.GRCm38.96.bed.gz`（以站点实际列表为准） |
 | mm10.60way.phastCons.bw（4.58GB） | `python scripts/reanalysis/p2_dl_phastcons.py`（分块并行下载脚本已入库） |
 | ATtRACT motif 库 | **无需重下**：冻结副本已在 `input_links/frozen_rbp_motifs.meme` + `input_links/frozen_motif_family_mapping.tsv`（原站 403 时的 zavolanlab GitHub 快照） |
 | QKI CLIP peaks（GSE147119，437 peaks） | **无需重下**：冻结副本 `input_links/p3_level2_qki_clip_peaks.bed`；原始补充表可从 GEO GSE147119 重取 |
@@ -46,9 +46,15 @@ STAR --runMode genomeGenerate --genomeDir STAR_index \
 # salmon 索引
 salmon index -t gencode.vM25.transcripts.fa -i salmon_index -k 31 --gencode
 
-# DaPars2 slim 3'UTR 注释（每基因最长 3'UTR，21,158 条）
-python scripts/v5_1/make_slim_3utr_bed.py   # 输入=vM25 GTF；产物=gencode_M25_3UTR_for_DaPars2.slim.bed
+# DaPars2 3'UTR 注释（两步）：
+# 第一步 GTF→for_DaPars2.bed：用 tools/DaPars2_patched/src/DaPars_Extract_Anno.py
+#   （⚠ 无入库存档配方，曾因 Generate_Annotation.py 路径报错；可跳过——冻结副本已在
+#    input_links/gencode_M25_3UTR_for_DaPars2.bed，sha256 见 results/reanalysis/00_inventory/）
+# 第二步 for_DaPars2.bed→slim（每基因最长 3'UTR，21,158 条）：
+python scripts/v5_1/make_slim_3utr_bed.py   # 输入=gencode_M25_3UTR_for_DaPars2.bed；产物=slim bed
 ```
+
+⚠ **DaPars2 运行脚本的硬编码路径**：`p2_dapars2_run.sh` 等写死 `/home/taylor/DaPars2/src`、`/home/taylor/reference_v2/...`、`/mnt/d/stroke_apa_data/...`。重建时把 `tools/DaPars2_patched` 软链到 `~/DaPars2`、按 REGENERATE §3 重建索引到 `~/reference_v2/STAR_index`，或直接改脚本内路径。
 
 ## 4. GSE238125 FASTQ 重下与比对（主数据）
 
@@ -82,9 +88,15 @@ python scripts/v5_1/make_slim_3utr_bed.py   # 输入=vM25 GTF；产物=gencode_M
 | `data/references/`（8.6G：genome.fa/STAR 索引/salmon 索引等） | 第 2–3 节 |
 | `data/salmon/` | salmon index/quant 重跑 |
 | `data/GSE143531_RAW.tar` + 解包目录 | 第 5 节 GEO 直链 |
+| `data/tools/DaPars2/.git`（上游克隆历史）、`Dapars2_Test_Dataset.zip` | `git clone https://github.com/3UTR/DaPars2`（上游地址见 tools/DaPars2_patched/README.md）——**打过补丁的 src 本体已入库，勿用上游覆盖** |
+| GSE330741 manifest 原件 | **从未获取**（即"manifest 矛盾"本身：651 基因库缺全部候选）。32 个 counts 文件已入库 `data_frozen/v5_1_data/GSE330741/`，reporter 对照表 `input_links/p4_mpra_counts_long.tsv`。待 Koester 2026 supplementary 到手后重建对照，无历史数据可丢 |
 | 两个 `.git` 历史 | 不迁移（含 1GB 早期误提交的大对象冗余）；本仓库即干净历史 |
 
 ## 7. 验证锚点（重建完成的验收标准）
 
 全部跑通后核对 `docs/reanalysis/实验流程.md` §0 表：9,693 事件 / 977 显著 / 17:17 单元测试 / Atp2a2 坐标三件套（distal 122,453,512–122,456,498；PAS 122,456,498；QKI FDR 1.04e-5）/ edgeR TMM 后 Atp2a2 log2FC −0.273 & FDR 0.683 / 引物零脱靶。
 另有机械审计脚本可随时复跑：`python scripts/audit_upload_coverage.py`（对本地两工作区跑覆盖审计；本地删除后无意义，仅存档）。
+
+## 8. Releases 依赖说明
+
+四个交付 zip 只存在于 GitHub Releases（不在仓库正文）。若 Release 资产丢失：`audit_manifest.tsv` 中每个 RELEASE_ZIP 行的 note 写明了该文件在哪个 zip 内、当年内容是什么；其中分析核心（表/图/报告）都已同时入库 results/ 与 docs/，zip 主要增加 IGV 切片、PAS atlas、GSE143531 原表等大快照——均可按本手册重建。

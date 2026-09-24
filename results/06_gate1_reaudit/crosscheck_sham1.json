@@ -1,0 +1,6 @@
+{
+ "sample": "day3_rep1",
+ "samtools_mean_distal": 35.6206,
+ "pysam_mean_distal_no_mapq": 35.6219,
+ "note": "pysam count_coverage 无 MAPQ 过滤，仅作量级对拍；MAPQ<20 比例见 corrected_read_metrics（<1%）"
+}

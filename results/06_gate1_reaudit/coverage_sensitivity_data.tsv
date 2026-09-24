@@ -1,0 +1,7 @@
+sample	marked_reads	shared_mean_full	shared_mean_excl	ratio_distal_full	ratio_exclJ_distal_full	ratio_overlap_177974_UTR	ratio_exclJ_overlap_177974_UTR	ratio_exclusive_3UTR_part	ratio_exclJ_exclusive_3UTR_part	ratio_shared	ratio_exclJ_shared	ratio_terminal_exon	ratio_exclJ_terminal_exon	ratio_spliced_UTR_intron	ratio_exclJ_spliced_UTR_intron	ratio_penult_UTR_5p_part	ratio_exclJ_penult_UTR_5p_part
+day3_rep1	4	412.528	414.525	0.0863	0.0856	0.1195	0.1189	0.0746	0.0739	1.0	1.0	0.1195	0.1188	0.0458	0.0456	0.1492	0.1472
+day3_rep2	11	388.163	389.359	0.0835	0.0821	0.162	0.1612	0.0556	0.054	1.0	1.0	0.1617	0.1605	0.0403	0.0402	0.0945	0.0894
+day7_rep1	2	530.252	530.649	0.0861	0.0859	0.0848	0.0845	0.0866	0.0864	1.0	1.0	0.0848	0.0845	0.0848	0.0847	0.0913	0.091
+day7_rep2	7	601.215	601.609	0.0848	0.0843	0.0862	0.0854	0.0843	0.0839	1.0	1.0	0.0868	0.0858	0.0811	0.0814	0.0917	0.09
+sham1	96	217.847	219.058	0.3345	0.3113	0.7609	0.724	0.1835	0.1652	1.0	1.0	0.7584	0.7163	0.0668	0.0664	0.4821	0.4239
+sham2	136	363.492	364.945	0.2705	0.2511	0.479	0.4474	0.1966	0.1816	1.0	1.0	0.4797	0.4435	0.0712	0.0709	0.5192	0.4718

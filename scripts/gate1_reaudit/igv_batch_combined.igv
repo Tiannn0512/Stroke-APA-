@@ -1,0 +1,16 @@
+new
+genome D:\stroke_apa_reaudit\reference\chr5.fa
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\sham1.Atp2a2.cand.bam
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\sham2.Atp2a2.cand.bam
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\day3_rep1.Atp2a2.cand.bam
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\day3_rep2.Atp2a2.cand.bam
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\day7_rep1.Atp2a2.cand.bam
+load D:\stroke_apa_reaudit\inputs\zip_2023\results\03_bam_review\slices\day7_rep2.Atp2a2.cand.bam
+maxPanelHeight 800
+goto chr5:122453312-122457353
+snapshot D:\stroke_apa_reaudit\results\06_gate1_reaudit\igv\combined_alignment_fullUTR.png
+goto chr5:122454204-122455992
+snapshot D:\stroke_apa_reaudit\results\06_gate1_reaudit\igv\combined_junction_zoom.png
+goto chr5:122456298-122456698
+snapshot D:\stroke_apa_reaudit\results\06_gate1_reaudit\igv\combined_PAS_zoom.png
+exit

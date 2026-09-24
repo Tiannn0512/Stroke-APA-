@@ -1,0 +1,10 @@
+# Gate1 复核环境（2026-09-24，WSL Ubuntu + conda env bioinfo）
+OS: Windows 11 + WSL2 Ubuntu (WSL 2.4.13.0)
+Python 3.10.21
+0.24.1
+primer3-py 2.3.1
+pyfaidx 0.9.0.4
+matplotlib 3.10.9
+samtools 1.24
+IGV: 2.18.4（Windows，系统 OpenJP JDK：java 17.0.20.1 运行）
+参考: UCSC mm10 chr5.fa (md5 53e996b8236720821f82a687423edd22) + GENCODE vM25 GTF

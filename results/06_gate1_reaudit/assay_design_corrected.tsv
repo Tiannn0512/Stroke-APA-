@@ -1,0 +1,9 @@
+assay	role	oligo	seq5to3	chrom	g_start0	g_end0	strand	tm	gc	product	dimer_self_any	dimer_self_end	hairpin
+RACE_outer_GSP	GSP(antisense)	reverse-primer#cand0	GACAGGAATTAAAGCCTCAGGAAACC	chr5	122459626	122459602	-	62.02	46.15	3'RACE outer GSP；清洁（精确命中全为 Atp2a2 转录本）（0/20 候选中选出）	0.0	0.0	30.4
+RACE_nested_GSP	GSP(antisense)	reverse-primer#cand0	TGAGGGCATTACACATCTCTATGGTT	chr5	122458116	122458092	-	61.83	42.31	3'RACE nested GSP；含 Gm30970 假基因精确匹配——残余风险：假基因全长 363bp，RACE 产物将短于 363bp 且测序可辨；建议 BLAST 复核（0/20 候选中选出）	0.0	0.0	37.4
+qPCR_common(3 transcripts)	F	forward#cand0	AGCCTTTGTAGAGCCGTTTGTA	chr5	122491725	122491747	-	59.96	45.45	跨内含子 cDNA 产物 154bp （0/20 候选中选出；3 目标转录本均扩增且命中限于Atp2a2 基因，OFF-TARGET=0）	0.0	0.0	0.0
+qPCR_common(3 transcripts)	R	reverse#cand0	CACACTCTTTCTGTCCTGTCGA	chr5	122489289	122489311	+	59.97	50.0	跨内含子 cDNA 产物 154bp	0.0	0.0	0.0
+distal_terminal(177974+179939)	F	forward#cand0	AGTTAGGACTGGAGGCCTATGT	chr5	122453780	122453802	+	60.02	50.0	产物 136bp （0/20 候选中选出；177974+179939 均扩增且全部命中限于 Atp2a2 基因，OFF-TARGET=0）	4.4	4.6	36.7
+distal_terminal(177974+179939)	R	reverse#cand0	TTGTAAGTGGCCAGATTGCTCT	chr5	122453894	122453916	-	59.96	45.45	产物 136bp	5.1	0.0	0.0
+long_junction(179939-specific)	F	forward#cand0	GGAGTAACCGCTTCCTAAACCA	chr5	122454275	122454297	-	60.03	50.0	cDNA 1078bp across intron 122454304-122455892 （0/20 候选中选出；仅 179939 扩增，177974/31423 不扩增，OFF=0）	0.0	0.0	0.0
+long_junction(179939-specific)	R	reverse#cand0	ATCCTACTATGCGGCAGAACAG	chr5	122456207	122456229	-	59.96	50.0	cDNA 1078bp across intron 122454304-122455892 （0/20 候选中选出；仅 179939 扩增，177974/31423 不扩增，OFF=0）	9.3	5.5	0.0

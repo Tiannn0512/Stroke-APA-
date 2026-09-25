@@ -1,0 +1,14 @@
+C1_Full files: 8 summed Atp2a2 count: 3454
+C1_PAP files: 8 summed Atp2a2 count: 313
+C2_Full files: 8 summed Atp2a2 count: 3740
+C2_PAP files: 8 summed Atp2a2 count: 281
+C3_Full files: 8 summed Atp2a2 count: 2426
+C3_PAP files: 8 summed Atp2a2 count: 401
+size factors: {'C1_Full': np.float64(3.2107), 'C1_PAP': np.float64(0.3282), 'C2_Full': np.float64(2.9766), 'C2_PAP': np.float64(0.3151), 'C3_Full': np.float64(3.3942), 'C3_PAP': np.float64(0.523)}
+
+== contrast PAP GFP-IP vs Full Astrocyte GFP-IP (summed tech reps, n=3 animals, paired t, BH) ==
+Atp2a2 (ENSMUSG00000029467) normalized counts Full: [1075.8 1256.4  714.8]  PAP: [953.7 891.9 766.8]
+Atp2a2 log2FC = -0.1888   p(paired) = 0.3868   padj(BH) = 1.0000
+rank by padj: 9833 of 47643
+genes padj<0.05: 7
+[unpaired Welch reference] Atp2a2 p = 0.5277  padj = 1.0000

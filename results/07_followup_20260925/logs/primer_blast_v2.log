@@ -1,0 +1,49 @@
+outerGSP_v2_single: submit 200 job_key=None
+nestedGSP_v2_single: submit 502 job_key=None
+long_junction_v2_pair: submit 200 job_key=mZNE1STrKUMOebl8tBydTs4HjHzjFJdh4g
+  done=True
+   | in order to avoid primer pairs (all combinations including forward-reverse primer pair,
+   | Specificity of primers
+   | Target templates were found in selected database: RefSeq Reference Genome Database (Organism limited to Mus musculus)
+   | Max candidate primer pairs
+   | Min PCR product size
+   | Max PCR product size
+   | Download primer pairs
+   | Primer pair 1
+   | Products on intended targets
+   | Products on allowed targets
+   | Products on allowed transcript variants
+   | Products on potentially unintended templates
+   | Products on target templates
+   | product length = 1692
+qPCR_S_spliceform_pair: submit 200 job_key=MDrv5zHZPHEbTyZKKyoCeFExE0p8IghXfQ
+  done=True
+   | in order to avoid primer pairs (all combinations including forward-reverse primer pair,
+   | Specificity of primers
+   | No target templates were found in selected database: RefSeq Reference Genome Database (Organism limited to Mus musculus)
+   | Max candidate primer pairs
+   | Min PCR product size
+   | Max PCR product size
+   | Download primer pairs
+   | Primer pair 1
+   | Products on intended targets
+   | Products on allowed targets
+   | Products on allowed transcript variants
+   | Products on potentially unintended templates
+   | Products on target templates
+qPCR_L_orthogonal_pair: submit 200 job_key=kJpN3C3rIEMHebB8vRyUTscHhXzqFJ5h6w
+  done=True
+   | in order to avoid primer pairs (all combinations including forward-reverse primer pair,
+   | Specificity of primers
+   | No target templates were found in selected database: RefSeq Reference Genome Database (Organism limited to Mus musculus)
+   | Max candidate primer pairs
+   | Min PCR product size
+   | Max PCR product size
+   | Download primer pairs
+   | Primer pair 1
+   | Products on intended targets
+   | Products on allowed targets
+   | Products on allowed transcript variants
+   | Products on potentially unintended templates
+   | Products on target templates
+ALL DONE

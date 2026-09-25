@@ -1,0 +1,181 @@
+sample	group	metric	region	start0	end0	region_class	filter_rule	value	unit
+sham1	sham	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	0.000	x
+sham2	sham	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	0.964	x
+day3_rep1	day3	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	0.000	x
+day3_rep2	day3	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	1.490	x
+day7_rep1	day7	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	1.088	x
+day7_rep2	day7	mean_depth	intergenic_control	122452512	122453012	intergenic	ruleB_depth20	0.000	x
+day3_rep1	day3	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.0863	ratio
+day3_rep1	day3	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	35.621	x
+day3_rep1	day3	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	98.56	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.1195	ratio
+day3_rep1	day3	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	49.278	x
+day3_rep1	day3	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	98.59	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.0746	ratio
+day3_rep1	day3	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	30.783	x
+day3_rep1	day3	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	98.55	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+day3_rep1	day3	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	412.528	x
+day3_rep1	day3	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.1195	ratio
+day3_rep1	day3	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	49.307	x
+day3_rep1	day3	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	98.61	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0458	ratio
+day3_rep1	day3	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	18.904	x
+day3_rep1	day3	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	97.98	%
+day3_rep1	day3	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.1492	ratio
+day3_rep1	day3	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	61.540	x
+day3_rep1	day3	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.0835	ratio
+day3_rep2	day3	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	32.402	x
+day3_rep2	day3	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	99.93	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.1620	ratio
+day3_rep2	day3	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	62.898	x
+day3_rep2	day3	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	99.74	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.0556	ratio
+day3_rep2	day3	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	21.601	x
+day3_rep2	day3	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	100.00	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+day3_rep2	day3	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	388.163	x
+day3_rep2	day3	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.1617	ratio
+day3_rep2	day3	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	62.754	x
+day3_rep2	day3	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	99.75	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0403	ratio
+day3_rep2	day3	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	15.634	x
+day3_rep2	day3	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	100.00	%
+day3_rep2	day3	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.0945	ratio
+day3_rep2	day3	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	36.675	x
+day3_rep2	day3	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.0861	ratio
+day7_rep1	day7	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	45.668	x
+day7_rep1	day7	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	97.69	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.0848	ratio
+day7_rep1	day7	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	44.971	x
+day7_rep1	day7	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	91.17	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.0866	ratio
+day7_rep1	day7	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	45.916	x
+day7_rep1	day7	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	100.00	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+day7_rep1	day7	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	530.252	x
+day7_rep1	day7	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.0848	ratio
+day7_rep1	day7	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	44.980	x
+day7_rep1	day7	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	91.29	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0848	ratio
+day7_rep1	day7	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	44.971	x
+day7_rep1	day7	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	100.00	%
+day7_rep1	day7	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.0913	ratio
+day7_rep1	day7	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	48.396	x
+day7_rep1	day7	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.0848	ratio
+day7_rep2	day7	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	50.970	x
+day7_rep2	day7	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	99.80	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.0862	ratio
+day7_rep2	day7	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	51.814	x
+day7_rep2	day7	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	99.23	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.0843	ratio
+day7_rep2	day7	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	50.670	x
+day7_rep2	day7	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	100.00	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+day7_rep2	day7	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	601.215	x
+day7_rep2	day7	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.0868	ratio
+day7_rep2	day7	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	52.170	x
+day7_rep2	day7	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	99.24	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0811	ratio
+day7_rep2	day7	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	48.783	x
+day7_rep2	day7	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	100.00	%
+day7_rep2	day7	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.0917	ratio
+day7_rep2	day7	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	55.130	x
+day7_rep2	day7	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+sham1	sham	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.3345	ratio
+sham1	sham	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	72.867	x
+sham1	sham	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	99.80	%
+sham1	sham	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.7609	ratio
+sham1	sham	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	165.752	x
+sham1	sham	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	99.23	%
+sham1	sham	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.1835	ratio
+sham1	sham	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	39.968	x
+sham1	sham	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	100.00	%
+sham1	sham	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+sham1	sham	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	217.847	x
+sham1	sham	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+sham1	sham	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.7584	ratio
+sham1	sham	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	165.213	x
+sham1	sham	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	99.24	%
+sham1	sham	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0668	ratio
+sham1	sham	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	14.542	x
+sham1	sham	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	100.00	%
+sham1	sham	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.4821	ratio
+sham1	sham	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	105.015	x
+sham1	sham	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	0.2705	ratio
+sham2	sham	mean_depth	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	98.313	x
+sham2	sham	covered_bases_pct	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	0.4790	ratio
+sham2	sham	mean_depth	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	174.127	x
+sham2	sham	covered_bases_pct	overlap_177974_UTR	122453512	122454293	composite(canonical)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	0.1966	ratio
+sham2	sham	mean_depth	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	71.460	x
+sham2	sham	covered_bases_pct	exclusive_3UTR_part	122454293	122456498	composite(canonical)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	shared	122456498	122457153	composite(canonical)	ruleB_depth20	1.0000	ratio
+sham2	sham	mean_depth	shared	122456498	122457153	composite(canonical)	ruleB_depth20	363.492	x
+sham2	sham	covered_bases_pct	shared	122456498	122457153	composite(canonical)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	0.4797	ratio
+sham2	sham	mean_depth	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	174.376	x
+sham2	sham	covered_bases_pct	terminal_exon	122453512	122454304	exon(LS)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	0.0712	ratio
+sham2	sham	mean_depth	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	25.874	x
+sham2	sham	covered_bases_pct	spliced_UTR_intron	122454304	122455892	intron(L-unique;pre-mRNA)	ruleB_depth20	100.00	%
+sham2	sham	mean_depth_ratio_vs_shared	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	0.5192	ratio
+sham2	sham	mean_depth	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	188.726	x
+sham2	sham	covered_bases_pct	penult_UTR_5p_part	122455892	122456498	exon(L-unique)	ruleB_depth20	100.00	%
+day3_rep1	day3	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	4	reads
+day3_rep1	day3	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.0863 -> 0.0856	ratio
+day3_rep2	day3	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	11	reads
+day3_rep2	day3	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.0835 -> 0.0821	ratio
+day7_rep1	day7	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	2	reads
+day7_rep1	day7	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.0861 -> 0.0859	ratio
+day7_rep2	day7	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	7	reads
+day7_rep2	day7	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.0848 -> 0.0843	ratio
+sham1	sham	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	96	reads
+sham1	sham	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.3345 -> 0.3113	ratio
+sham2	sham	keyJ_read_count	spliced_UTR_intron(L-junction)	122454304	122455892	intron(L-unique;pre-mRNA)	ruleA_primary	136	reads
+sham2	sham	distal_ratio_full_vs_exclJ	distal_full	122453512	122456498	composite(canonical)	ruleB_depth20; excl-J sensitivity	0.2705 -> 0.2511	ratio
+day3_rep1	day3	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	2774	reads
+day3_rep1	day3	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	0.721	%
+day3_rep1	day3	reads_review_window	review_window			composite	ruleA_primary	3703	reads
+day3_rep1	day3	spliced_pct_review_window	review_window			composite	ruleA_primary	17.472	%
+day3_rep2	day3	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	2657	reads
+day3_rep2	day3	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	1.016	%
+day3_rep2	day3	reads_review_window	review_window			composite	ruleA_primary	3614	reads
+day3_rep2	day3	spliced_pct_review_window	review_window			composite	ruleA_primary	18.456	%
+day7_rep1	day7	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	3694	reads
+day7_rep1	day7	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	0.298	%
+day7_rep1	day7	reads_review_window	review_window			composite	ruleA_primary	5569	reads
+day7_rep1	day7	spliced_pct_review_window	review_window			composite	ruleA_primary	23.559	%
+day7_rep2	day7	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	4203	reads
+day7_rep2	day7	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	0.666	%
+day7_rep2	day7	reads_review_window	review_window			composite	ruleA_primary	6639	reads
+day7_rep2	day7	spliced_pct_review_window	review_window			composite	ruleA_primary	26.570	%
+sham1	sham	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	2594	reads
+sham1	sham	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	4.279	%
+sham1	sham	reads_review_window	review_window			composite	ruleA_primary	3126	reads
+sham1	sham	spliced_pct_review_window	review_window			composite	ruleA_primary	16.187	%
+sham2	sham	reads_annotated_UTR	annotated_UTR			composite	ruleA_primary	3839	reads
+sham2	sham	spliced_pct_annotated_UTR	annotated_UTR			composite	ruleA_primary	4.324	%
+sham2	sham	reads_review_window	review_window			composite	ruleA_primary	4908	reads
+sham2	sham	spliced_pct_review_window	review_window			composite	ruleA_primary	18.847	%
+sham1	sham	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	96	reads
+sham1	sham	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	13	reads
+sham2	sham	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	136	reads
+sham2	sham	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	18	reads
+day3_rep1	day3	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	4	reads
+day3_rep1	day3	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	14	reads
+day3_rep2	day3	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	11	reads
+day3_rep2	day3	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	10	reads
+day7_rep1	day7	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	2	reads
+day7_rep1	day7	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	8	reads
+day7_rep2	day7	spliced_reads	junction_L_122454304_122455892	122454304	122455892	junction(L-unique)	ruleA_primary	7	reads
+day7_rep2	day7	spliced_reads	junction_S_122454304_122457302	122454304	122457302	junction(S-unique)	ruleA_primary	15	reads

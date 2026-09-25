@@ -1,0 +1,13 @@
+input	role	sha256_or_ref	version	status
+D:/stroke_apa_reaudit/GATE1_REAUDIT_20260924.zip	上一轮复核包(只读,未改动)	e8f14d5326e4d20fc18e034b888e728dcfb138a4fd2c624b8a67133caa2afccd	20260924	used
+D:/stroke_apa_reaudit/inputs/REANALYSIS_RESULTS_20260923.zip	发现队列分析包(BAM切片/样本表/PDUI, 只读)	60f97720e928d4fe3d20f4a3dab216c628d607720c30f31d1327097e30da9f08	20260923	used
+D:/stroke_apa_reaudit/inputs/REANALYSIS_RESULTS_20260921.zip	更早分析包(只读)	b72b31478c4e49781320abd37d4b6feb2cf14f5fb3306620c3c8339ac59a7a13	20260921	used
+D:/stroke_apa_reaudit/reference/chr5.fa	mm10 chr5 参考序列(UCSC)	1b970a617aec9b406ac823fad5a44538d1a9180e56d62ee121bf084ecc75ad5b	mm10/GRCm38	used
+D:/stroke_apa_reaudit/reference/gencode.vM25.annotation.gtf.gz	GENCODE vM25 注释	e6c9704cb5832b8a1c71431ecac9ea30057377c72cdc9a12dc5d0405ab066d5a	vM25	used
+D:/stroke_apa_reaudit/reference/gencode.vM25.transcripts.fa	GENCODE vM25 转录本序列	145475bc09af4192cac6aa6757dcbcda24c657fba815b380f17b1b72780e0f16	vM25	used
+inputs/zip_2023/results/03_bam_review/slices/*.Atp2a2.cand.bam	6样本 Atp2a2 BAM 切片(sham2/d3_2/d7_2)	见 06 包 input_manifest.tsv	mm10	used(只读)
+PolyASite 2.0 GRCm38.96 atlas	公共 poly(A) 位点簇	notes/pas_cache/polyasite_atlas_GRCm38.bed.gz	2.0 (2020-04)	used(下载于2026-09-25)
+GEO GSE74456/GSE143531/GSE330741	公共数据复核	notes/gse_recheck_log.md	NA	used(2026-09-25 下载)
+GEO/SRA 文献检索	独立队列筛查/新颖性	notes/dataset_search_log.md, notes/novelty_search_log.md	NA	used(2026-09-25)
+Koester 2026 正式补充表	GSE330741 manifest 重建	pending	NA	pending(最小缺失: 作者参考文库表/自定义脚本/样本表, 见 notes/gse330741_manifest_check.md)
+独立 3'RACE 数据	Gate B 判定	pending	NA	pending(最小缺失: 独立 sham/day7 小鼠靶向 3' 端测序, 用途=RNA-polyA 接合定位)

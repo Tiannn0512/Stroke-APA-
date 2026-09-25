@@ -1,0 +1,4 @@
+record_type	animal_id	group	timepoint_h	brain_region	hemisphere	dissection_batch	library_id	sequencing_run	read_length	umi	pcr_cycles	rt_enzyme	no_rt_control	done_rt_control	internal_priming_check	assay	primer_set_ref	operator	notes
+EXAMPLE	A001	sham	0	cortex	bilateral	B1	L1	R1	150	capitalN	8	MMLV	pass	NA	pass	3RACE	assay_design_verified.tsv:RACE_outer_GSP_v2/RACE_nested_GSP_v2	EXAMPLE_NAME	示例行，正式表删除
+EXAMPLE	A002	day7	168	cortex	ipsilateral	B1	L2	R1	150	capitalN	8	MMLV	pass	NA	pass	3RACE	assay_design_verified.tsv:RACE_outer_GSP_v2/RACE_nested_GSP_v2	EXAMPLE_NAME	示例行，正式表删除
+EXAMPLE	A003	sham	0	cortex	bilateral	B2	F1	NA	NA	NA	NA	NA	NA	pass	NA	smFISH	assay_design_verified.tsv:qPCR_S_spliceform_J/long_junction_v2/common	EXAMPLE_NAME	示例行，正式表删除

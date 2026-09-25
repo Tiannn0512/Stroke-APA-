@@ -1,0 +1,25 @@
+size factors: {'CtxPre1': np.float64(1.899), 'CtxPre2': np.float64(1.5926), 'CtxPre3': np.float64(1.7087), 'CtxTRAP1': np.float64(1.9015), 'CtxTRAP2': np.float64(1.2458), 'CtxTRAP3': np.float64(1.7739), 'PAPpre1': np.float64(0.3171), 'PAPpre2': np.float64(0.3286), 'PAPpre3': np.float64(0.5212), 'PAPTRAP1': np.float64(1.1275), 'PAPTRAP2': np.float64(1.2685), 'PAPTRAP3': np.float64(1.3172)}
+library totals: {'CtxPre1': 11382134, 'CtxPre2': 10368296, 'CtxPre3': 12168436, 'CtxTRAP1': 7858437, 'CtxTRAP2': 4918113, 'CtxTRAP3': 7007747, 'PAPpre1': 13965975, 'PAPpre2': 17553985, 'PAPpre3': 15271989, 'PAPTRAP1': 10671362, 'PAPTRAP2': 9944893, 'PAPTRAP3': 10543223}
+
+== contrast PAP TRAP vs PAP pre (n=3 vs 3, Welch t on log2(norm+1), BH over 20143 tested genes) ==
+Atp2a2 (ENSMUSG00000029467) raw counts pre : [4616, 4619, 9164]
+Atp2a2 (ENSMUSG00000029467) raw counts TRAP: [11478, 8186, 15561]
+Atp2a2 log2(norm+1) pre : [13.829 13.779 14.102]
+Atp2a2 log2(norm+1) TRAP: [13.314 12.656 13.528]
+Atp2a2 mean log2FC = -0.7375   p = 9.228e-02   padj(BH) = 1.000e+00
+rank by padj: 154 of 20143
+Atp2a2 mean normalized counts: TRAP 9482.3 vs pre 15398.4; ratio log2 = -0.6994
+
+== contrast Ctx TRAP vs Ctx pre (n=3 vs 3, Welch t on log2(norm+1), BH over 22981 tested genes) ==
+Atp2a2 (ENSMUSG00000029467) raw counts pre : [7213, 7343, 7939]
+Atp2a2 (ENSMUSG00000029467) raw counts TRAP: [6969, 2236, 3086]
+Atp2a2 log2(norm+1) pre : [11.892 12.171 12.182]
+Atp2a2 log2(norm+1) TRAP: [11.84  10.81  10.765]
+Atp2a2 mean log2FC = -0.9430   p = 1.064e-01   padj(BH) = 5.635e-01
+rank by padj: 7810 of 22981
+Atp2a2 mean normalized counts: TRAP 2399.8 vs pre 4351.7; ratio log2 = -0.8584
+== contrast PAP TRAP vs Ctx TRAP (n=3 vs 3, Welch t on log2(norm+1), BH over 41388 genes) ==
+Atp2a2 log2FC = 2.0274   p = 1.179e-02   padj(BH) = 2.690e-01
+Atp2a2 rank by padj: 1813 of 41388
+genes with padj<0.05: 1, with padj<0.10: 165
+Atp2a2 log2(norm+1) PAPTRAP: [13.314 12.656 13.528]  CtxTRAP: [11.84  10.81  10.765]

@@ -1,0 +1,159 @@
+transcript_id	version_label	feature	chrom	start0	end0	strand	note
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122456339	122457426	-	exon 1/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122457511	122457629	-	exon 2/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122458087	122458221	-	exon 3/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122458447	122458533	-	exon 4/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122459447	122459650	-	exon 5/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122459975	122460196	-	exon 6/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122460640	122460976	-	exon 7/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122461565	122461784	-	exon 8/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122461862	122461985	-	exon 9/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122465949	122466081	-	exon 10/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122466827	122466930	-	exon 11/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122467706	122467795	-	exon 12/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122469349	122469814	-	exon 13/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122471167	122471253	-	exon 14/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122473209	122473290	-	exon 15/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122489237	122489376	-	exon 16/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122491680	122491785	-	exon 17/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122500730	122500813	-	exon 18/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122500930	122500948	-	exon 19/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	exon	chr5	122501567	122502225	-	exon 20/20 genomic-asc
+ENSMUST00000031423.9	M(medium-UTR)	3p_UTR	chr5	122456339	122457153	-	GENCODE vM25 three_prime_UTR
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122500948	122501567	-	intron#1from3p donor_base=122501567 acceptor_base=122500947 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122500813	122500930	-	intron#2from3p donor_base=122500930 acceptor_base=122500812 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122491785	122500730	-	intron#3from3p donor_base=122500730 acceptor_base=122491784 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122489376	122491680	-	intron#4from3p donor_base=122491680 acceptor_base=122489375 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122473290	122489237	-	intron#5from3p donor_base=122489237 acceptor_base=122473289 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122471253	122473209	-	intron#6from3p donor_base=122473209 acceptor_base=122471252 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122469814	122471167	-	intron#7from3p donor_base=122471167 acceptor_base=122469813 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122467795	122469349	-	intron#8from3p donor_base=122469349 acceptor_base=122467794 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122466930	122467706	-	intron#9from3p donor_base=122467706 acceptor_base=122466929 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122466081	122466827	-	intron#10from3p donor_base=122466827 acceptor_base=122466080 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122461985	122465949	-	intron#11from3p donor_base=122465949 acceptor_base=122461984 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122461784	122461862	-	intron#12from3p donor_base=122461862 acceptor_base=122461783 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122460976	122461565	-	intron#13from3p donor_base=122461565 acceptor_base=122460975 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122460196	122460640	-	intron#14from3p donor_base=122460640 acceptor_base=122460195 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122459650	122459975	-	intron#15from3p donor_base=122459975 acceptor_base=122459649 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122458533	122459447	-	intron#16from3p donor_base=122459447 acceptor_base=122458532 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122458221	122458447	-	intron#17from3p donor_base=122458447 acceptor_base=122458220 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122457629	122458087	-	intron#18from3p donor_base=122458087 acceptor_base=122457628 (BED)
+ENSMUST00000031423.9	M(medium-UTR)	splice_junction_intron	chr5	122457426	122457511	-	intron#19from3p donor_base=122457511 acceptor_base=122457425 (BED)
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122453513	122454304	-	exon 1/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122457302	122457426	-	exon 2/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122457511	122457629	-	exon 3/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122458087	122458221	-	exon 4/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122458447	122458533	-	exon 5/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122459447	122459650	-	exon 6/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122459975	122460196	-	exon 7/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122460640	122460976	-	exon 8/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122461565	122461784	-	exon 9/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122461862	122461985	-	exon 10/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122465949	122466081	-	exon 11/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122466827	122466930	-	exon 12/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122467706	122467795	-	exon 13/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122469349	122469814	-	exon 14/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122471167	122471253	-	exon 15/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122473209	122473290	-	exon 16/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122489237	122489376	-	exon 17/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122491680	122491785	-	exon 18/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122500730	122500813	-	exon 19/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122500930	122500948	-	exon 20/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	exon	chr5	122501567	122501895	-	exon 21/21 genomic-asc
+ENSMUST00000177974.7	S(short-UTR)	3p_UTR	chr5	122453513	122454293	-	GENCODE vM25 three_prime_UTR
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122500948	122501567	-	intron#1from3p donor_base=122501567 acceptor_base=122500947 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122500813	122500930	-	intron#2from3p donor_base=122500930 acceptor_base=122500812 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122491785	122500730	-	intron#3from3p donor_base=122500730 acceptor_base=122491784 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122489376	122491680	-	intron#4from3p donor_base=122491680 acceptor_base=122489375 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122473290	122489237	-	intron#5from3p donor_base=122489237 acceptor_base=122473289 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122471253	122473209	-	intron#6from3p donor_base=122473209 acceptor_base=122471252 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122469814	122471167	-	intron#7from3p donor_base=122471167 acceptor_base=122469813 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122467795	122469349	-	intron#8from3p donor_base=122469349 acceptor_base=122467794 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122466930	122467706	-	intron#9from3p donor_base=122467706 acceptor_base=122466929 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122466081	122466827	-	intron#10from3p donor_base=122466827 acceptor_base=122466080 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122461985	122465949	-	intron#11from3p donor_base=122465949 acceptor_base=122461984 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122461784	122461862	-	intron#12from3p donor_base=122461862 acceptor_base=122461783 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122460976	122461565	-	intron#13from3p donor_base=122461565 acceptor_base=122460975 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122460196	122460640	-	intron#14from3p donor_base=122460640 acceptor_base=122460195 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122459650	122459975	-	intron#15from3p donor_base=122459975 acceptor_base=122459649 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122458533	122459447	-	intron#16from3p donor_base=122459447 acceptor_base=122458532 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122458221	122458447	-	intron#17from3p donor_base=122458447 acceptor_base=122458220 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122457629	122458087	-	intron#18from3p donor_base=122458087 acceptor_base=122457628 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122457426	122457511	-	intron#19from3p donor_base=122457511 acceptor_base=122457425 (BED)
+ENSMUST00000177974.7	S(short-UTR)	splice_junction_intron	chr5	122454304	122457302	-	intron#20from3p donor_base=122457302 acceptor_base=122454303 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122453512	122454304	-	exon 1/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122455892	122457426	-	exon 2/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122457511	122457629	-	exon 3/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122458087	122458221	-	exon 4/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122458447	122458533	-	exon 5/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122459447	122459650	-	exon 6/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122459975	122460196	-	exon 7/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122460640	122460976	-	exon 8/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122461565	122461784	-	exon 9/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122461862	122461985	-	exon 10/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122465949	122466081	-	exon 11/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122466827	122466930	-	exon 12/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122467706	122467795	-	exon 13/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122469349	122469814	-	exon 14/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122471167	122471253	-	exon 15/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122473209	122473290	-	exon 16/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122489237	122489376	-	exon 17/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122491680	122491785	-	exon 18/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122500730	122500813	-	exon 19/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122500930	122500948	-	exon 20/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	exon	chr5	122501567	122502174	-	exon 21/21 genomic-asc
+ENSMUST00000179939.7	L(long-UTR,事件载体)	3p_UTR	chr5	122453512	122454304	-	GENCODE vM25 three_prime_UTR
+ENSMUST00000179939.7	L(long-UTR,事件载体)	3p_UTR	chr5	122455892	122457153	-	GENCODE vM25 three_prime_UTR
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122500948	122501567	-	intron#1from3p donor_base=122501567 acceptor_base=122500947 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122500813	122500930	-	intron#2from3p donor_base=122500930 acceptor_base=122500812 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122491785	122500730	-	intron#3from3p donor_base=122500730 acceptor_base=122491784 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122489376	122491680	-	intron#4from3p donor_base=122491680 acceptor_base=122489375 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122473290	122489237	-	intron#5from3p donor_base=122489237 acceptor_base=122473289 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122471253	122473209	-	intron#6from3p donor_base=122473209 acceptor_base=122471252 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122469814	122471167	-	intron#7from3p donor_base=122471167 acceptor_base=122469813 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122467795	122469349	-	intron#8from3p donor_base=122469349 acceptor_base=122467794 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122466930	122467706	-	intron#9from3p donor_base=122467706 acceptor_base=122466929 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122466081	122466827	-	intron#10from3p donor_base=122466827 acceptor_base=122466080 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122461985	122465949	-	intron#11from3p donor_base=122465949 acceptor_base=122461984 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122461784	122461862	-	intron#12from3p donor_base=122461862 acceptor_base=122461783 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122460976	122461565	-	intron#13from3p donor_base=122461565 acceptor_base=122460975 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122460196	122460640	-	intron#14from3p donor_base=122460640 acceptor_base=122460195 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122459650	122459975	-	intron#15from3p donor_base=122459975 acceptor_base=122459649 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122458533	122459447	-	intron#16from3p donor_base=122459447 acceptor_base=122458532 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122458221	122458447	-	intron#17from3p donor_base=122458447 acceptor_base=122458220 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122457629	122458087	-	intron#18from3p donor_base=122458087 acceptor_base=122457628 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122457426	122457511	-	intron#19from3p donor_base=122457511 acceptor_base=122457425 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	splice_junction_intron	chr5	122454304	122455892	-	intron#20from3p donor_base=122455892 acceptor_base=122454303 (BED)
+ENSMUST00000196490.1		exon	chr5	122488934	122489376	-	exon 1/5 genomic-asc
+ENSMUST00000196490.1		exon	chr5	122491680	122491785	-	exon 2/5 genomic-asc
+ENSMUST00000196490.1		exon	chr5	122500730	122500813	-	exon 3/5 genomic-asc
+ENSMUST00000196490.1		exon	chr5	122500930	122500948	-	exon 4/5 genomic-asc
+ENSMUST00000196490.1		exon	chr5	122501567	122501617	-	exon 5/5 genomic-asc
+ENSMUST00000196490.1		splice_junction_intron	chr5	122500948	122501567	-	intron#1from3p donor_base=122501567 acceptor_base=122500947 (BED)
+ENSMUST00000196490.1		splice_junction_intron	chr5	122500813	122500930	-	intron#2from3p donor_base=122500930 acceptor_base=122500812 (BED)
+ENSMUST00000196490.1		splice_junction_intron	chr5	122491785	122500730	-	intron#3from3p donor_base=122500730 acceptor_base=122491784 (BED)
+ENSMUST00000196490.1		splice_junction_intron	chr5	122489376	122491680	-	intron#4from3p donor_base=122491680 acceptor_base=122489375 (BED)
+ENSMUST00000197415.4		exon	chr5	122488881	122489097	-	exon 1/6 genomic-asc
+ENSMUST00000197415.4		exon	chr5	122489237	122489376	-	exon 2/6 genomic-asc
+ENSMUST00000197415.4		exon	chr5	122491680	122491785	-	exon 3/6 genomic-asc
+ENSMUST00000197415.4		exon	chr5	122500730	122500813	-	exon 4/6 genomic-asc
+ENSMUST00000197415.4		exon	chr5	122500930	122500948	-	exon 5/6 genomic-asc
+ENSMUST00000197415.4		exon	chr5	122501567	122501621	-	exon 6/6 genomic-asc
+ENSMUST00000197415.4		splice_junction_intron	chr5	122500948	122501567	-	intron#1from3p donor_base=122501567 acceptor_base=122500947 (BED)
+ENSMUST00000197415.4		splice_junction_intron	chr5	122500813	122500930	-	intron#2from3p donor_base=122500930 acceptor_base=122500812 (BED)
+ENSMUST00000197415.4		splice_junction_intron	chr5	122491785	122500730	-	intron#3from3p donor_base=122500730 acceptor_base=122491784 (BED)
+ENSMUST00000197415.4		splice_junction_intron	chr5	122489376	122491680	-	intron#4from3p donor_base=122491680 acceptor_base=122489375 (BED)
+ENSMUST00000197415.4		splice_junction_intron	chr5	122489097	122489237	-	intron#5from3p donor_base=122489237 acceptor_base=122489096 (BED)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	predicted_PAS_DaPars2	chr5	122456498	122456499	-	predicted近端PAS; source=DaPars2 event6953(发现队列); 类别=计算推断; 状态=predicted(未测RNA-polyA接合)
+ENSMUST00000179939.7	L(long-UTR,事件载体)	QKI_CLIP_peak	chr5	122454200	122454250	-	FDR=1.04e-5; source=发现队列eCLIP; 类别=计算推断
+#coverage_uniqueness_segments	window=chr5:122453000-122460000(BED)	membership: L=179939 S=177974 M=31423
+COVERAGE_SEG	L		chr5	122453512	122453513	-	1转录本覆盖
+COVERAGE_SEG	LS		chr5	122453513	122454304	-	2转录本覆盖
+COVERAGE_SEG	L		chr5	122455892	122456339	-	1转录本覆盖
+COVERAGE_SEG	LM		chr5	122456339	122457302	-	2转录本覆盖
+COVERAGE_SEG	LSM		chr5	122457302	122457426	-	3转录本覆盖
+COVERAGE_SEG	LSM		chr5	122457511	122457629	-	3转录本覆盖
+COVERAGE_SEG	LSM		chr5	122458087	122458221	-	3转录本覆盖
+COVERAGE_SEG	LSM		chr5	122458447	122458533	-	3转录本覆盖
+COVERAGE_SEG	LSM		chr5	122459447	122459650	-	3转录本覆盖
+COVERAGE_SEG	LSM		chr5	122459975	122460000	-	3转录本覆盖

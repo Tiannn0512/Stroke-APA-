@@ -1,0 +1,9 @@
+outerGSP_v2_single: attempt0 submit=200 job_key=None
+outerGSP_v2_single: attempt1 submit=200 job_key=None
+outerGSP_v2_single: attempt2 submit=200 job_key=None
+outerGSP_v2_single final=False
+nestedGSP_v2_single: attempt0 submit=200 job_key=None
+nestedGSP_v2_single: attempt1 submit=200 job_key=None
+nestedGSP_v2_single: attempt2 submit=200 job_key=None
+nestedGSP_v2_single final=False
+DONE

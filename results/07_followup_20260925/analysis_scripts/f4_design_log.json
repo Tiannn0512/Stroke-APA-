@@ -1,0 +1,75 @@
+{
+ "nested_candidates": 166,
+ "nested_chosen": {
+  "seq": "CGGTCCAAGAGTCTCCTTCTACCA",
+  "tm": 63.17,
+  "gc": 54.17,
+  "gm": 12,
+  "dims": [
+   -14.5,
+   31.9
+  ],
+  "dist3": 76,
+  "g": "122458451-122458475",
+  "score": 76.85000000000001
+ },
+ "juncL_v2_candidates": 16,
+ "juncL_v2_chosen": {
+  "F": "TGTGGTGTTTTCCTCCAATGCCT",
+  "R": "CACGCACCCGAACACCCTTATAT",
+  "prod": 400,
+  "F_tm": 62.86,
+  "R_tm": 62.85
+ },
+ "J_S": {
+  "per": {
+   "ENSMUST00000179939": 0,
+   "ENSMUST00000177974": 1,
+   "ENSMUST00000031423": 0,
+   "ENSMUST00000196490": 0,
+   "ENSMUST00000197415": 0,
+   "ENSMUST00000227710": 0
+  },
+  "gm": 9,
+  "lh0": [],
+  "lh1": 0,
+  "tm": 64.39,
+  "dims": [
+   -46.6,
+   38.0
+  ]
+ },
+ "J_L": {
+  "per": {
+   "ENSMUST00000179939": 1,
+   "ENSMUST00000177974": 0,
+   "ENSMUST00000031423": 0,
+   "ENSMUST00000196490": 0,
+   "ENSMUST00000197415": 0,
+   "ENSMUST00000227710": 0
+  },
+  "gm": 12,
+  "lh0": [],
+  "lh1": 0,
+  "tm": 58.25,
+  "dims": [
+   -7.5,
+   46.9
+  ]
+ },
+ "doc_leak": "chr5:122457534-122457560(+)",
+ "defects": {
+  "H1": "rotated design template -> pair faces outward",
+  "H2": "doc leaked old candidate seq",
+  "H3": "nested GSP exact Gm30970 hit",
+  "H4": "RACE GSPs antisense-oriented (should be sense)",
+  "H5": "claimed 366bp cDNA product not real"
+ },
+ "params": {
+  "size": "20-28 opt23",
+  "tm": "60-66 opt63",
+  "gc": "35-65",
+  "maxmm_local": 1,
+  "min_gm30970_mm": 2
+ }
+}

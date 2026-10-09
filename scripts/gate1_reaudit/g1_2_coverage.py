@@ -7,7 +7,7 @@ G1 复核 · 工作 2：分区覆盖与替代解释（独立实现，不依赖�
 另用 pysam.count_coverage 独立复算 sham1 交叉验证。
 
 区段（两类）：
-  canonical（任务书规定）:
+  canonical（预设分区）:
     distal_full            122453512-122456498
     overlap_177974_UTR     122453512-122454293   （与 177974 的 3'UTR 重叠）
     exclusive_3UTR_part    122454293-122456498   （避开重叠的部分）

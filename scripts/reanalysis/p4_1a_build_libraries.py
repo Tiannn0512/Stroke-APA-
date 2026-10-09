@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Task A step 1-2 (03_执行方Agent_下一步任务书 §4): GSE143531 library metadata,
+"""Task A step 1-2  : GSE143531 library metadata,
 technical-rep merging, QC, and a 6-library count matrix.
 
 Units (per task brief + Mazaré 2020 methods): each biological LIBRARY = 8 technical

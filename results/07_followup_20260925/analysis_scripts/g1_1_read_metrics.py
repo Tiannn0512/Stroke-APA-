@@ -6,7 +6,7 @@ G1 复核 · 工作 1：修正版 CIGAR / 剪接读段审查（替代有 bug 的
 旧脚本缺陷（勘误对象）：CIGAR 条件里写了 `op="="`（赋值而非比较），导致
 spliced_read_pct 恒为 0。本脚本改用 pysam 的 cigartuples 显式枚举。
 
-坐标口径：BED 0-based half-open（与任务书一致）。
+坐标口径：BED 0-based half-open（与预设口径一致）。
 过滤口径：
   main  = 排除 unmapped(0x4) + secondary(0x100) + supplementary(0x800)
   dedup = main 基础上再排除 duplicate(0x400)（敏感性口径）

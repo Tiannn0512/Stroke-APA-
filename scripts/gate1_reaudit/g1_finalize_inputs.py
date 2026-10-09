@@ -34,7 +34,7 @@ src = f"{INP}/zip_2023/results/04_public_pap/edgeR_TMM_PAP_vs_Full.tsv"
 with open(src) as f:
     head = f.readline()
 sep = "," if head.count(",") > head.count("\t") else "\t"
-print(f"旧 edgeR 文件分隔符 = {sep!r}（任务书判定：{',实为 CSV' if sep==',' else '已是 TSV'}）")
+print(f"旧 edgeR 文件分隔符 = {sep!r}（判定：{',实为 CSV' if sep==',' else '已是 TSV'}）")
 with open(src) as f, open(f"{R}/edgeR_TMM_PAP_vs_Full.tsv", "w") as out:
     for line in f:
         out.write(line.replace(sep, "\t"))

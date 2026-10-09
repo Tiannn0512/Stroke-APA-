@@ -1,0 +1,25 @@
+# Stroke-APA pinned environment summary
+# Authoritative definitions are the conda files in envs/ — this file is the
+# quick reference. See docs/ENVIRONMENT.md (inventory as of 2026-09-16) and
+# results/07_followup_20260925/software_versions.txt (captured 2026-09-25).
+#
+# Python (conda env: bioinfo)
+pysam==0.24.1
+primer3-py==2.0.0
+pyfaidx
+matplotlib
+numpy
+scipy
+pandas
+
+# R (conda env: rlimma)
+#   R 4.3.3, limma 3.58.1, edgeR 4.0.16 (edgeR install note: docs/实验流程.md §2.2)
+
+# External command-line tools (WSL/Linux)
+#   STAR 2.7.11b          genome alignment
+#   samtools 1.19.2       BAM/depth/junction utilities
+#   bedtools 2.31.1       interval arithmetic
+#   salmon 1.10.3         transcript quantification
+#   FIMO 5.5.9 (MEME)     motif scanning
+#   IGV 2.18.4            alignment screenshots (needs Java 17; 2.19.x needs Java 21)
+#   DaPars2               use tools/DaPars2_patched (empty-coverage → NA patch, 2026-09-18)

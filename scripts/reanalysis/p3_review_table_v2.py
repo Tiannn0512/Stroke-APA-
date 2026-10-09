@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-"""Task B: event_review_table v2 (fixes vs v1 per 03_任务书 §5).
+"""Task B: event_review_table v2 (fixes vs v1 per 03_预设 §5).
 
 Fixes:
   1. PDUI trajectory: PDUI matrix columns are BARE sample names (sham1, day3_rep1, ...)

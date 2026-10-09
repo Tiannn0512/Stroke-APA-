@@ -1,6 +1,6 @@
 # 证据表更新（对应外部 02_evidence_table.md 的差异行，2026-09-23）
 
-> 用法：把下列行并入课题证据表对应位置；原表保留，不覆盖。所有行按本轮任务书口径标注证据等级。
+> 用法：把下列行并入课题证据表对应位置；原表保留，不覆盖。所有行按本轮预设口径标注证据等级。
 
 | # | 证据项 | 本轮更新 | 证据等级 | 来源文件 |
 |---|---|---|---|---|
@@ -12,4 +12,4 @@
 | G6 | Atp2a2 引物/检测设计 | 3'RACE 外/内 GSP、common/distal ddPCR 引物序列级设计完成；distal 引物零脱靶（已避开 177974 重叠 UTR）；177974 转录本记为设计风险 | in-silico 设计（待 Primer-BLAST 终检） | results/05_target_nomination/Atp2a2_assay_design.tsv/.md、Atp2a2_specificity_screen.txt |
 | G7 | 决定 | **Atp2a2 ADVANCE → 3'RACE**（三判据全过）；Agpat3 备靶待命；空间/机制分支按 Gate 2A/2B/3 顺序解锁 | 决策 | results/05_target_nomination/decision_summary_v1.md |
 
-对外表述基线：见 decision_summary_v1.md 末节（任务书 §10 建议句式）。
+对外表述基线：见 decision_summary_v1.md 末节（预设 §10 建议句式）。

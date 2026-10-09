@@ -4,7 +4,7 @@ import os, re, sys, time, json, urllib.request
 
 BASE = r"D:\stroke_apa\data\GSE238125"
 os.makedirs(BASE, exist_ok=True)
-UA = {"User-Agent": "Mozilla/5.0 (OpenClaw preflight)"}
+UA = {"User-Agent": "Mozilla/5.0"}
 
 API = ("https://www.ebi.ac.uk/ena/portal/api/filereport?accession=PRJNA997998"
        "&result=read_run&fields=run_accession,sample_accession,experiment_title,"

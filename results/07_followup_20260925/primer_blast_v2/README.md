@@ -11,7 +11,7 @@ mm10/GRCm38 + GENCODE vM25 的本地逐碱基与 ≤1 错配扫描，见 f4 与 
 | outerGSP_v2_single | 单引物 specificity | **NCBI 不再接受脚本化单引物提交**（3 次尝试均退回表单，存证 `*_submit_fail*.html`） | 见下 |
 | nestedGSP_v2_single | 同上 | 同上 | 见下 |
 
-## 两个 RACE GSP 的等效核查（05 任务书允许"Primer-BLAST 或等效近似匹配检查"）
+## 两个 RACE GSP 的等效核查（按预先约定的等效近似匹配检查）
 
 1. 本地（主）：outer_v2/nested_v2 在 5 条 Atp2a2 转录本 + Gm30970 + chr5 基因座
    （122.40-122.51Mb）双链精确与 ≤1 错配扫描，均唯一命中目标且 Gm30970 最小错配

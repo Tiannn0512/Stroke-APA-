@@ -8,13 +8,13 @@ time course GSE238125 (MCAO vs sham). Reference: mm10/GRCm38, GENCODE vM25.
 
 ## What is here
 
-- `scripts/` — pipeline code, grouped by phase
-- `results/` — frozen result tables and figures from each phase
+- `scripts/` — analysis scripts
+- `results/` — result tables and figures from each phase
 - `docs/` — reports and the reproduction manual (`实验流程.md`, `REGENERATE.md`)
-- `figures/` — main figures, copied from `results/`
-- `tests/` — regression tests for the read-level parsers
-- `data/`, `configs/`, `envs/`, `tools/` — input anchors, frozen settings,
-  conda environments, patched DaPars2 source
+- `figures/` — main figures
+- `tests/` — tests for the read parsers
+- `data/`, `configs/`, `envs/`, `tools/` — input tables, analysis parameters,
+  conda environments, and the patched DaPars2 source
 
 Raw data is not redistributed. Sources and checksums: `data/DATA_MANIFEST.md`;
 re-download and rebuild commands: `docs/REGENERATE.md`.
@@ -69,21 +69,21 @@ are in the result tables (`evidence_class` column, rules in
 ```
 ├── README.md
 ├── LICENSE
-├── requirements.txt                   # tool/library versions (envs/ is authoritative)
-├── run_all.py                         # stage plan
-├── configs/                           # coordinate conventions, frozen parameters
-├── data/                              # DATA_MANIFEST.md + frozen input anchors
-├── docs/                              # reports, 实验流程.md, REGENERATE.md
+├── requirements.txt        # python packages; conda envs are in envs/
+├── run_all.py              # lists the pipeline stages
+├── configs/                # analysis parameters and coordinate conventions
+├── data/                   # input tables, see DATA_MANIFEST.md (no raw data in the repo)
+├── docs/                   # reports, reproduction manual (实验流程.md), REGENERATE.md
 ├── results/
-│   ├── v5_1/                          # main analysis: QC, clustering, DE, APA, regulators
-│   ├── reanalysis/                    # strand audit, candidate rebuild, BAM review
-│   ├── 06_gate1_reaudit/              # re-audit of the lead event (2026-09-24)
-│   └── 07_followup_20260925/          # structures, read evidence, PAS evidence, assays
-├── figures/                           # main figures
-├── scripts/                           # pipeline code by phase
-├── tools/DaPars2_patched/             # patched DaPars2 (empty-coverage → NA)
-├── envs/                              # conda environments
-└── tests/                             # parser regression tests
+│   ├── v5_1/               # main analysis
+│   ├── reanalysis/         # strand audit and candidate rebuild
+│   ├── 06_gate1_reaudit/   # Atp2a2 re-audit, round 1
+│   └── 07_followup_20260925/   # Atp2a2 re-audit, round 2
+├── figures/                # main figures
+├── scripts/                # analysis scripts
+├── tools/DaPars2_patched/  # DaPars2 with a small patch (empty coverage returns NA)
+├── envs/                   # conda environment files
+└── tests/                  # tests for the read parsers
 ```
 
 ## Reproducing
@@ -94,8 +94,8 @@ cd Stroke-APA-
 conda env create -f envs/bioinfo.yml   # pysam, primer3, pyfaidx, matplotlib
 conda env create -f envs/dapars2.yml
 conda env create -f envs/rlimma.yml    # R 4.3.3 + limma/edgeR
-python run_all.py                      # stage plan
-python -m pytest tests/ -q             # parser regression tests
+python run_all.py                      # lists the pipeline stages
+python -m pytest tests/ -q             # parser tests
 ```
 
 External tools: STAR 2.7.11b, samtools 1.19.2, bedtools 2.31.1, salmon 1.10.3,

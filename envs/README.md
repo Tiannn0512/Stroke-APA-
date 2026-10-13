@@ -1,6 +1,6 @@
-# envs —— WSL conda 环境导出（2026-09-23）
+# Conda environments
 
-由 `conda env export -n <env>` 生成，还原：`conda env create -f <name>.yml`。
+Exported with `conda env export`; restore with `conda env create -f <name>.yml`.
 
 | yml | 用途 | 关键包 |
 |---|---|---|

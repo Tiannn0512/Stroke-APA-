@@ -1,4 +1,4 @@
-# primer_blast_v2/README.md — NCBI Primer-BLAST 补跑记录（2026-09-25）
+# Primer-BLAST 结果
 
 数据库：RefSeq Reference / mRNA（GRCm39 现行版本；**辅助性质**——主判定为
 mm10/GRCm38 + GENCODE vM25 的本地逐碱基与 ≤1 错配扫描，见 f4 与 assay_design_verified.tsv）。

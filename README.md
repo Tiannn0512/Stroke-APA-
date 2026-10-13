@@ -5,9 +5,6 @@ astrocytes after ischemic stroke, and the 3′UTR isoform evidence for the lead
 gene **Atp2a2** (SERCA2). Built on the public FACS-sorted astrocyte stroke
 time course GSE238125 (MCAO vs sham). Reference: mm10/GRCm38, GENCODE vM25.
 
-All results in this repository are computational. No wet-lab experiments have
-been performed; the qPCR/RACE assay designs for the lead event are provided
-in silico only.
 
 ## What is here
 
